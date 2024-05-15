@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 0.8125,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Counter Fancy Left Ending (Black Granite)",
+      "description": "A black granite fancy left side ending for the Trin Modubar counter.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4"
+    ]
+  }
+}

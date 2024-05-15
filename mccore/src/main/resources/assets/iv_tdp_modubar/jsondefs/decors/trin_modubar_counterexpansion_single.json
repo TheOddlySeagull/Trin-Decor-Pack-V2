@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 0.18,
+    "depth": 0.9
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (Black Granite)",
+      "description": "A black granite counter expansion for the Trin Modubar.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:2"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:2"
+    ]
+  }
+}

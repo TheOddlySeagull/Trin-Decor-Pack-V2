@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 0.18,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_counterexpansion_angle",
+      "name": "Trin Modubar - Counter Expansion Angle (Black Granite)",
+      "description": "A black granite counter angle expansion for the Trin Modubar.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:3"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:3"
+    ]
+  }
+}

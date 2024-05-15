@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 2.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter Sink",
+      "description": "A black granite double sink with a faucet.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:8"
+    ]
+  }
+}

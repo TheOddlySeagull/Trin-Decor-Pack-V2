@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0,
+    "inventoryUnits": 2
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter With An Open Shelf (Black Granite)",
+      "description": "A black granite counter with an open shelf for the Trin Modubar.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4"
+    ]
+  }
+}

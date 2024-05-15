@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter (black granite)",
+      "description": "A black granite simple counter for the Trin Modubar.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4"
+    ]
+  }
+}
