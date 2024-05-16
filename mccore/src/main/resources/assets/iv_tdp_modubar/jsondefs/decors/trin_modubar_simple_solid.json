@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Solid Counter (black granite)",
       "description": "A black granite simple counter for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

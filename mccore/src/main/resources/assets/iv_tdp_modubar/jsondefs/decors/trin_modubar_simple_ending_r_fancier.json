@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Counter Fancy Right Ending (Black Granite)",
       "description": "A black granite fancy right side ending for the Trin Modubar counter.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],
