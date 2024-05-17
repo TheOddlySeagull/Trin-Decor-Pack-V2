@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Counter With An Open Shelf (Black Granite)",
       "description": "A black granite counter with an open shelf for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],
