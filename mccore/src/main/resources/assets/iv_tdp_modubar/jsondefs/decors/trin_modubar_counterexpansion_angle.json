@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Black Granite)",
       "description": "A black granite counter angle expansion for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:3"
+        "minecraft:gray_dye:0:3"
       ]
     }
   ],

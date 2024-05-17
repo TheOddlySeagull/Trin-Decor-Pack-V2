@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Double Counter Sink",
       "description": "A black granite double sink with a faucet.",
       "extraMaterials": [
-        "minecraft:dye:8:8"
+        "minecraft:gray_dye:0:8"
       ]
     }
   ],

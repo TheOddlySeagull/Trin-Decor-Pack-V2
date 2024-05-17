@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Long Counter Expansion (Black Granite)",
       "description": "A black granite long counter expansion for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:6"
+        "minecraft:gray_dye:0:6"
       ]
     }
   ],

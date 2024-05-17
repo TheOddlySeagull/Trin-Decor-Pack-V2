@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Counter Fridge (Black Granite)",
       "description": "A simple counter fridge with a black granite finish.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

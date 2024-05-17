@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Counter With 2 Large Drawers (Black Granite)",
       "description": "A black granite counter with two large drawers for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Trin Modubar - Counter With 6 Small Drawers (Black Granite)",
       "description": "A black granite counter with six small drawers for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Trin Modubar - Counter With 3 Wide Drawers (Black Granite)",
       "description": "A black granite counter with three wide drawers for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

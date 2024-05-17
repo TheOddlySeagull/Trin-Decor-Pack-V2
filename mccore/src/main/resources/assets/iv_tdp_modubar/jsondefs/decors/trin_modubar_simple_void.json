@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Empty Counter (black granite)",
       "description": "A black granite counter with nothing under for the Trin Modubar.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

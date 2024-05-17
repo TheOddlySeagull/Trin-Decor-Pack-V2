@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Counter Angle (black granite)",
       "description": "A black granite counter with a 90 degree angle.",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],
