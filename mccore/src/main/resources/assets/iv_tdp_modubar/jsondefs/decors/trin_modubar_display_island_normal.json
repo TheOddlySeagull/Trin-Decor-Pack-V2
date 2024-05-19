@@ -1,0 +1,59 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 1.0,
+    "depth": 1.5,
+    "inventoryUnits": 4
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_display_island_normal",
+      "name": "Refrigerated Display Island (Black Granite)",
+      "description": "A panoramic display island for chilled or frozen foods, perfect for supermarkets and convenience stores.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:12",
+      "minecraft:glass_pane:0:6",
+      "minecraft:quartz:0:4",
+      "minecraft:snowball:0:4"
+    ]
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "counterGlassDoorRight_translucent",
+        "animations": [
+          {
+            "animationType": "translation",
+            "variable": "player_interacting",
+            "axis": [0, 0, -0.5],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "counterGlassDoorLeft_translucent",
+        "animations": [
+          {
+            "animationType": "translation",
+            "variable": "player_interacting",
+            "axis": [0, 0, -0.25],
+            "duration": 15,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
