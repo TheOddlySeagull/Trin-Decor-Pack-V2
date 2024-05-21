@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_display_promotional",
-      "name": "Refrigerated Promotionnal Display (Black Granite)",
-      "description": "A small refrigerated display case for promotional items that can be squeezed into tight spaces.",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (Black Granite)",
+      "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]
