@@ -1,0 +1,26 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 1.4375,
+    "depth": 1.5,
+    "inventoryUnits": 4
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (Black Granite)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:light_gray_dye:0:12"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:12",
+      "minecraft:glass_pane:0:8"
+    ]
+  }
+}
