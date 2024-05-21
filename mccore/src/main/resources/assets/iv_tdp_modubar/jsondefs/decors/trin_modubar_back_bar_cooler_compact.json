@@ -1,0 +1,48 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0,
+    "inventoryUnits": 2
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_back_bar_cooler_compact",
+      "name": "Trin Modubar - Compact Back Bar Cooler (Black Granite)",
+      "description": "A compact back bar cooler. Perfect for keeping your drinks cool and your customers happy.",
+      "extraMaterials": [
+        "minecraft:light_gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4",
+      "minecraft:glass_pane:0:1",
+      "minecraft:quartz:0:2",
+      "minecraft:snowball:0:4"
+    ]
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "GlassDoor_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [-0.5, 0.0, 0.5],
+            "axis": [0, -100, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
