@@ -1,0 +1,74 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 1.0,
+    "inventoryUnits": 12
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "trin_modubar_multideck_fridge_tripple",
+      "name": "Multideck Tripple Fridge (Black Granite)",
+      "description": "A multideck market fridge, perfect for storing all your perishable goods.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24",
+      "minecraft:glass_pane:0:15",
+      "minecraft:quartz:0:6",
+      "minecraft:snowball:0:12"
+    ]
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "GlassDoorLeft_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [-1.5, 0.0, 0.5],
+            "axis": [0, -80, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorRight_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [1.5, 0.0, 0.5],
+            "axis": [0, 80, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorCenter_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [0.5, 0.0, 0.5],
+            "axis": [0, 80, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
