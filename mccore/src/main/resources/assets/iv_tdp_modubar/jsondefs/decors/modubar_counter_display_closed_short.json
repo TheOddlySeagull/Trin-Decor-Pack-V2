@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_display_closedtop_short",
-      "name": "Trin Modubar - Closed Top Refrigerated Display Case With Doors (Black Granite)",
-      "description": "A shorter refrigerated display case with doors, perfect for displaying cold foods and drinks.",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (Black Granite)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
@@ -21,8 +21,7 @@
     "materials": [
       "minecraft:iron_ingot:0:12",
       "minecraft:glass_pane:0:8",
-      "minecraft:quartz:0:4",
-      "minecraft:snowball:0:4"
+      "minecraft:snowball:0:6"
     ]
   },
   "rendering": {
