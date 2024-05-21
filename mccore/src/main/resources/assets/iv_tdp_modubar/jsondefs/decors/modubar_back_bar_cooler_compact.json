@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_back_bar_cooler_compact",
-      "name": "Trin Modubar - Compact Back Bar Cooler (Black Granite)",
-      "description": "A compact back bar cooler. Perfect for keeping your drinks cool and your customers happy.",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (Black Granite)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
         "minecraft:light_gray_dye:0:4"
       ]
