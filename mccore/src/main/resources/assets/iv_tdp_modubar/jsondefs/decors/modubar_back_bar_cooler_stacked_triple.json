@@ -1,0 +1,101 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 1.0,
+    "inventoryUnits": 12
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_back_bar_cooler_stacked_triple",
+      "name": "Modubar Triple Stack Back Bar Cooler (Black Granite)",
+      "description": "Triple the chill with our towering triple stack cooler, designed for maximum freshness and efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24",
+      "minecraft:glass_pane:0:6",
+      "minecraft:iron_bars:0:9",
+      "minecraft:quartz:0:6",
+      "minecraft:snowball:0:12"
+    ]
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "GlassDoorLeftTop_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [-1.5, 0.0, 0.5],
+            "axis": [0, -80, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorRightBottom_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [1.5, 0.0, 0.5],
+            "axis": [0, 70, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorCenterTop_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [0.5, 0.0, 0.5],
+            "axis": [0, 80, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorCenterBottom_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [0.5, 0.0, 0.5],
+            "axis": [0, 70, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "GlassDoorLeftBottom_translucent",
+        "animations": [
+          {
+            "animationType": "rotation",
+            "variable": "player_interacting",
+            "centerPoint": [-1.5, 0.0, 0.5],
+            "axis": [0, -70, 0],
+            "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
