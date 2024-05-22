@@ -1,0 +1,28 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 1.0,
+    "height": 2.0,
+    "depth": 1.0,
+    "inventoryUnits": 4
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (Black Granite)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:8",
+      "minecraft:glass_pane:0:5",
+      "minecraft:quartz:0:2",
+      "minecraft:snowball:0:4"
+    ]
+  }
+}
