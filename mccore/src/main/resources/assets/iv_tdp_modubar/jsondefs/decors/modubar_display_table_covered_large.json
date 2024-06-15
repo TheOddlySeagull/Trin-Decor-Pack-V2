@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 1.0,
+    "depth": 2.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Display Table Large (Black Granite)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24"
+    ]
+  }
+}

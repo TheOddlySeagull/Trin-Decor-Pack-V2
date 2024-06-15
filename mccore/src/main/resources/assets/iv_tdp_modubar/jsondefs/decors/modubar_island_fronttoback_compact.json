@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_display_island_compact",
-      "name": "Compact Refrigerated Display Island (Black Granite)",
-      "description": "A smaller variant of the panoramic display island for chilled or frozen foods, perfect for supermarkets and convenience stores.",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (Black Granite)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]

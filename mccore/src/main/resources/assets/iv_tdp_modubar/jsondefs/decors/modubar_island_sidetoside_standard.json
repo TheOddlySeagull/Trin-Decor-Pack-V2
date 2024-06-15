@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_display_island_normal",
-      "name": "Refrigerated Display Island (Black Granite)",
-      "description": "A panoramic display island for chilled or frozen foods, perfect for supermarkets and convenience stores.",
+      "modelName": "modubar_island_sidetoside_standard",
+      "name": "Island Standard Display Side-to-Side (Black Granite)",
+      "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
@@ -20,7 +20,7 @@
   "general": {
     "materials": [
       "minecraft:iron_ingot:0:12",
-      "minecraft:glass_pane:0:6",
+      "minecraft:glass_pane:0:4",
       "minecraft:quartz:0:4",
       "minecraft:snowball:0:4"
     ]
@@ -33,20 +33,8 @@
           {
             "animationType": "translation",
             "variable": "player_interacting",
-            "axis": [0, 0, -0.5],
+            "axis": [-1.25, 0, 0],
             "duration": 10,
-            "skipReverseMovement": false
-          }
-        ]
-      },
-      {
-        "objectName": "counterGlassDoorLeft_translucent",
-        "animations": [
-          {
-            "animationType": "translation",
-            "variable": "player_interacting",
-            "axis": [0, 0, -0.25],
-            "duration": 15,
             "skipReverseMovement": false
           }
         ]

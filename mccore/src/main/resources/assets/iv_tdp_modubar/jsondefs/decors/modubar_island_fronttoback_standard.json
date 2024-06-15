@@ -9,9 +9,9 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "trin_modubar_display_closedtop_flat",
-      "name": "Trin Modubar - Closed Top Refrigerated Display Case With Sliding Doors (Black Granite)",
-      "description": "A refrigerated display case with flat sliding doors, perfect for displaying cold foods and drinks.",
+      "modelName": "modubar_island_fronttoback_standard",
+      "name": "Island Standard Display Front-to-Back (Black Granite)",
+      "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
@@ -20,7 +20,7 @@
   "general": {
     "materials": [
       "minecraft:iron_ingot:0:12",
-      "minecraft:glass_pane:0:4",
+      "minecraft:glass_pane:0:6",
       "minecraft:quartz:0:4",
       "minecraft:snowball:0:4"
     ]
@@ -33,8 +33,20 @@
           {
             "animationType": "translation",
             "variable": "player_interacting",
-            "axis": [-1.25, 0, 0],
+            "axis": [0, 0, -0.5],
             "duration": 10,
+            "skipReverseMovement": false
+          }
+        ]
+      },
+      {
+        "objectName": "counterGlassDoorLeft_translucent",
+        "animations": [
+          {
+            "animationType": "translation",
+            "variable": "player_interacting",
+            "axis": [0, 0, -0.25],
+            "duration": 15,
             "skipReverseMovement": false
           }
         ]
