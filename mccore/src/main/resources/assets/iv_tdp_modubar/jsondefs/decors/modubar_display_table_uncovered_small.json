@@ -8,7 +8,7 @@
   "definitions": [
     {
       "subName": "_black_granite",
-      "modelName": "modubar_display_table_covered_small",
+      "modelName": "modubar_display_table_uncovered_small",
       "name": "Display Table Small (Black Granite)",
       "description": "Showcase your best with this sleek, small display table!",
       "extraMaterials": [
