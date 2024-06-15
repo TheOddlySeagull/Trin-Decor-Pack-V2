@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 2.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (Black Granite)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:34"
+    ]
+  }
+}

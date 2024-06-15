@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 1.0,
+    "depth": 2.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (Black Granite)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24",
+      "minecraft:glass_pane:0:5"
+    ]
+  }
+}

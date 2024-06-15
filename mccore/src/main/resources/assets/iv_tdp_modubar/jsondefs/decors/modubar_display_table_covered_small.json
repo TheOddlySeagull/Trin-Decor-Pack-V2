@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (Black Granite)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4",
+      "minecraft:glass_pane:0:2"
+    ]
+  }
+}
