@@ -1,0 +1,71 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 0.75,
+    "height": 0.73,
+    "depth": 0.75,
+    "inventoryUnits": 1
+  },
+  "definitions": [
+    {
+      "subName": "_gray",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (gray)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (white)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:white_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_red",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (red)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:red_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_tan",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (tan)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:yellow_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_brown",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (brown)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:brown_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_black",
+      "modelName": "modubar_cash_register_modern",
+      "name": "Modern Touchscreen Cash Register (black)",
+      "description": "Upgrade to sleek efficiency with our modern touchscreen cash register!",
+      "extraMaterials": [
+        "minecraft:black_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4",
+      "minecraft:glass_pane:0:1"
+    ]
+  }
+}
