@@ -1,0 +1,27 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 5.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_checkout_counter_belted_i",
+      "name": "Long Checkout Counter with Conveyor Belt (Black Granite)",
+      "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:20"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:20",
+      "minecraft:glass_pane:0:1",
+      "minecraft:wool:15:1",
+      "minecraft:redstone:0:1"
+    ]
+  }
+}

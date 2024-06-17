@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (Black Granite)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:16",
+      "minecraft:glass_pane:0:1"
+    ]
+  }
+}

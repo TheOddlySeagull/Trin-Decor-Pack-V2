@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (Black Granite)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:12",
+      "minecraft:glass_pane:0:2"
+    ]
+  }
+}

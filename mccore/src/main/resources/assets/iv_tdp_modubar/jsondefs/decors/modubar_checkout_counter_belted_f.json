@@ -1,0 +1,27 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 5.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (Black Granite)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:28",
+      "minecraft:glass_pane:0:2",
+      "minecraft:wool:15:1",
+      "minecraft:redstone:0:1"
+    ]
+  }
+}
