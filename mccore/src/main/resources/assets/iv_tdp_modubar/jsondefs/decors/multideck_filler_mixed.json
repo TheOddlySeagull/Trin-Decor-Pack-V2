@@ -32,6 +32,15 @@
       "extraMaterials": [
         "minecraft:paper:0:1"
       ]
+    },
+    {
+      "subName": "_4",
+      "modelName": "multideck_filler_mixed",
+      "name": "Multideck Filler Mixed Display (varient 4)",
+      "description": "Always look fully stocked with our mixed filler!",
+      "extraMaterials": [
+        "minecraft:paper:0:1"
+      ]
     }
   ],
   "general": {
