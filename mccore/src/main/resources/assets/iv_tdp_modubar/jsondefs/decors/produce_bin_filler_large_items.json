@@ -1,0 +1,51 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 0.3,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_watermelon",
+      "modelName": "produce_bin_filler_large_items",
+      "name": "Produce Bin Filler (watermelon)",
+      "description": "Always look fully stocked with our watermelon filler!",
+      "extraMaterials": [
+        "minecraft:melon_block:0:3"
+      ]
+    },
+    {
+      "subName": "_lettuce",
+      "modelName": "produce_bin_filler_large_items",
+      "name": "Produce Bin Filler (lettuce)",
+      "description": "Always look fully stocked with our lettuce filler!",
+      "extraMaterials": [
+        "minecraft:leaves:0:3"
+      ]
+    },
+    {
+      "subName": "_pumpkin",
+      "modelName": "produce_bin_filler_large_items",
+      "name": "Produce Bin Filler (pumpkin)",
+      "description": "Always look fully stocked with our pumpkin filler!",
+      "extraMaterials": [
+        "minecraft:pumpkin:0:3"
+      ]
+    },
+    {
+      "subName": "_squash",
+      "modelName": "produce_bin_filler_large_items",
+      "name": "Produce Bin Filler (squash)",
+      "description": "Always look fully stocked with our squash filler!",
+      "extraMaterials": [
+        "minecraft:pumpkin:0:3"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:wool:0:1"
+    ]
+  }
+}
