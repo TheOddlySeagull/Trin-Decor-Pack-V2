@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_produce_bin_modubar",
+      "name": "Modern Produce Bin (Black Granite)",
+      "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:4"
+    ]
+  }
+}

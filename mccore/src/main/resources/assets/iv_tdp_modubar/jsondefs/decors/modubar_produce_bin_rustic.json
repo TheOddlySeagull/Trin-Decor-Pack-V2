@@ -1,0 +1,68 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_oak",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Oak)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_birch",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Birch)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:2:4"
+      ]
+    },
+    {
+      "subName": "_spruce",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Spruce)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:1:4"
+      ]
+    },
+    {
+      "subName": "_jungle",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Jungle)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:3:4"
+      ]
+    },
+    {
+      "subName": "_acacia",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Acacia)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:4:4"
+      ]
+    },
+    {
+      "subName": "_darkoak",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Dark Oak)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:5:4"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+    ]
+  }
+}
