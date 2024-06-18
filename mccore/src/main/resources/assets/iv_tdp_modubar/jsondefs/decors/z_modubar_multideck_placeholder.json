@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "z_modubar_multideck_placeholder",
+      "name": "Placeholder Multideck",
+      "description": "Helps pack authors to offset their conventionnal multideck fillers correctly.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:8"
+    ]
+  }
+}
