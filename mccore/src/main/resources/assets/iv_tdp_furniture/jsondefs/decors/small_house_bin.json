@@ -1,9 +1,9 @@
 {
   "decor": {
     "type": "generic",
-    "width": 1,
-    "height": 1,
-    "depth": 1
+    "width": 0.62,
+    "height": 0.87,
+    "depth": 0.75
   },
   "definitions": [
     {
@@ -55,9 +55,9 @@
           {
             "animationType": "rotation",
             "variable": "activated",
-            "centerPoint": [0, 0.8125, 0.3125],
+            "centerPoint": [0, 0.8125, -0.3125],
             "axis": [-60.0,0.0,0.0],
-            "duration": 20,
+            "duration": 10,
             "skipReverseMovement": false
           }
         ]

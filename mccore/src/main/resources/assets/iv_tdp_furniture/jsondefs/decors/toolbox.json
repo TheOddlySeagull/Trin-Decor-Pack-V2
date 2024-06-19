@@ -1,9 +1,10 @@
 {
   "decor": {
-    "type": "generic",
+    "type": "chest",
     "width": 0.25,
     "height": 0.5,
-    "depth": 0.25
+    "depth": 0.25,
+    "inventoryUnits": 1
   },
   "definitions": [
     {
@@ -13,10 +14,6 @@
       "extraMaterials": []
     }
   ],
-  "prefixFolders": "",
-  "packID": "iv_tpp",
-  "systemName": "toolbox",
-  "classification": "decor",
   "general": {
     "name": "Garage Toolbox",
     "materials": ["minecraft:iron_ingot:0:4","minecraft:red_dye:0:2"]
