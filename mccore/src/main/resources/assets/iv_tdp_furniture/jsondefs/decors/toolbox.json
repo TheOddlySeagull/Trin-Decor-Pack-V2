@@ -19,6 +19,6 @@
   "classification": "decor",
   "general": {
     "name": "Garage Toolbox",
-    "materials": ["minecraft:iron_ingot:0:4","minecraft:dye:1:2"]
+    "materials": ["minecraft:iron_ingot:0:4","minecraft:red_dye:0:2"]
   }
 }

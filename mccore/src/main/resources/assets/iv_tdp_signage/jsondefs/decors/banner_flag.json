@@ -11,14 +11,14 @@
       "modelName": "banner_flag",
       "name": "banner flag",
       "description": "Trin",
-      "extraMaterials": ["minecraft:dye:12:3"]
+      "extraMaterials": ["minecraft:light_blue_dye:0:3"]
     },
     {
       "subName": "_unuparts",
       "modelName": "banner_flag",
       "name": "banner flag",
       "description": "Trin",
-      "extraMaterials": ["minecraft:dye:12:3"]
+      "extraMaterials": ["minecraft:light_blue_dye:0:3"]
     }
   ],
   "prefixFolders": "",

@@ -10,31 +10,31 @@
       "subName": "_copper",
       "modelName": "ventilation_unit_industrial_2x4x2",
       "name": "Industrial Ventilation Unit - Copper",
-      "extraMaterials": ["minecraft:dye:3:3"]
+      "extraMaterials": ["minecraft:brown_dye:0:3"]
     },
     {
       "subName": "_green",
       "modelName": "ventilation_unit_industrial_2x4x2",
       "name": "Industrial Ventilation Unit - Green",
-      "extraMaterials": ["minecraft:dye:2:3"]
+      "extraMaterials": ["minecraft:green_dye:0:3"]
     },
     {
       "subName": "_white",
       "modelName": "ventilation_unit_industrial_2x4x2",
       "name": "Industrial Ventilation Unit - White",
-      "extraMaterials": ["minecraft:dye:15:3"]
+      "extraMaterials": ["minecraft:white_dye:0:3"]
     },
     {
       "subName": "_black",
       "modelName": "ventilation_unit_industrial_2x4x2",
       "name": "Industrial Ventilation Unit - Black",
-      "extraMaterials": ["minecraft:dye:0:3"]
+      "extraMaterials": ["minecraft:black_dye:0:3"]
     },
     {
       "subName": "_trin",
       "modelName": "ventilation_unit_industrial_2x4x2",
       "name": "Industrial Ventilation Unit - Trin",
-      "extraMaterials": ["minecraft:dye:12:2","minecraft:dye:7:1"]
+      "extraMaterials": ["minecraft:light_blue_dye:0:2","minecraft:light_gray_dye:0:1"]
     }
   ],
   "general": {

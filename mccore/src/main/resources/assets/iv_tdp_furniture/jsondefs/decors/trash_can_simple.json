@@ -10,121 +10,121 @@
       "subName": "_open_gray_blue",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - gray with blue lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:12:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:light_blue_dye:0:1"]
     },
 	{
       "subName": "_open_gray_gray",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - gray with gray lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:gray_dye:0:1"]
     },
 	{
       "subName": "_open_gray_green",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - gray with green lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:10:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:lime_dye:0:1"]
     },
 	{
       "subName": "_open_gray_red",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - gray with red lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:1:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:red_dye:0:1"]
     },
 	{
       "subName": "_open_gray_yellow",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - gray with yellow lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:11:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:yellow_dye:0:1"]
     },
 	{
       "subName": "_open_white_blue",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - white with blue lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:12:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:light_blue_dye:0:1"]
     },
 	{
       "subName": "_open_white_gray",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - white with gray lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:gray_dye:0:1"]
     },
 	{
       "subName": "_open_white_green",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - white with green lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:10:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:lime_dye:0:1"]
     },
 	{
       "subName": "_open_white_red",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - white with red lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:1:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:red_dye:0:1"]
     },
 	{
       "subName": "_open_white_yellow",
       "modelName": "trash_can_simple_open",
       "name": "Simple Opened Trash Can - white with yellow lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:11:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:yellow_dye:0:1"]
     },
 	{
       "subName": "_closed_gray_blue",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - gray with blue lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:12:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:light_blue_dye:0:1"]
     },
 	{
       "subName": "_closed_gray_gray",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - gray with gray lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:gray_dye:0:1"]
     },
 	{
       "subName": "_closed_gray_green",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - gray with green lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:10:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:lime_dye:0:1"]
     },
 	{
       "subName": "_closed_gray_red",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - gray with red lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:1:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:red_dye:0:1"]
     },
 	{
       "subName": "_closed_gray_yellow",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - gray with yellow lid",
-      "extraMaterials": ["minecraft:dye:8:3","minecraft:dye:11:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:3","minecraft:yellow_dye:0:1"]
     },
 	{
       "subName": "_closed_white_blue",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - white with blue lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:12:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:light_blue_dye:0:1"]
     },
 	{
       "subName": "_closed_white_gray",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - white with gray lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:gray_dye:0:1"]
     },
 	{
       "subName": "_closed_white_green",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - white with green lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:10:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:lime_dye:0:1"]
     },
 	{
       "subName": "_closed_white_red",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - white with red lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:1:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:red_dye:0:1"]
     },
 	{
       "subName": "_closed_white_yellow",
       "modelName": "trash_can_simple_closed",
       "name": "Simple Closed Trash Can - white with yellow lid",
-      "extraMaterials": ["minecraft:dye:15:3","minecraft:dye:11:1"]
+      "extraMaterials": ["minecraft:white_dye:0:3","minecraft:yellow_dye:0:1"]
     }
   ],
   "general": {

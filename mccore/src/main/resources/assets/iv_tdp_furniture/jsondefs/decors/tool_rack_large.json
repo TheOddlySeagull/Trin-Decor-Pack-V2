@@ -19,6 +19,6 @@
   "classification": "decor",
   "general": {
     "name": "Large Garage Tool Rack",
-    "materials": ["minecraft:iron_ingot:0:8","minecraft:dye:14:4","mts:iv_tpp.metal_pile_5:0:2"]
+    "materials": ["minecraft:iron_ingot:0:8","minecraft:orange_dye:0:4","mts:iv_tpp.metal_pile_5:0:2"]
   }
 }

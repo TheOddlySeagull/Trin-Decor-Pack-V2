@@ -1,9 +1,10 @@
 {
   "decor": {
-    "type": "generic",
+    "type": "seat",
     "width": 0.5,
     "height": 0.5,
-    "depth": 0.5
+    "depth": 0.5,
+    "sittingOffset": 0.5
   },
   "definitions": [
     {
@@ -52,37 +53,37 @@
       "subName": "_interior_gray",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - Gray",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:8:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:gray_dye:0:2"]
     },
 	{
       "subName": "_interior_white",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - White",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:15:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:white_dye:0:2"]
     },
 	{
       "subName": "_interior_red",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - Red",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:1:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:red_dye:0:2"]
     },
 	{
       "subName": "_interior_tan",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - Tan",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:11:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:yellow_dye:0:2"]
     },
 	{
       "subName": "_interior_brown",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - Brown",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:3:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:brown_dye:0:2"]
     },
 	{
       "subName": "_interior_black",
       "modelName": "furniture_chair",
       "name": "(Decor) Interior Chair - Black",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:black_dye:0:2"]
     }
   ],
   "general": {

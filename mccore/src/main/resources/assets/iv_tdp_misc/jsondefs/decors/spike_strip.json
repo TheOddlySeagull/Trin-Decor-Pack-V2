@@ -10,13 +10,13 @@
       "subName": "_trin",
       "modelName": "spike_strip",
       "name": "Spike Strip Segment - Trin",
-      "extraMaterials": ["minecraft:dye:12:1","minecraft:dye:8:1","minecraft:dye:12:0"]
+      "extraMaterials": ["minecraft:light_blue_dye:0:1","minecraft:gray_dye:0:1","minecraft:light_blue_dye:0:0"]
     },
 	{
       "subName": "_gray",
       "modelName": "spike_strip",
       "name": "Spike Strip Segment - Gray",
-      "extraMaterials": ["minecraft:dye:0:2","minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:black_dye:0:2","minecraft:gray_dye:0:1"]
     }
   ],
   "general": {

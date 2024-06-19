@@ -1,9 +1,10 @@
 {
   "decor": {
-    "type": "generic",
+    "type": "chest",
     "width": 1.0,
     "height": 1.0,
-    "depth": 1.0
+    "depth": 1.0,
+    "inventoryUnits": 3
   },
   "definitions": [
     {
@@ -19,6 +20,6 @@
   "classification": "decor",
   "general": {
     "name": "Garage Furniture - cabinet",
-    "materials": ["minecraft:iron_ingot:0:5","minecraft:planks:1:1","minecraft:dye:1:2"]
+    "materials": ["minecraft:iron_ingot:0:5","minecraft:planks:1:1","minecraft:red_dye:0:2"]
   }
 }

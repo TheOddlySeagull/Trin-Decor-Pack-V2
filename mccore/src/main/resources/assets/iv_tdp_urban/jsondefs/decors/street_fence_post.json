@@ -10,25 +10,25 @@
       "subName": "_chrome",
       "modelName": "street_fence_post",
       "name": "Street Fence Post - chrome",
-      "extraMaterials": ["minecraft:dye:7:1"]
+      "extraMaterials": ["minecraft:light_gray_dye:0:1"]
     },
     {
       "subName": "_copper",
       "modelName": "street_fence_post",
       "name": "Street Fence Post - copper",
-      "extraMaterials": ["minecraft:dye:3:1"]
+      "extraMaterials": ["minecraft:brown_dye:0:1"]
     },
     {
       "subName": "_gray",
       "modelName": "street_fence_post",
       "name": "Street Fence Post - gray",
-      "extraMaterials": ["minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:1"]
     },
     {
       "subName": "_green",
       "modelName": "street_fence_post",
       "name": "Street Fence Post - green",
-      "extraMaterials": ["minecraft:dye:2:1"]
+      "extraMaterials": ["minecraft:green_dye:0:1"]
     },
     {
       "subName": "_rust",
@@ -40,7 +40,7 @@
       "subName": "_white",
       "modelName": "street_fence_post",
       "name": "Street Fence Post - white",
-      "extraMaterials": ["minecraft:dye:15:1"]
+      "extraMaterials": ["minecraft:white_dye:0:1"]
     }
   ],
   "prefixFolders": "",

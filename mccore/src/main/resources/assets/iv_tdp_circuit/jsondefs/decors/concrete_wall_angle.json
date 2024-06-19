@@ -16,19 +16,19 @@
       "subName": "_doubletone",
       "modelName": "concrete_wall_angle",
       "name": "Road Median Concrete Wall Angle - darker base",
-      "extraMaterials": ["minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:1"]
     },
 	{
       "subName": "_red",
       "modelName": "concrete_wall_angle",
       "name": "Road Median Concrete Wall Angle - red",
-      "extraMaterials": ["minecraft:dye:1:2"]
+      "extraMaterials": ["minecraft:red_dye:0:2"]
     },
 	{
       "subName": "_white",
       "modelName": "concrete_wall_angle",
       "name": "Road Median Concrete Wall Angle - white",
-      "extraMaterials": ["minecraft:dye:15:2"]
+      "extraMaterials": ["minecraft:white_dye:0:2"]
     }
   ],
   "general": {

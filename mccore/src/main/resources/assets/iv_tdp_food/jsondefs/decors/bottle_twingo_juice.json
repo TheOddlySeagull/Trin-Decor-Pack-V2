@@ -11,28 +11,28 @@
       "modelName": "bottle_twingo_juice",
       "name": "Red Twingo Juice™ Bottle",
 	  "description": "definitely not radioactive",
-      "extraMaterials": ["minecraft:dye:1:5"]
+      "extraMaterials": ["minecraft:red_dye:0:5"]
     },
 	{
       "subName": "_green",
       "modelName": "bottle_twingo_juice",
       "name": "Green Twingo Juice™ Bottle",
 	  "description": "definitely not radioactive",
-      "extraMaterials": ["minecraft:dye:2:5"]
+      "extraMaterials": ["minecraft:green_dye:0:5"]
     },
 	{
       "subName": "_yellow",
       "modelName": "bottle_twingo_juice",
       "name": "Yellow Twingo Juice™ Bottle",
 	  "description": "definitely not radioactive",
-      "extraMaterials": ["minecraft:dye:11:5"]
+      "extraMaterials": ["minecraft:yellow_dye:0:5"]
     },
 	{
       "subName": "_blue",
       "modelName": "bottle_twingo_juice",
       "name": "Blue Twingo Juice™ Bottle",
 	  "description": "definitely not radioactive",
-      "extraMaterials": ["minecraft:dye:4:5"]
+      "extraMaterials": ["minecraft:blue_dye:0:5"]
     }
   ],
   "general": {

@@ -12,25 +12,25 @@
       "subName": "_beam_chrome",
       "name": "Wire Mesh Fence - Chrome Pole",
 		"description": "straight, with pole",
-      "extraMaterials": ["minecraft:dye:7:1"]
+      "extraMaterials": ["minecraft:light_gray_dye:0:1"]
     },
     {
       "subName": "_beam_copper",
       "name": "Wire Mesh Fence - Copper Pole",
 		"description": "straight, with pole",
-      "extraMaterials": ["minecraft:dye:3:1"]
+      "extraMaterials": ["minecraft:brown_dye:0:1"]
     },
     {
       "subName": "_beam_gray",
       "name": "Wire Mesh Fence - Gray Pole",
 		"description": "straight, with pole",
-      "extraMaterials": ["minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:1"]
     },
     {
       "subName": "_beam_green",
       "name": "Wire Mesh Fence - Green Pole",
 		"description": "straight, with pole",
-      "extraMaterials": ["minecraft:dye:2:1"]
+      "extraMaterials": ["minecraft:green_dye:0:1"]
     },
     {
       "subName": "_beam_rust",
@@ -42,31 +42,31 @@
       "subName": "_beam_white",
       "name": "Wire Mesh Fence - White Pole",
 		"description": "straight, with pole",
-      "extraMaterials": ["minecraft:dye:15:1"]
+      "extraMaterials": ["minecraft:white_dye:0:1"]
     },
 	{
       "subName": "_beamless_chrome",
       "name": "Wire Mesh Fence - Chrome Beams",
 		"description": "straight, without pole",
-      "extraMaterials": ["minecraft:dye:7:1"]
+      "extraMaterials": ["minecraft:light_gray_dye:0:1"]
     },
     {
       "subName": "_beamless_copper",
       "name": "Wire Mesh Fence - Copper  Beams",
 		"description": "straight, without pole",
-      "extraMaterials": ["minecraft:dye:3:1"]
+      "extraMaterials": ["minecraft:brown_dye:0:1"]
     },
     {
       "subName": "_beamless_gray",
       "name": "Wire Mesh Fence - Gray  Beams",
 		"description": "straight, without pole",
-      "extraMaterials": ["minecraft:dye:8:1"]
+      "extraMaterials": ["minecraft:gray_dye:0:1"]
     },
     {
       "subName": "_beamless_green",
       "name": "Wire Mesh Fence - Green  Beams",
 		"description": "straight, without pole",
-      "extraMaterials": ["minecraft:dye:2:1"]
+      "extraMaterials": ["minecraft:green_dye:0:1"]
     },
     {
       "subName": "_beamless_rust",
@@ -78,7 +78,7 @@
       "subName": "_beamless_white",
       "name": "Wire Mesh Fence - White  Beams",
 		"description": "straight, without pole",
-      "extraMaterials": ["minecraft:dye:15:1"]
+      "extraMaterials": ["minecraft:white_dye:0:1"]
     }
 	]
 }
