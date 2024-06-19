@@ -1,0 +1,70 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 1.0,
+    "inventoryUnits": 9
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Generic Free-Standing Rack Triple (Chrome)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Industrial Free-Standing Rack Triple (Copper)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Industrial Free-Standing Rack Triple (Gray)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_green",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Industrial Free-Standing Rack Triple (Green)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Industrial Free-Standing Rack Triple (Rust)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white",
+      "modelName": "modubar_freestanding_market_rack_triple",
+      "name": "Industrial Free-Standing Rack Triple (White)",
+      "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24"
+    ]
+  }
+}

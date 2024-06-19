@@ -1,0 +1,70 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 1.0,
+    "height": 2.0,
+    "depth": 1.0,
+    "inventoryUnits": 3
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (Chrome)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (Copper)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (Gray)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    },
+    {
+      "subName": "_green",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (Green)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (Rust)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    },
+    {
+      "subName": "_white",
+      "modelName": "modubar_freestanding_industrial_rack_simple",
+      "name": "Industrial Free-Standing Rack Simple (White)",
+      "description": "Sturdy and sleek, our simple industrial rack adds a robust touch to your space!",
+      "extraMaterials": [
+        "minecraft:gray_dye:8:8"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:8"
+    ]
+  }
+}
