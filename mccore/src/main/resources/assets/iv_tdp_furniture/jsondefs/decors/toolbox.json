@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.25,
+    "height": 0.5,
+    "depth": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "toolbox",
+      "name": "Garage Toolbox",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "toolbox",
+  "classification": "decor",
+  "general": {
+    "name": "Garage Toolbox",
+    "materials": ["minecraft:iron_ingot:0:4","minecraft:dye:1:2"]
+  }
+}

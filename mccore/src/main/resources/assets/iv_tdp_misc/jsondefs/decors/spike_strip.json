@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_trin",
+      "modelName": "spike_strip",
+      "name": "Spike Strip Segment - Trin",
+      "extraMaterials": ["minecraft:dye:12:1","minecraft:dye:8:1","minecraft:dye:12:0"]
+    },
+	{
+      "subName": "_gray",
+      "modelName": "spike_strip",
+      "name": "Spike Strip Segment - Gray",
+      "extraMaterials": ["minecraft:dye:0:2","minecraft:dye:8:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:2"]
+  }
+}

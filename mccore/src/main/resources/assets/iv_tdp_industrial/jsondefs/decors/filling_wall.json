@@ -1,0 +1,34 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+	{
+      "subName": "_cement_brick",
+      "modelName": "filling_wall",
+      "name": "Cement Brick Wall",
+	  "description": "Perfect to fill blocked windows!",
+      "extraMaterials": []
+    },
+	{
+      "subName": "_wood_panel",
+      "modelName": "filling_wall",
+      "name": "Wood Panel Wall",
+	  "description": "Perfect to fill blocked windows!",
+      "extraMaterials": []
+    },
+	{
+      "subName": "_rust_panel",
+      "modelName": "filling_wall",
+      "name": "Rust Panel Wall",
+	  "description": "Perfect to fill blocked windows!",
+      "extraMaterials": []
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:stone:0:1"]
+  }
+}

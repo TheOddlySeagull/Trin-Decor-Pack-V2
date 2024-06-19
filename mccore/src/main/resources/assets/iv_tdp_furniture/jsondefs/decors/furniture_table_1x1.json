@@ -1,0 +1,91 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+    {
+      "subName": "_wood_oak",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Oak Wood",
+      "extraMaterials": ["minecraft:planks:0:2"]
+    },
+	{
+      "subName": "_wood_spruce",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Spruce Wood",
+      "extraMaterials": ["minecraft:planks:1:2"]
+    },
+	{
+      "subName": "_wood_birch",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Birch Wood",
+      "extraMaterials": ["minecraft:planks:2:2"]
+    },
+	{
+      "subName": "_wood_jungle",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Jungle Wood",
+      "extraMaterials": ["minecraft:planks:3:2"]
+    },
+	{
+      "subName": "_wood_acacia",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Acacia Wood",
+      "extraMaterials": ["minecraft:planks:4:2"]
+    },
+	{
+      "subName": "_wood_darkoak",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Dark Oak Wood",
+      "extraMaterials": ["minecraft:planks:5:2"]
+    },
+	{
+      "subName": "_wood_custom",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Wooden Table [1*1] - Trin Custom Wood",
+      "extraMaterials": ["minecraft:planks:1:2"]
+    },
+	{
+      "subName": "_interior_gray",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - Gray",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:8:2"]
+    },
+	{
+      "subName": "_interior_white",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - White",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:15:2"]
+    },
+	{
+      "subName": "_interior_red",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - Red",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:1:2"]
+    },
+	{
+      "subName": "_interior_tan",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - Tan",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:11:2"]
+    },
+	{
+      "subName": "_interior_brown",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - Brown",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:3:2"]
+    },
+	{
+      "subName": "_interior_black",
+      "modelName": "furniture_table_1x1",
+      "name": "(Decor) Interior Table [1*1] - Black",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:0:2"]
+    }
+  ],
+  "general": {
+    "materials": []
+  }
+}

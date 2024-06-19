@@ -1,0 +1,20 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "rim_showcase_shelf_backwall",
+      "name": "Rim Showcase Shelf Backwall",
+      "extraMaterials": []
+    }
+  ],
+  "general": {
+	"stackSize": 64,
+    "materials": ["mts:iv_tpp.metal_pile_5:0:2","minecraft:iron_ingot:0:4"]
+  }
+}

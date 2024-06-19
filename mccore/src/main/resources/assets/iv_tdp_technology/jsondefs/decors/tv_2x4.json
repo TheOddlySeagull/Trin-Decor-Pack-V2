@@ -1,0 +1,35 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 4.0,
+    "height": 2.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_black",
+      "modelName": "tv_2x4",
+      "name": "GIGANTIC TV - black screen",
+      "extraMaterials": ["minecraft:redstone:0:2"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "tv_2x4",
+      "name": "GIGANTIC TV - green screen",
+      "extraMaterials": ["minecraft:redstone:0:2"]
+    },
+    {
+      "subName": "_test",
+      "modelName": "tv_2x4",
+      "name": "GIGANTIC TV - test screen",
+      "extraMaterials": ["minecraft:redstone:0:2"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "tv_2x4",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:8","mts:iv_tpp.metal_pile_2:0:2","minecraft:glass_pane:0:8","minecraft:glowstone_dust:0:8"]
+  }
+}

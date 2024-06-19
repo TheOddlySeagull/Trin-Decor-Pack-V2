@@ -1,0 +1,31 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 2.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_trin",
+      "modelName": "banner_flag",
+      "name": "banner flag",
+      "description": "Trin",
+      "extraMaterials": ["minecraft:dye:12:3"]
+    },
+    {
+      "subName": "_unuparts",
+      "modelName": "banner_flag",
+      "name": "banner flag",
+      "description": "Trin",
+      "extraMaterials": ["minecraft:dye:12:3"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "banner_flag",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:1","minecraft:paper:0:4"]
+  }
+}

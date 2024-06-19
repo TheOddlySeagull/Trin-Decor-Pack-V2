@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "18t_wheel_4x",
+      "name": "Pile of Huge Alloy Wheels",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "18t_wheel_4x",
+  "classification": "decor",
+  "general": {
+    "name": "Pile of Huge Alloy Wheels",
+    "materials": ["mts:iv_tpp.wheel_18h_6w_rim1_or:0:4"]
+  }
+}

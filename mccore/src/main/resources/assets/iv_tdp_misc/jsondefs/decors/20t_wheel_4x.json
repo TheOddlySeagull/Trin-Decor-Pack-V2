@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "20t_wheel_4x",
+      "name": "Pile of Giant Allow Wheels",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "20t_wheel_4x",
+  "classification": "decor",
+  "general": {
+    "name": "Pile of Giant Allow Wheels",
+    "materials": ["mts:iv_tpp.wheel_20h_6w_rim2_or:0:4"]
+  }
+}

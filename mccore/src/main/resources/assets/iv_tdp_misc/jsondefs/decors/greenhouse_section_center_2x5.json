@@ -1,0 +1,49 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - Chrome",
+      "extraMaterials": ["minecraft:dye:7:3"]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - Copper",
+      "extraMaterials": ["minecraft:dye:3:3"]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - Gray",
+      "extraMaterials": ["minecraft:dye:8:3"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - Green",
+      "extraMaterials": ["minecraft:dye:2:3"]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - Rust",
+      "extraMaterials": ["minecraft:dirt:0:3"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "greenhouse_section_center_2x5_default",
+      "name": "Greenhouse Segment (2x5) - White",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:16","minecraft:stained_glass_pane:8:12"]
+  }
+}

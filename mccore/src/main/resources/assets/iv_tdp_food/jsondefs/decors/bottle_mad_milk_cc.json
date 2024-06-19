@@ -1,0 +1,31 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_ssm",
+      "modelName": "bottle_mad_milk_cc",
+      "name": "Semi-Skimmed Mad Milk™ Bottle",
+      "extraMaterials": ["minecraft:dye:12:1"]
+    },
+	{
+      "subName": "_sm",
+      "modelName": "bottle_mad_milk_cc",
+      "name": "Skimmed Mad Milk™ Bottle",
+      "extraMaterials": ["minecraft:dye:2:1"]
+    },
+	{
+      "subName": "_wm",
+      "modelName": "bottle_mad_milk_cc",
+      "name": "Whole Mad Milk™ Bottle",
+      "extraMaterials": ["minecraft:dye:1:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:glass_bottle:0:1","minecraft:milk_bucket:0:1"]
+  }
+}

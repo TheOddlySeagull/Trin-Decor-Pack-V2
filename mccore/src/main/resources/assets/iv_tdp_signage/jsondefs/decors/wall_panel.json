@@ -1,0 +1,181 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+	{//small out of business
+      "subName": "_small_outofbusiness",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Out Of Business",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_outofbusiness"
+    },
+	{//normal out of business
+      "subName": "_normal_outofbusiness",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Out Of Business",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_outofbusiness"
+    },
+	{//large out of business
+      "subName": "_large_outofbusiness",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Out Of Business",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_outofbusiness"
+    },
+	{//small blacksby concrete
+      "subName": "_small_blacksbyconcrete",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Blacksby Concrete",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_blacksbyconcrete"
+    },
+	{//normal blacksby concrete
+      "subName": "_normal_blacksbyconcrete",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Blacksby Concrete",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_blacksbyconcrete"
+    },
+	{//large blacksby concrete
+      "subName": "_large_blacksbyconcrete",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Blacksby Concrete",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_blacksbyconcrete"
+    },
+	{//small junkyard
+      "subName": "_small_junkyard",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Junkyard",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_junkyard"
+    },
+	{//normal junkyard
+      "subName": "_normal_junkyard",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Junkyard",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_junkyard"
+    },
+	{//large junkyard
+      "subName": "_large_junkyard",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Junkyard",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_junkyard"
+    },
+	{//small Gramados Multi-service
+      "subName": "_small_gramadosmultiservice",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Gramados Multi-Service",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_gramadosmultiservice"
+    },
+	{//normal Gramados Multi-service
+      "subName": "_normal_gramadosmultiservice",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Gramados Multi-Service",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_gramadosmultiservice"
+    },
+	{//large Gramados Multi-service
+      "subName": "_large_gramadosmultiservice",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Gramados Multi-Service",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_gramadosmultiservice"
+    },
+	{//small Motel-Food
+      "subName": "_small_motelfood",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Motel & Food",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_motelfood"
+    },
+	{//normal Motel-Food
+      "subName": "_normal_motelfood",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Motel & Food",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_motelfood"
+    },
+	{//large Motel-Food
+      "subName": "_large_motelfood",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Motel & Food",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_motelfood"
+    },
+	{//small Trin
+      "subName": "_small_trin",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Trin",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_trin"
+    },
+	{//normal Trin
+      "subName": "_normal_trin",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Trin",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_trin"
+    },
+	{//large Trin
+      "subName": "_large_trin",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Trin",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_trin"
+    },
+	{//small Retro Garage
+      "subName": "_small_retrogarage",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Retro Garage",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_retrogarage"
+    },
+	{//normal Retro Garage
+      "subName": "_normal_retrogarage",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Retro Garage",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_retrogarage"
+    },
+	{//large Retro Garage
+      "subName": "_large_retrogarage",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Retro Garage",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_retrogarage"
+    },
+	{//small Now Open
+      "subName": "_small_nowopen",
+      "modelName": "wall_panel_small",
+      "name": "Small Wall Panel - Now Open",
+      "extraMaterials": [],
+	  "textureName":"wall_panel_nowopen"
+    },
+	{//normal Now Open
+      "subName": "_normal_nowopen",
+      "modelName": "wall_panel_normal",
+      "name": "Wall Panel - Now Open",
+      "extraMaterials": ["minecraft:iron_ingot:0:1"],
+	  "textureName":"wall_panel_nowopen"
+    },
+	{//large Now Open
+      "subName": "_large_nowopen",
+      "modelName": "wall_panel_large",
+      "name": "Large Wall Panel - Now Open",
+      "extraMaterials": ["minecraft:iron_ingot:0:3"],
+	  "textureName":"wall_panel_nowopen"
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:1"]
+  }
+}

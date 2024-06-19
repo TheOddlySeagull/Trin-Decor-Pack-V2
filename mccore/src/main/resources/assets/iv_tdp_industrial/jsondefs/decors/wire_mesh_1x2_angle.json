@@ -1,0 +1,48 @@
+{
+	"general": {
+		"width" : 1,
+		"height" : 2,
+		"depth" : 1,
+		"oriented" : true,
+		"modelName" : "wire_mesh_1x2_angle",
+		"materials" : ["minecraft:iron_ingot:0:4","mts:iv_tpp.metal_pile_4:0:2"]
+	},
+	"definitions": [
+	{
+      "subName": "_chrome",
+      "name": "Wire Mesh Fence Angle - Chrome Pole",
+		"description": "angle",
+      "extraMaterials": ["minecraft:dye:7:1"]
+    },
+    {
+		"subName": "_copper",
+		"name": "Wire Mesh Fence Angle - Copper Pole",
+		"description": "angle",
+		"extraMaterials": ["minecraft:dye:3:1"]
+    },
+    {
+      "subName": "_gray",
+      "name": "Wire Mesh Fence Angle - Gray Pole",
+		"description": "angle",
+      "extraMaterials": ["minecraft:dye:8:1"]
+    },
+    {
+      "subName": "_green",
+      "name": "Wire Mesh Fence Angle - Green Pole",
+		"description": "angle",
+      "extraMaterials": ["minecraft:dye:2:1"]
+    },
+    {
+      "subName": "_rust",
+      "name": "Wire Mesh Fence Angle - Rusty Pole",
+		"description": "angle",
+      "extraMaterials": ["minecraft:dirt:0:1"]
+    },
+    {
+      "subName": "_white",
+      "name": "Wire Mesh Fence Angle - White Pole",
+		"description": "angle",
+      "extraMaterials": ["minecraft:dye:15:1"]
+    }
+	]
+}

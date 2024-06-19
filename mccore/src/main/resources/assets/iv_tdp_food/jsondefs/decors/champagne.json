@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "champagne",
+      "name": "Champagne",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "champagne",
+  "classification": "decor",
+  "general": {
+    "name": "Champagne",
+    "materials": ["minecraft:glass_bottle:0:1","minecraft:diamond:0:1"]
+  }
+}

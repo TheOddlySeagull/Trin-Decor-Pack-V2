@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "11t_wheel_4x",
+      "name": "Pile of Small Steely Wheels",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "11t_wheel_4x",
+  "classification": "decor",
+  "general": {
+    "name": "Pile of Small Steely Wheels",
+    "materials": ["mts:iv_tpp.wheel_11h_3w_steely_c:0:4"]
+  }
+}

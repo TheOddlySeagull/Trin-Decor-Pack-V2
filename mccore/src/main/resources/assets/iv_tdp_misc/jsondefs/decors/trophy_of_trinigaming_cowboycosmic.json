@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "trophy_of_trinigaming_cowboycosmic",
+      "name": "The Trophy Of Trinigaming - Cowboycosmic",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "trophy_of_trinigaming_cowboycosmic",
+  "classification": "decor",
+  "general": {
+    "name": "The Trophy Of Trinigaming - Cowboycosmic",
+    "materials": ["minecraft:gold_block:0:10","mts:iv_tcp_v3.trin_devom_substantial_firered_g:0:1"]
+  }
+}

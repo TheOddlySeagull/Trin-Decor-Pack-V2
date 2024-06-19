@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 3.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "junkyard_1",
+      "name": "Junkyard Car",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "junkyard_1",
+  "classification": "decor",
+  "general": {
+    "name": "Junkyard Car",
+    "materials": ["minecraft:iron_ingot:0:16"]
+  }
+}

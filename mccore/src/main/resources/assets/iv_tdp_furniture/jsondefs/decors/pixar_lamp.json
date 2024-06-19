@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "pixar_lamp",
+      "name": "A lamp jumping on an I",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "pixar_lamp",
+  "classification": "decor",
+  "general": {
+    "name": "A lamp jumping on an I",
+    "materials": ["minecraft:glowstone_dust:0:1","minecraft:redstone:0:1","minecraft:iron_ingot:0:1","minecraft:dye:15:1"]
+  }
+}

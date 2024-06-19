@@ -1,0 +1,41 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+	{
+      "subName": "_red",
+      "modelName": "bottle_twingo_juice",
+      "name": "Red Twingo Juice™ Bottle",
+	  "description": "definitely not radioactive",
+      "extraMaterials": ["minecraft:dye:1:5"]
+    },
+	{
+      "subName": "_green",
+      "modelName": "bottle_twingo_juice",
+      "name": "Green Twingo Juice™ Bottle",
+	  "description": "definitely not radioactive",
+      "extraMaterials": ["minecraft:dye:2:5"]
+    },
+	{
+      "subName": "_yellow",
+      "modelName": "bottle_twingo_juice",
+      "name": "Yellow Twingo Juice™ Bottle",
+	  "description": "definitely not radioactive",
+      "extraMaterials": ["minecraft:dye:11:5"]
+    },
+	{
+      "subName": "_blue",
+      "modelName": "bottle_twingo_juice",
+      "name": "Blue Twingo Juice™ Bottle",
+	  "description": "definitely not radioactive",
+      "extraMaterials": ["minecraft:dye:4:5"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:glass_bottle:0:1","minecraft:glowstone_dust:0:5","minecraft:nether_wart:0:5","minecraft:nether_star:0:1","minecraft:redstone:0:3"]
+  }
+}

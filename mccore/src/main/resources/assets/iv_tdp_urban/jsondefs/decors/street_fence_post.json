@@ -1,0 +1,53 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - chrome",
+      "extraMaterials": ["minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - copper",
+      "extraMaterials": ["minecraft:dye:3:1"]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - gray",
+      "extraMaterials": ["minecraft:dye:8:1"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - green",
+      "extraMaterials": ["minecraft:dye:2:1"]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - rusty",
+      "extraMaterials": ["minecraft:dirt:0:1"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "street_fence_post",
+      "name": "Street Fence Post - white",
+      "extraMaterials": ["minecraft:dye:15:1"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "street_fence_post",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:4"]
+  }
+}

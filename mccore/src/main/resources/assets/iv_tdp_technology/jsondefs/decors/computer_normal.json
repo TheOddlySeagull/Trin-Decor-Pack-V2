@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "computer_normal",
+      "name": "Desktop Medium Computer (Normal)",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "computer_normal",
+  "classification": "decor",
+  "general": {
+    "name": "Desktop Medium Computer (Normal)",
+    "materials": ["minecraft:glass:0:1","minecraft:redstone:0:3","tpp:computer_a_keyboard:0:1"]
+  }
+}

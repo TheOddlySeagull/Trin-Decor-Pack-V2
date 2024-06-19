@@ -1,0 +1,54 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Linkage - chrome",
+      "extraMaterials": ["minecraft:dye:7:2"]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Basic Angle - copper",
+      "extraMaterials": ["minecraft:dye:3:2"]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Linkage - gray",
+      "extraMaterials": ["minecraft:dye:8:2"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Linkage - green",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Linkage - rusty",
+      "extraMaterials": ["minecraft:dirt:0:2"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "street_fence_fulllink",
+      "name": "Street Fence Linkage - white",
+      "extraMaterials": ["minecraft:dye:15:2"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "street_fence_fulllink",
+  "classification": "decor",
+  "general": {
+    "description": "Place between 2 full street fences",
+    "materials": ["minecraft:iron_ingot:0:4"]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - unpainted",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_black",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - black",
+      "extraMaterials": ["minecraft:dye:0:8"]
+    },
+    {
+      "subName": "_lightred",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - light red",
+      "extraMaterials": ["minecraft:dye:1:4","minecraft:dye:15:4"]
+    },
+    {
+      "subName": "_pink",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - pink",
+      "extraMaterials": ["minecraft:dye:9:8"]
+    },
+    {
+      "subName": "_red",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - red",
+      "extraMaterials": ["minecraft:dye:1:8"]
+    },
+    {
+      "subName": "_trin",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - trin",
+      "extraMaterials": ["minecraft:dye:12:8"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - white",
+      "extraMaterials": ["minecraft:dye:15:8"]
+    },
+    {
+      "subName": "_yellow",
+      "modelName": "tire_pile_barrier",
+      "name": "Tire Pile Barrier - yellow",
+      "extraMaterials": ["minecraft:dye:11:8"]
+    }
+  ],
+  "general": {
+	"stackSize": 64,
+    "materials": ["mts:iv_tpp.tire_4d16_classic:0:4"]
+  }
+}

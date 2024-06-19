@@ -1,0 +1,91 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 0.5,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_wood_oak",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Oak Wood",
+      "extraMaterials": ["minecraft:planks:0:2"]
+    },
+	{
+      "subName": "_wood_spruce",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Spruce Wood",
+      "extraMaterials": ["minecraft:planks:1:2"]
+    },
+	{
+      "subName": "_wood_birch",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Birch Wood",
+      "extraMaterials": ["minecraft:planks:2:2"]
+    },
+	{
+      "subName": "_wood_jungle",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Jungle Wood",
+      "extraMaterials": ["minecraft:planks:3:2"]
+    },
+	{
+      "subName": "_wood_acacia",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Acacia Wood",
+      "extraMaterials": ["minecraft:planks:4:2"]
+    },
+	{
+      "subName": "_wood_darkoak",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Dark Oak Wood",
+      "extraMaterials": ["minecraft:planks:5:2"]
+    },
+	{
+      "subName": "_wood_custom",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Wooden Chair - Trin Custom Wood",
+      "extraMaterials": ["minecraft:planks:1:2"]
+    },
+	{
+      "subName": "_interior_gray",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - Gray",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:8:2"]
+    },
+	{
+      "subName": "_interior_white",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - White",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:15:2"]
+    },
+	{
+      "subName": "_interior_red",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - Red",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:1:2"]
+    },
+	{
+      "subName": "_interior_tan",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - Tan",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:11:2"]
+    },
+	{
+      "subName": "_interior_brown",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - Brown",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:3:2"]
+    },
+	{
+      "subName": "_interior_black",
+      "modelName": "furniture_chair",
+      "name": "(Decor) Interior Chair - Black",
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:0:2"]
+    }
+  ],
+  "general": {
+    "materials": []
+  }
+}

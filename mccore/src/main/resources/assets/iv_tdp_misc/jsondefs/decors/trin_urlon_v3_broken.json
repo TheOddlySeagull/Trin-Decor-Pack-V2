@@ -1,0 +1,20 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 3.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "trin_urlon_v3_broken",
+      "name": "Junkyard Car",
+      "extraMaterials": []
+    }
+  ],
+  "general": {
+    "name": "Junkyard Car",
+    "materials": ["minecraft:iron_ingot:0:32"]
+  }
+}

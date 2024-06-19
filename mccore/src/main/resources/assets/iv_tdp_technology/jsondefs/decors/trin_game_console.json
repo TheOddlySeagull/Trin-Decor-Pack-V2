@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.25,
+    "height": 0.25,
+    "depth": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "trin_game_console",
+      "name": "Trin game console",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "trin_game_console",
+  "classification": "decor",
+  "general": {
+    "name": "Trin game console",
+    "description": "trinigamers approved",
+    "materials": ["minecraft:iron_ingot:0:2","minecraft:redstone:0:2"]
+  }
+}

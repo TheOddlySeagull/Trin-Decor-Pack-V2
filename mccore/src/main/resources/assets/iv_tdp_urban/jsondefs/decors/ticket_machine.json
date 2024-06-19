@@ -1,0 +1,41 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 2.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_blue",
+      "modelName": "ticket_machine",
+      "name": "Ticket Machine (blue)",
+      "extraMaterials": ["minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "ticket_machine",
+      "name": "Ticket Machine (green)",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_orange",
+      "modelName": "ticket_machine",
+      "name": "Ticket Machine (orange)",
+      "extraMaterials": ["minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_red",
+      "modelName": "ticket_machine",
+      "name": "Ticket Machine (red)",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "ticket_machine",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:iron_block:0:1","minecraft:glass_pane:0:1","minecraft:redstone:0:2"]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "tool_rack_small",
+      "name": "Small Garage Tool Rack",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "tool_rack_small",
+  "classification": "decor",
+  "general": {
+    "name": "Small Garage Tool Rack",
+    "materials": ["minecraft:iron_ingot:0:2","minecraft:dye:14:1","mts:iv_tpp.metal_pile_5:0:1"]
+  }
+}

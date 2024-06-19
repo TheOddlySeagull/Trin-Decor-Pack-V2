@@ -1,0 +1,29 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_decor",
+      "modelName": "heavy_v8_junk",
+      "name": "heavy V8 engine (decor)",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_junkyard",
+      "modelName": "heavy_v8_junk",
+      "name": "heavy V8 engine (junk)",
+      "extraMaterials": ["minecraft:dirt:0:1"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "heavy_v8",
+  "classification": "decor",
+  "general": {
+    "materials": ["mts:iv_tpp.trin_v8_fat_diesel:0:1"]
+  }
+}

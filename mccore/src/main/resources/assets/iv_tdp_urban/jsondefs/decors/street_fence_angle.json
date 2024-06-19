@@ -1,0 +1,54 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 1.0,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - chrome",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_chrome:0:1","mts:iv_tpp.street_fence_post_chrome:0:1"]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - copper",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_copper:0:1","mts:iv_tpp.street_fence_post_copper:0:1"]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - gray",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_gray:0:1","mts:iv_tpp.street_fence_post_gray:0:1"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - green",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_green:0:1","mts:iv_tpp.street_fence_post_green:0:1"]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - rusty",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_rusty:0:1","mts:iv_tpp.street_fence_post_rust:0:1"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "street_fence_angle",
+      "name": "Street Fence Angle - white",
+      "extraMaterials": ["mts:iv_tpp.street_fence_angle2_white:0:1","mts:iv_tpp.street_fence_post_white:0:1"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "street_fence_angle",
+  "classification": "decor",
+  "general": {
+    "description": "Place between 2 full street fences at an angle",
+    "materials": ["minecraft:iron_ingot:0:4"]
+  }
+}

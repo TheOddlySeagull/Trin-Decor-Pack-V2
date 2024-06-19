@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "computer_a_keyboard",
+      "name": "A Random Lonely Keyboard With A Mouse",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "computer_a_keyboard",
+  "classification": "decor",
+  "general": {
+    "name": "A Random Lonely Keyboard With A Mouse",
+    "materials": ["minecraft:iron_ingot:0:1","minecraft:redstone:0:2"]
+  }
+}

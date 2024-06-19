@@ -1,0 +1,55 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "general": {
+    "materials": ["minecraft:iron_block:0:1"]
+  },
+  "definitions": [
+    {
+      "subName": "_tiny",
+      "modelName": "wall_panel_custom_tiny",
+      "name": "Tiny Wall Panel - Custom",
+      "description": "A 1 by 1 block panel that will display the texture you want using an URL!\nRecommended texture ratio: 1:1",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_small",
+      "modelName": "wall_panel_custom_small",
+      "name": "Small Wall Panel - Custom",
+      "description": "A 1 by 3 block panel that will display the texture you want using an URL!\nRecommended texture ratio: 1:4, with the texture itself spread on 1:3, centered on left",
+      "extraMaterials": ["minecraft:iron_block:0:1"]
+    },
+    {
+      "subName": "_normal",
+      "modelName": "wall_panel_custom_normal",
+      "name": "Normal Wall Panel - Custom",
+      "description": "A 1.5 by 4.5 block panel that will display the texture you want using an URL!\nRecommended texture ratio: 1:4, with the texture itself spread on 1:3, centered on left",
+      "extraMaterials": ["minecraft:iron_block:0:2"]
+    },
+    {
+      "subName": "_large",
+      "modelName": "wall_panel_custom_large",
+      "name": "Large Wall Panel - Custom",
+      "description": "A 2 by 6 block panel that will display the texture you want using an URL!\nRecommended texture ratio: 1:4, with the texture itself spread on 1:3, centered on left",
+      "extraMaterials": ["minecraft:iron_block:0:3"]
+    }
+  ],
+  "rendering": {
+    "textObjects": [
+      {
+        "pos": [0.0,-100.0,0.01],
+        "rot": [0.0,0.0,0.0],
+        "scale": 0.65,
+        "fieldName": "imageURL",
+        "defaultText": "https://imgur.com/o7ih6gv.png",
+        "maxLength": 400,
+        "color": "000000"
+      }
+    ],
+    "lightObjects": []
+  }
+}

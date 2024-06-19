@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.25,
+    "height": 1.0,
+    "depth": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "water_fountain_tank",
+      "name": "Water Fountain tank",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "water_fountain_tank",
+  "classification": "decor",
+  "general": {
+    "name": "Water Fountain tank",
+    "materials": ["minecraft:glass:0:1"]
+  }
+}

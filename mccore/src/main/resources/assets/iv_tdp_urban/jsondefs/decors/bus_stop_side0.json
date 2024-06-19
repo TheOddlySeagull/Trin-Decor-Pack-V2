@@ -1,0 +1,59 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "_chrome",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - Chrome",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dye:7:3"]
+    },
+    {
+      "subName": "_copper",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - Copper",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dye:3:3"]
+    },
+    {
+      "subName": "_gray",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - Gray",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dye:8:3"]
+    },
+    {
+      "subName": "_green",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - Green",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dye:2:3"]
+    },
+    {
+      "subName": "_rust",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - Rust",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dirt:0:3"]
+    },
+    {
+      "subName": "_white",
+      "modelName": "bus_stop_side0",
+      "name": "Bus Stop - White",
+      "description": "Has no side panels",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "bus_stop_side0",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:iron_ingot:0:30","minecraft:glass_pane:0:3"]
+  }
+}

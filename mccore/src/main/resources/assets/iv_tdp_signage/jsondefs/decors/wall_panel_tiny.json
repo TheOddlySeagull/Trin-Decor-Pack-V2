@@ -1,0 +1,31 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+	{
+      "subName": "_cfarchitecture",
+      "modelName": "wall_panel_tiny",
+      "name": "Wall Badge - CF Architecture",
+      "extraMaterials": []
+    },
+	{
+      "subName": "_txsf1logo",
+      "modelName": "wall_panel_tiny",
+      "name": "Wall Badge - F1 TXS Logo",
+      "extraMaterials": []
+    },
+	{
+      "subName": "_trinlogo",
+      "modelName": "wall_panel_tiny",
+      "name": "Wall Badge - Trin Logo",
+      "extraMaterials": []
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:stone:0:1"]
+  }
+}

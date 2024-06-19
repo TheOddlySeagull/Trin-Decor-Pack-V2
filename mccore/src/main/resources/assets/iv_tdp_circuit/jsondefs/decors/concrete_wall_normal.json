@@ -1,0 +1,37 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1,
+    "height": 1,
+    "depth": 1
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "concrete_wall_normal",
+      "name": "Road Median Concrete Wall - default",
+      "extraMaterials": []
+    },
+	{
+      "subName": "_doubletone",
+      "modelName": "concrete_wall_normal",
+      "name": "Road Median Concrete Wall - darker base",
+      "extraMaterials": ["minecraft:dye:8:1"]
+    },
+	{
+      "subName": "_red",
+      "modelName": "concrete_wall_normal",
+      "name": "Road Median Concrete Wall - red",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    },
+	{
+      "subName": "_white",
+      "modelName": "concrete_wall_normal",
+      "name": "Road Median Concrete Wall - white",
+      "extraMaterials": ["minecraft:dye:15:2"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:concrete:8:1"]
+  }
+}

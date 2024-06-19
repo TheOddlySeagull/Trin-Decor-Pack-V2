@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 1.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "garage_furniture_desk",
+      "name": "Garage Furniture - desk",
+      "extraMaterials": []
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "garage_furniture_desk",
+  "classification": "decor",
+  "general": {
+    "name": "Garage Furniture - desk",
+    "materials": ["minecraft:iron_ingot:0:10","minecraft:planks:1:1","minecraft:dye:1:2"]
+  }
+}
