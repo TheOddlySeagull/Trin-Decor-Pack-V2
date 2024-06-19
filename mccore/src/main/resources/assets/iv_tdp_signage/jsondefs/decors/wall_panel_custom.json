@@ -1,9 +1,9 @@
 {
   "decor": {
     "type": "generic",
-    "width": 1.0,
+    "width": 3.0,
     "height": 1.0,
-    "depth": 1.0
+    "depth": 0.1
   },
   "general": {
     "materials": ["minecraft:iron_block:0:1"]
@@ -45,7 +45,7 @@
         "rot": [0.0,0.0,0.0],
         "scale": 0.65,
         "fieldName": "imageURL",
-        "defaultText": "https://imgur.com/o7ih6gv.png",
+        "defaultText": "http://legends-of-gramdatis.com/gramados_skins/1_3_billboard_default_URL.png",
         "maxLength": 400,
         "color": "000000"
       }

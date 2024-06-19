@@ -2,7 +2,7 @@
 	"general": {
 		"width" : 1,
 		"height" : 2,
-		"depth" : 1,
+		"depth" : 0.125,
 		"oriented" : true,
 		"modelName" : "wire_mesh_1x2",
 		"materials" : ["minecraft:iron_ingot:0:4","mts:iv_tpp.metal_pile_4:0:2"]

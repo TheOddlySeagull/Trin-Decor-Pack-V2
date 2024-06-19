@@ -1,9 +1,9 @@
 {
   "decor": {
     "type": "generic",
-    "width": 3.0,
-    "height": 2.0,
-    "depth": 3.0
+    "width": 3.49,
+    "height": 1.91,
+    "depth": 5.0
   },
   "definitions": [
     {
@@ -19,6 +19,6 @@
   "classification": "decor",
   "general": {
     "name": "Junkyard Car",
-    "materials": ["minecraft:iron_ingot:0:16"]
+    "materials": ["minecraft:iron_ingot:0:32"]
   }
 }

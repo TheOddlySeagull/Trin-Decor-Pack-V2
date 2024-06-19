@@ -1,9 +1,9 @@
 {
   "decor": {
     "type": "generic",
-    "width": 1.0,
-    "height": 2.0,
-    "depth": 1.0
+    "width": 0.18,
+    "height": 2.56,
+    "depth": 0.71
   },
   "definitions": [
     {
