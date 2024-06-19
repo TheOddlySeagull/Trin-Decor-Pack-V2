@@ -1,14 +1,14 @@
 {
   "decor": {
     "type": "generic",
-    "width": 3.0,
-    "height": 2.0,
-    "depth": 3.0
+    "width": 3.19,
+    "height": 1.96,
+    "depth": 6.97
   },
   "definitions": [
     {
       "subName": "",
-      "modelName": "trin_urlon_v3_broken",
+      "modelName": "junkyard_3",
       "name": "Junkyard Car",
       "extraMaterials": []
     }
