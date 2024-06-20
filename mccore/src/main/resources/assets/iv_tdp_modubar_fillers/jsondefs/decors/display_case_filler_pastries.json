@@ -1,0 +1,75 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 0.15,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_1",
+      "modelName": "display_case_filler_pastries",
+      "name": "Island Filler Pastries Display (varient 1)",
+      "description": "Always look fully stocked with our pastry filler!",
+      "extraMaterials": [
+        "minecraft:paper:0:3"
+      ]
+    },
+    {
+      "subName": "_2",
+      "modelName": "display_case_filler_pastries",
+      "name": "Island Filler Pastries Display (varient 2)",
+      "description": "Always look fully stocked with our pastry filler!",
+      "extraMaterials": [
+        "minecraft:paper:0:3"
+      ]
+    },
+    {
+      "subName": "_3",
+      "modelName": "display_case_filler_pastries",
+      "name": "Island Filler Pastries Display (varient 3)",
+      "description": "Always look fully stocked with our pastry filler!",
+      "extraMaterials": [
+        "minecraft:paper:0:3"
+      ]
+    },
+    {
+      "subName": "_4",
+      "modelName": "display_case_filler_pastries",
+      "name": "Island Filler Pastries Display (varient 4)",
+      "description": "Always look fully stocked with our pastry filler!",
+      "extraMaterials": [
+        "minecraft:paper:0:3"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:wool:0:1"
+    ],
+    "stackSize": 64
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "display_case_filler_pastries",
+        "animations": [
+          {
+            "animationType": "translation",
+            "variable": "activated",
+            "axis": [
+              0.0,
+              0.50,
+              0.0
+            ],
+            "duration": 5,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
