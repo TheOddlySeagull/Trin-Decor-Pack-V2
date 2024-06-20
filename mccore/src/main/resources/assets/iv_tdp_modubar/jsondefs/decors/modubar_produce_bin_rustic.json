@@ -59,6 +59,78 @@
       "extraMaterials": [
         "minecraft:planks:5:4"
       ]
+    },
+    {
+      "subName": "_cherry",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Cherry)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_darkwalnut",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Dark Walnut)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_earlyamerican",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Early American)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_ebony",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Ebony)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_goldenpecan",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Golden Pecan)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_osb",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (OSB)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_provincial",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Provincial)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
+    },
+    {
+      "subName": "_sedonared",
+      "modelName": "modubar_produce_bin_rustic",
+      "name": "Rustic Wooden Produce Bin (Sedona Red)",
+      "description": "Bring a touch of country charm to your market with our rustic wooden produce bin!",
+      "extraMaterials": [
+        "minecraft:planks:0:4"
+      ]
     }
   ],
   "general": {
