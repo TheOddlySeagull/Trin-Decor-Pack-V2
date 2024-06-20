@@ -47,6 +47,7 @@
     "materials": [
       "minecraft:paper:0:4",
       "minecraft:glass:0:5"
-    ]
+    ],
+	  "stackSize": 64
   }
 }

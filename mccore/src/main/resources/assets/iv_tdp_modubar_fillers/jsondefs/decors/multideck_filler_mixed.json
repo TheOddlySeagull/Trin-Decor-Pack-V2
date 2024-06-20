@@ -46,6 +46,7 @@
   "general": {
     "materials": [
       "minecraft:paper:0:4"
-    ]
+    ],
+	  "stackSize": 64
   }
 }
