@@ -47,6 +47,29 @@
     "materials": [
       "minecraft:wool:0:1"
     ],
-	  "stackSize": 64
+    "stackSize": 64
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "island_filler_box",
+        "animations": [
+          {
+            "animationType": "translation",
+            "variable": "activated",
+            "axis": [
+              0.0,
+              0.50,
+              0.0
+            ],
+            "duration": 5,
+            "skipReverseMovement": false
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
   }
 }
