@@ -1,0 +1,106 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.46,
+    "height": 0.37,
+    "depth": 0.30
+  },
+  "definitions": [
+    {
+      "subName": "_amber_1",
+      "modelName": "beer_pack",
+      "name": "Amber Beer Pack (varient 1)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:orange_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_amber_2",
+      "modelName": "beer_pack",
+      "name": "Amber Beer Pack (varient 2)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:orange_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_gramados_1",
+      "modelName": "beer_pack",
+      "name": "Gramados Beer Pack (varient 1)",
+      "description": "The delicious taste of Gramados' speciality beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:yellow_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_gramados_2",
+      "modelName": "beer_pack",
+      "name": "Gramados Beer Pack (varient 2)",
+      "description": "The delicious taste of Gramados' speciality beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:yellow_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_green_1",
+      "modelName": "beer_pack",
+      "name": "Green Beer Pack (varient 1)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:green_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_green_2",
+      "modelName": "beer_pack",
+      "name": "Green Beer Pack (varient 2)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:green_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_red_1",
+      "modelName": "beer_pack",
+      "name": "Red Beer Pack (varient 1)",
+      "description": "The delicious taste of red fruity beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:red_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_red_2",
+      "modelName": "beer_pack",
+      "name": "Red Beer Pack (varient 2)",
+      "description": "The delicious taste of red fruity beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:red_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_white_1",
+      "modelName": "beer_pack",
+      "name": "White Beer Pack (varient 1)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:white_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_white_2",
+      "modelName": "beer_pack",
+      "name": "White Beer Pack (varient 2)",
+      "description": "The delicious taste of beer, now in a pack!",
+      "extraMaterials": [
+        "minecraft:white_dye:0:6"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:glass_bottle:0:6",
+      "minecraft:paper:0:4"
+    ]
+  }
+}
