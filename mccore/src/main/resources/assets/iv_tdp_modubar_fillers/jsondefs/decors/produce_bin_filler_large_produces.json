@@ -8,7 +8,7 @@
   "definitions": [
     {
       "subName": "_watermelon",
-      "modelName": "produce_bin_filler_large_items",
+      "modelName": "produce_bin_filler_large_produces",
       "name": "Produce Bin Filler (watermelon)",
       "description": "Always look fully stocked with our watermelon filler!",
       "extraMaterials": [
@@ -17,7 +17,7 @@
     },
     {
       "subName": "_lettuce",
-      "modelName": "produce_bin_filler_large_items",
+      "modelName": "produce_bin_filler_large_produces",
       "name": "Produce Bin Filler (lettuce)",
       "description": "Always look fully stocked with our lettuce filler!",
       "extraMaterials": [
@@ -26,7 +26,7 @@
     },
     {
       "subName": "_pumpkin",
-      "modelName": "produce_bin_filler_large_items",
+      "modelName": "produce_bin_filler_large_produces",
       "name": "Produce Bin Filler (pumpkin)",
       "description": "Always look fully stocked with our pumpkin filler!",
       "extraMaterials": [
@@ -35,7 +35,7 @@
     },
     {
       "subName": "_squash",
-      "modelName": "produce_bin_filler_large_items",
+      "modelName": "produce_bin_filler_large_produces",
       "name": "Produce Bin Filler (squash)",
       "description": "Always look fully stocked with our squash filler!",
       "extraMaterials": [
@@ -46,6 +46,7 @@
   "general": {
     "materials": [
       "minecraft:wool:0:1"
-    ]
+    ],
+    "stackSize": 64
   }
 }

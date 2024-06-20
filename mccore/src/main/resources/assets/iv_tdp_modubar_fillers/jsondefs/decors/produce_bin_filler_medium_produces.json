@@ -8,7 +8,7 @@
   "definitions": [
     {
       "subName": "_orange",
-      "modelName": "produce_bin_filler_medium_items",
+      "modelName": "produce_bin_filler_medium_produces",
       "name": "Produce Bin Filler (orange)",
       "description": "Always look fully stocked with our orange filler!",
       "extraMaterials": [
@@ -17,7 +17,7 @@
     },
     {
       "subName": "_applegreen",
-      "modelName": "produce_bin_filler_medium_items",
+      "modelName": "produce_bin_filler_medium_produces",
       "name": "Produce Bin Filler (green apples)",
       "description": "Always look fully stocked with our green apple filler!",
       "extraMaterials": [
@@ -26,7 +26,7 @@
     },
     {
       "subName": "_applered",
-      "modelName": "produce_bin_filler_medium_items",
+      "modelName": "produce_bin_filler_medium_produces",
       "name": "Produce Bin Filler (red apples)",
       "description": "Always look fully stocked with our red apple filler!",
       "extraMaterials": [
@@ -35,7 +35,7 @@
     },
     {
       "subName": "_lemonyellow",
-      "modelName": "produce_bin_filler_medium_items",
+      "modelName": "produce_bin_filler_medium_produces",
       "name": "Produce Bin Filler (lemon)",
       "description": "Always look fully stocked with our lemon filler!",
       "extraMaterials": [
@@ -44,7 +44,7 @@
     },
     {
       "subName": "_lemongreen",
-      "modelName": "produce_bin_filler_medium_items",
+      "modelName": "produce_bin_filler_medium_produces",
       "name": "Produce Bin Filler (lime)",
       "description": "Always look fully stocked with our lime filler!",
       "extraMaterials": [
@@ -55,6 +55,7 @@
   "general": {
     "materials": [
       "minecraft:wool:0:1"
-    ]
+    ],
+	  "stackSize": 64
   }
 }
