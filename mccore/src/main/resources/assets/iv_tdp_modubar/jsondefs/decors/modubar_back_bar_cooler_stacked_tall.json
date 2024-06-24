@@ -16,6 +16,56 @@
         "minecraft:gray_dye:0:8",
         "minecraft:quartz:0:2"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_back_bar_cooler_stacked_tall",
+      "name": "Modubar Double Stack Back Bar Cooler (Golden Quartz)",
+      "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28",
+        "minecraft:quartz:0:2"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_back_bar_cooler_stacked_tall",
+      "name": "Modubar Double Stack Back Bar Cooler (White Marble)",
+      "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28",
+        "minecraft:quartz:0:2"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_back_bar_cooler_stacked_tall",
+      "name": "Modubar Double Stack Back Bar Cooler (Blue Sodalite)",
+      "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28",
+        "minecraft:quartz:0:2"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_back_bar_cooler_stacked_tall",
+      "name": "Modubar Double Stack Back Bar Cooler (Rosso Asiago)",
+      "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28",
+        "minecraft:quartz:0:2"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_back_bar_cooler_stacked_tall",
+      "name": "Modubar Double Stack Back Bar Cooler (Wooden with Marquina)",
+      "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28",
+        "minecraft:quartz:0:2"
+      ]
     }
   ],
   "general": {

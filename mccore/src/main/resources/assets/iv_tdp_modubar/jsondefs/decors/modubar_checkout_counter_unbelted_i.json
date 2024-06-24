@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (Golden Quartz)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (White Marble)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (Blue Sodalite)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (Rosso Asiago)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_checkout_counter_unbelted_i",
+      "name": "Compact Checkout Counter with Slide (Wooden with Marquina)",
+      "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
     }
   ],
   "general": {

@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:16"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (Golden Quartz)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (White Marble)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (Blue Sodalite)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (Rosso Asiago)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_checkout_counter_unbelted_l",
+      "name": "L-Shaped Compact Checkout Counter (Wooden with Marquina)",
+      "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:16"
+      ]
     }
   ],
   "general": {

@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:light_gray_dye:0:4"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (Golden Quartz)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (White Marble)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (Blue Sodalite)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (Rosso Asiago)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_back_bar_cooler_compact",
+      "name": "Modubar Compact Back Bar Cooler (Wooden with Marquina)",
+      "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
     }
   ],
   "general": {

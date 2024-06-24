@@ -16,6 +16,51 @@
         "minecraft:gray_dye:0:24",
         "minecraft:quartz:0:6"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_back_bar_cooler_triple",
+      "name": "Modubar Triple Back Bar Cooler (Golden Quartz)",
+      "description": "Triple the space, triple the chill! Perfect for high-volume cooling and ultimate bar efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_back_bar_cooler_triple",
+      "name": "Modubar Triple Back Bar Cooler (White Marble)",
+      "description": "Triple the space, triple the chill! Perfect for high-volume cooling and ultimate bar efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_back_bar_cooler_triple",
+      "name": "Modubar Triple Back Bar Cooler (Blue Sodalite)",
+      "description": "Triple the space, triple the chill! Perfect for high-volume cooling and ultimate bar efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_back_bar_cooler_triple",
+      "name": "Modubar Triple Back Bar Cooler (Rosso Asiago)",
+      "description": "Triple the space, triple the chill! Perfect for high-volume cooling and ultimate bar efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_back_bar_cooler_triple",
+      "name": "Modubar Triple Back Bar Cooler (Wooden with Marquina)",
+      "description": "Triple the space, triple the chill! Perfect for high-volume cooling and ultimate bar efficiency!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
     }
   ],
   "general": {
