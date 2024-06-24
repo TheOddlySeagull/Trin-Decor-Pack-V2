@@ -1,0 +1,25 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 3.0,
+    "height": 2.0,
+    "depth": 0.5,
+    "inventoryUnits": 6
+  },
+  "definitions": [
+    {
+      "subName": "_black_granite",
+      "modelName": "modubar_shelving_unit_triple_basic_1",
+      "name": "Modular Back Bar Triple Shelf Double Level (Black Granite)",
+      "description": "Triple the width for larger bottles with our double-level shelf!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:iron_ingot:0:24"
+    ]
+  }
+}
