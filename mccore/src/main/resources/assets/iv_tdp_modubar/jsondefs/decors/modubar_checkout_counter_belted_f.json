@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:28"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (Golden Quartz)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (White Marble)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (Blue Sodalite)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (Rosso Asiago)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_checkout_counter_belted_f",
+      "name": "F-Shaped Checkout Counter with Conveyor Belt (Wooden with Marquina)",
+      "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:28"
+      ]
     }
   ],
   "general": {
