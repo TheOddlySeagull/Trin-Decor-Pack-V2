@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (Golden Calacatta)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (White Marble)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (Blue Sodalite)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (Rosso Asiago)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_counter_display_closed_short",
+      "name": "Modubar Short Chilled Showcase (Wooden with Marquina)",
+      "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
     }
   ],
   "general": {

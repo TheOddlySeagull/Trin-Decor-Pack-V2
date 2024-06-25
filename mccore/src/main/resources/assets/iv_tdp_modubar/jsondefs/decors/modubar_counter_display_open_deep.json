@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:light_gray_dye:0:12"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (Golden Calacatta)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (White Marble)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (Blue Sodalite)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (Rosso Asiago)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_counter_display_open_deep",
+      "name": "Modubar Deep Open-top Display (Wooden with Marquina)",
+      "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
     }
   ],
   "general": {

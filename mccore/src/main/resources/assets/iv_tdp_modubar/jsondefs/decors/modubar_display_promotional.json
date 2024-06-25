@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (Golden Calacatta)",
+      "description": "A small display to showcase your promotionnal products.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (White Marble)",
+      "description": "A small display to showcase your promotionnal products.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (Blue Sodalite)",
+      "description": "A small display to showcase your promotionnal products.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (Rosso Asiago)",
+      "description": "A small display to showcase your promotionnal products.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_promotional",
+      "name": "Promotionnal Display (Wooden with Marquina)",
+      "description": "A small display to showcase your promotionnal products.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
     }
   ],
   "general": {
