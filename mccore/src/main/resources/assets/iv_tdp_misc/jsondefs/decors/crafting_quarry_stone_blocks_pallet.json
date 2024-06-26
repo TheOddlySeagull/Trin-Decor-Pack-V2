@@ -1,0 +1,82 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 2.0,
+    "height": 1.87,
+    "depth": 2.0
+  },
+  "definitions": [
+    {
+      "subName": "_angola_black_granite",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Angola Black Granite)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:1:4",
+        "minecraft:black_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_calacatta_gold_marble",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Calacatta Gold Marble)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:white_dye:0:8",
+        "minecraft:gold_ingot:0:1",
+        "minecraft:quartz:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (White Marble)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:white_dye:0:8",
+        "minecraft:quartz:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Blue Sodalite)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:2",
+        "minecraft:lapis_block:0:2",
+        "minecraft:light_blue_dye:0:4",
+        "minecraft:white_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Rosso Asiago)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:red_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_nero_marquina",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Nero Marquina)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:black_dye:0:6",
+        "minecraft:gray_dye:0:2"
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "mts:iv_tdp_misc.crafting_pallet:0:1"
+    ],
+    "stackSize": 4
+  }
+}

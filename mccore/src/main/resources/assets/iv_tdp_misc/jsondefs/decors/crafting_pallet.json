@@ -1,0 +1,24 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 2.0,
+    "height": 0.25,
+    "depth": 2.0
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "crafting_pallet",
+      "name": "Simple OSB Pallet",
+      "description": "A simple pallet made from OSB.",
+      "extraMaterials": [
+      ]
+    }
+  ],
+  "general": {
+    "materials": [
+      "minecraft:planks:0:4"
+    ],
+    "stackSize": 64
+  }
+}
