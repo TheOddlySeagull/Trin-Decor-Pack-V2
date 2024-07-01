@@ -10,8 +10,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simplecounter_shelf",
-      "name": "Trin Modubar - Counter With An Open Shelf (Black Granite)",
-      "description": "A black granite counter with an open shelf for the Trin Modubar.",
+      "name": "Trin Modubar - Counter Module with Open Shelves (Black Granite)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter Module with Open Shelves (Golden Calacatta)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter Module with Open Shelves (White Marble)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter Module with Open Shelves (Blue Sodalite)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter Module with Open Shelves (Rosso Asiago)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simplecounter_shelf",
+      "name": "Trin Modubar - Counter Module with Open Shelves (Wooden with Marquina)",
+      "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]

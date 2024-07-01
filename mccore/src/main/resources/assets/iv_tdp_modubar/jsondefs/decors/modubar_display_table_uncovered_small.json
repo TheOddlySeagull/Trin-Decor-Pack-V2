@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_table_uncovered_small",
+      "name": "Display Table Small (Golden Calacatta)",
+      "description": "Showcase your best with this sleek, small display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_table_uncovered_small",
+      "name": "Display Table Small (White Marble)",
+      "description": "Showcase your best with this sleek, small display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_table_uncovered_small",
+      "name": "Display Table Small (Blue Sodalite)",
+      "description": "Showcase your best with this sleek, small display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_table_uncovered_small",
+      "name": "Display Table Small (Rosso Asiago)",
+      "description": "Showcase your best with this sleek, small display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_table_uncovered_small",
+      "name": "Display Table Small (Wooden with Marquina)",
+      "description": "Showcase your best with this sleek, small display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
     }
   ],
   "general": {

@@ -9,8 +9,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simple_ending_l_standard",
-      "name": "Trin Modubar - Counter Left Ending (Black Granite)",
-      "description": "A black granite left side ending for the Trin Modubar counter.",
+      "name": "Trin Modubar - Basic End Counter Element Left (Black Granite)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simple_ending_l_standard",
+      "name": "Trin Modubar - Basic End Counter Element Left (Golden Calacatta)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simple_ending_l_standard",
+      "name": "Trin Modubar - Basic End Counter Element Left (White Marble)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simple_ending_l_standard",
+      "name": "Trin Modubar - Basic End Counter Element Left (Blue Sodalite)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simple_ending_l_standard",
+      "name": "Trin Modubar - Basic End Counter Element Left (Rosso Asiago)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simple_ending_l_standard",
+      "name": "Trin Modubar - Basic End Counter Element Left (Wooden with Marquina)",
+      "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]

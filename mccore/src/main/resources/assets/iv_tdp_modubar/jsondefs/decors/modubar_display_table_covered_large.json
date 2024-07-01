@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:24"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (Golden Calacatta)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (White Marble)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (Blue Sodalite)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (Rosso Asiago)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_table_covered_large",
+      "name": "Glass-Edged Display Table Large (Wooden with Marquina)",
+      "description": "Showcase in style with our large table, complete with elegant glass extensions!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
     }
   ],
   "general": {

@@ -9,10 +9,55 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_doublecounter_sink",
-      "name": "Trin Modubar - Double Counter Sink",
-      "description": "A black granite double sink with a faucet.",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (Black Granite)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
         "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (Golden Calacatta)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (White Marble)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (Blue Sodalite)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (Rosso Asiago)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_doublecounter_sink",
+      "name": "Trin Modubar - Double Counter with Dual Sinks (Wooden with Marquina)",
+      "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

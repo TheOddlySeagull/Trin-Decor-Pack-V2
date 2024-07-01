@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:24"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_table_uncovered_large",
+      "name": "Display Table Large (Golden Calacatta)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_table_uncovered_large",
+      "name": "Display Table Large (White Marble)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_table_uncovered_large",
+      "name": "Display Table Large (Blue Sodalite)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_table_uncovered_large",
+      "name": "Display Table Large (Rosso Asiago)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_table_uncovered_large",
+      "name": "Display Table Large (Wooden with Marquina)",
+      "description": "Make a big impression with our spacious large display table!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
     }
   ],
   "general": {

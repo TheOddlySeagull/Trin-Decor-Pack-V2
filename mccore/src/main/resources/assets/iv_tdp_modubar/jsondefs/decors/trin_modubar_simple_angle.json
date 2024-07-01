@@ -9,8 +9,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simple_angle",
-      "name": "Trin Modubar - Counter Angle (black granite)",
-      "description": "A black granite counter with a 90 degree angle.",
+      "name": "Trin Modubar - Corner Counter Element (black granite)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simple_angle",
+      "name": "Trin Modubar - Corner Counter Element (Golden Calacatta)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simple_angle",
+      "name": "Trin Modubar - Corner Counter Element (White Marble)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simple_angle",
+      "name": "Trin Modubar - Corner Counter Element (Blue Sodalite)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simple_angle",
+      "name": "Trin Modubar - Corner Counter Element (Rosso Asiago)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simple_angle",
+      "name": "Trin Modubar - Corner Counter Element (Wooden with Marquina)",
+      "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]

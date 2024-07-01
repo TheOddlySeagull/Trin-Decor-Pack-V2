@@ -10,9 +10,54 @@
       "subName": "_black_granite",
       "modelName": "trin_modubar_counterexpansion_tripple",
       "name": "Trin Modubar - Long Counter Expansion (Black Granite)",
-      "description": "A black granite long counter expansion for the Trin Modubar.",
+      "description": "Improve your couter with our triple width counter expansion!",
       "extraMaterials": [
         "minecraft:gray_dye:0:6"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_counterexpansion_tripple",
+      "name": "Trin Modubar - Long Counter Expansion (Golden Calacatta)",
+      "description": "Improve your couter with our triple width counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_counterexpansion_tripple",
+      "name": "Trin Modubar - Long Counter Expansion (White Marble)",
+      "description": "Improve your couter with our triple width counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_counterexpansion_tripple",
+      "name": "Trin Modubar - Long Counter Expansion (Blue Sodalite)",
+      "description": "Improve your couter with our triple width counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_counterexpansion_tripple",
+      "name": "Trin Modubar - Long Counter Expansion (Rosso Asiago)",
+      "description": "Improve your couter with our triple width counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_counterexpansion_tripple",
+      "name": "Trin Modubar - Long Counter Expansion (Wooden with Marquina)",
+      "description": "Improve your couter with our triple width counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

@@ -10,8 +10,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simplecounter_frige",
-      "name": "Trin Modubar - Counter Fridge (Black Granite)",
-      "description": "A simple counter fridge with a black granite finish.",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (Black Granite)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simplecounter_frige",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (Golden Calacatta)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simplecounter_frige",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (White Marble)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simplecounter_frige",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (Blue Sodalite)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simplecounter_frige",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (Rosso Asiago)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simplecounter_frige",
+      "name": "Trin Modubar - Empty Counter Module with Fridge (Wooden with Marquina)",
+      "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]

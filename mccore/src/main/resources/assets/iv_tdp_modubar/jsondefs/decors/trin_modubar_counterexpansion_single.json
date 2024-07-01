@@ -10,9 +10,54 @@
       "subName": "_black_granite",
       "modelName": "trin_modubar_counterexpansion_single",
       "name": "Trin Modubar - Counter Expansion (Black Granite)",
-      "description": "A black granite counter expansion for the Trin Modubar.",
+      "description": "Improve your couter with our counter expansion!",
       "extraMaterials": [
         "minecraft:gray_dye:0:2"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (Golden Calacatta)",
+      "description": "Improve your couter with our counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (White Marble)",
+      "description": "Improve your couter with our counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (Blue Sodalite)",
+      "description": "Improve your couter with our counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (Rosso Asiago)",
+      "description": "Improve your couter with our counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_counterexpansion_single",
+      "name": "Trin Modubar - Counter Expansion (Wooden with Marquina)",
+      "description": "Improve your couter with our counter expansion!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
       ]
     }
   ],

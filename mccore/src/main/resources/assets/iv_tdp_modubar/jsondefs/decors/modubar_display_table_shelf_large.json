@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:34"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (Golden Calacatta)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (White Marble)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (Blue Sodalite)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (Rosso Asiago)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_table_shelf_large",
+      "name": "Two-Tier Display Table Large (Wooden with Marquina)",
+      "description": "Double the display power with our large, two-tier table for showcasing more!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:34"
+      ]
     }
   ],
   "general": {

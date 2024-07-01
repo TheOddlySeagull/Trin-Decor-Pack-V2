@@ -14,6 +14,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (Golden Calacatta)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (White Marble)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (Blue Sodalite)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (Rosso Asiago)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_display_table_covered_small",
+      "name": "Glass-Edged Display Table Small (Wooden with Marquina)",
+      "description": "Elevate your display with our small table featuring chic glass edges!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
     }
   ],
   "general": {

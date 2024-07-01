@@ -9,8 +9,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simple_ending_l_fancier",
-      "name": "Trin Modubar - Counter Fancy Left Ending (Black Granite)",
-      "description": "A black granite fancy left side ending for the Trin Modubar counter.",
+      "name": "Trin Modubar - Designer End Counter Element Left (Black Granite)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Designer End Counter Element Left (Golden Calacatta)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Designer End Counter Element Left (White Marble)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Designer End Counter Element Left (Blue Sodalite)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Designer End Counter Element Left (Rosso Asiago)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simple_ending_l_fancier",
+      "name": "Trin Modubar - Designer End Counter Element Left (Wooden with Marquina)",
+      "description": "Enhance your bar's elegance with our designer left-end counter element!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]

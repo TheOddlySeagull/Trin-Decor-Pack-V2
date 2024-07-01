@@ -9,8 +9,53 @@
     {
       "subName": "_black_granite",
       "modelName": "trin_modubar_simple_solid",
-      "name": "Trin Modubar - Solid Counter (black granite)",
-      "description": "A black granite simple counter for the Trin Modubar.",
+      "name": "Trin Modubar - Solid Counter Module (Black Granite)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter Module (Golden Calacatta)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter Module (White Marble)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter Module (Blue Sodalite)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter Module (Rosso Asiago)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:4"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "trin_modubar_simple_solid",
+      "name": "Trin Modubar - Solid Counter Module (Wooden with Marquina)",
+      "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
         "minecraft:gray_dye:0:4"
       ]
