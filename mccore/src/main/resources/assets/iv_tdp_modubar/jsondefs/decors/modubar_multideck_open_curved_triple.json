@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:24"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_multideck_open_curved_triple",
+      "name": "Triple Width Curved Top Open Multideck (Golden Calacatta)",
+      "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_multideck_open_curved_triple",
+      "name": "Triple Width Curved Top Open Multideck (White Marble)",
+      "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_multideck_open_curved_triple",
+      "name": "Triple Width Curved Top Open Multideck (Blue Sodalite)",
+      "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_multideck_open_curved_triple",
+      "name": "Triple Width Curved Top Open Multideck (Rosso Asiago)",
+      "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_multideck_open_curved_triple",
+      "name": "Triple Width Curved Top Open Multideck (Wooden with Marquina)",
+      "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
     }
   ],
   "general": {

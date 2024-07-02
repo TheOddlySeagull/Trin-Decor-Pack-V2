@@ -62,6 +62,16 @@
       ]
     },
     {
+      "subName": "_verde_indio",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Verde Indio)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:green_dye:0:8"
+      ]
+    },
+    {
       "subName": "_nero_marquina",
       "modelName": "crafting_quarry_stone_blocks_pallet",
       "name": "Quarry Stone Pallet (Nero Marquina)",
@@ -69,6 +79,17 @@
       "extraMaterials": [
         "minecraft:stone:0:4",
         "minecraft:black_dye:0:6",
+        "minecraft:gray_dye:0:2"
+      ]
+    },
+    {
+      "subName": "_yellow_onyx",
+      "modelName": "crafting_quarry_stone_blocks_pallet",
+      "name": "Quarry Stone Pallet (Yellow Onyx Marble)",
+      "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
+      "extraMaterials": [
+        "minecraft:stone:0:4",
+        "minecraft:yellow_dye:0:6",
         "minecraft:gray_dye:0:2"
       ]
     }

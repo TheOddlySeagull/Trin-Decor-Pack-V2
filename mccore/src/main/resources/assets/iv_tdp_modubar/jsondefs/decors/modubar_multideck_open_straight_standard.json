@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:8"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_multideck_open_straight_standard",
+      "name": "Standard Square Open Multideck (Golden Calacatta)",
+      "description": "Showcase your chilled delights with our sleek, square multideck, topped with a ceiling for perfect display.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_multideck_open_straight_standard",
+      "name": "Standard Square Open Multideck (White Marble)",
+      "description": "Showcase your chilled delights with our sleek, square multideck, topped with a ceiling for perfect display.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_multideck_open_straight_standard",
+      "name": "Standard Square Open Multideck (Blue Sodalite)",
+      "description": "Showcase your chilled delights with our sleek, square multideck, topped with a ceiling for perfect display.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_multideck_open_straight_standard",
+      "name": "Standard Square Open Multideck (Rosso Asiago)",
+      "description": "Showcase your chilled delights with our sleek, square multideck, topped with a ceiling for perfect display.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_multideck_open_straight_standard",
+      "name": "Standard Square Open Multideck (Wooden with Marquina)",
+      "description": "Showcase your chilled delights with our sleek, square multideck, topped with a ceiling for perfect display.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
     }
   ],
   "general": {

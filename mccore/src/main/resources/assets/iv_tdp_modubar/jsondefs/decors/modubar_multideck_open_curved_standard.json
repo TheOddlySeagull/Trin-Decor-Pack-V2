@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:8"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (Golden Calacatta)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (White Marble)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (Blue Sodalite)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (Rosso Asiago)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_multideck_open_curved_standard",
+      "name": "Standard Curved Top Open Multideck (Wooden with Marquina)",
+      "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:8"
+      ]
     }
   ],
   "general": {

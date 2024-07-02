@@ -9,7 +9,7 @@
     {
       "subName": "_angola_black_granite",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(Angola Black Granite)",
+      "name": "Polished Stone Panel (Angola Black Granite)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_angola_black_granite:0:1"
@@ -18,7 +18,7 @@
     {
       "subName": "_calacatta_gold_marble",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(Calacatta Gold Marble)",
+      "name": "Polished Stone Panel (Calacatta Gold Marble)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_calacatta_gold_marble:0:1"
@@ -27,7 +27,7 @@
     {
       "subName": "_white_marble",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(White Marble)",
+      "name": "Polished Stone Panel (White Marble)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_white_marble:0:1"
@@ -36,7 +36,7 @@
     {
       "subName": "_blue_sodalite",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(Blue Sodalite)",
+      "name": "Polished Stone Panel (Blue Sodalite)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_blue_sodalite:0:1"
@@ -45,19 +45,37 @@
     {
       "subName": "_rosso_asiago",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(Rosso Asiago)",
+      "name": "Polished Stone Panel (Rosso Asiago)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_rosso_asiago:0:1"
       ]
     },
     {
+      "subName": "_verde_indio",
+      "modelName": "crafting_stone_slab",
+      "name": "Polished Stone Panel (Verde Indio)",
+      "description": "A ready-to-use polished stone panel for crafting purposes.",
+      "extraMaterials": [
+        "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_verde_indio:0:1"
+      ]
+    },
+    {
       "subName": "_nero_marquina",
       "modelName": "crafting_stone_slab",
-      "name": "Polished Stone Panel(Nero Marquina)",
+      "name": "Polished Stone Panel (Nero Marquina)",
       "description": "A ready-to-use polished stone panel for crafting purposes.",
       "extraMaterials": [
         "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_nero_marquina:0:1"
+      ]
+    },
+    {
+      "subName": "_yellow_onyx",
+      "modelName": "crafting_stone_slab",
+      "name": "Polished Stone Panel (Yellow Onyx Marble)",
+      "description": "A ready-to-use polished stone panel for crafting purposes.",
+      "extraMaterials": [
+        "mts:iv_tdp_misc.crafting_quarry_stone_blocks_pallet_yellow_onyx:0:1"
       ]
     }
   ],

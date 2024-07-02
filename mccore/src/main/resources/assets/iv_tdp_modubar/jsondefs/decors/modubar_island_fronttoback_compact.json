@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:12"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (Golden Calacatta)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (White Marble)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (Blue Sodalite)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (Rosso Asiago)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_island_fronttoback_compact",
+      "name": "Island Compact Display Front-to-Back (Wooden with Marquina)",
+      "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:12"
+      ]
     }
   ],
   "general": {

@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:24"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_shelving_unit_triple_design_2",
+      "name": "Modular Back Bar Designer Triple Shelf Quad Level (Golden Calacatta)",
+      "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_shelving_unit_triple_design_2",
+      "name": "Modular Back Bar Designer Triple Shelf Quad Level (White Marble)",
+      "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_shelving_unit_triple_design_2",
+      "name": "Modular Back Bar Designer Triple Shelf Quad Level (Blue Sodalite)",
+      "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_shelving_unit_triple_design_2",
+      "name": "Modular Back Bar Designer Triple Shelf Quad Level (Rosso Asiago)",
+      "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_shelving_unit_triple_design_2",
+      "name": "Modular Back Bar Designer Triple Shelf Quad Level (Wooden with Marquina)",
+      "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
     }
   ],
   "general": {

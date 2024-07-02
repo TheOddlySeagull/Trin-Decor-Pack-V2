@@ -15,6 +15,51 @@
       "extraMaterials": [
         "minecraft:gray_dye:0:24"
       ]
+    },
+    {
+      "subName": "_golden_quartz",
+      "modelName": "modubar_multideck_closed_triple",
+      "name": "Triple Width Multideck with Door (Golden Calacatta)",
+      "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_white_marble",
+      "modelName": "modubar_multideck_closed_triple",
+      "name": "Triple Width Multideck with Door (White Marble)",
+      "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_blue_sodalite",
+      "modelName": "modubar_multideck_closed_triple",
+      "name": "Triple Width Multideck with Door (Blue Sodalite)",
+      "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_rosso_asiago",
+      "modelName": "modubar_multideck_closed_triple",
+      "name": "Triple Width Multideck with Door (Rosso Asiago)",
+      "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
+    },
+    {
+      "subName": "_wooden_marquina",
+      "modelName": "modubar_multideck_closed_triple",
+      "name": "Triple Width Multideck with Door (Wooden with Marquina)",
+      "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
+      "extraMaterials": [
+        "minecraft:gray_dye:0:24"
+      ]
     }
   ],
   "general": {
