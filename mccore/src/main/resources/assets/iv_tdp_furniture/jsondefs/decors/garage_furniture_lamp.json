@@ -10,31 +10,31 @@
       "subName": "_black",
       "modelName": "garage_furniture_lamp",
       "name": "Garage Furniture - Desk Lamp (black)",
-      "extraMaterials": ["minecraft:black_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:0:1"]
     },
     {
       "subName": "_pink",
       "modelName": "garage_furniture_lamp",
       "name": "Garage Furniture - Desk Lamp (pink)",
-      "extraMaterials": ["minecraft:pink_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:9:1"]
     },
     {
       "subName": "_red",
       "modelName": "garage_furniture_lamp",
       "name": "Garage Furniture - Desk Lamp (red)",
-      "extraMaterials": ["minecraft:red_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:1:1"]
     },
     {
       "subName": "_trin",
       "modelName": "garage_furniture_lamp",
       "name": "Garage Furniture - Desk Lamp (trin)",
-      "extraMaterials": ["minecraft:light_blue_dye:0:1","minecraft:light_gray_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:12:1","minecraft:dye:7:1"]
     },
     {
       "subName": "_white",
       "modelName": "garage_furniture_lamp",
       "name": "Garage Furniture - Desk Lamp (white)",
-      "extraMaterials": ["minecraft:white_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:15:1"]
     }
   ],
   "prefixFolders": "",

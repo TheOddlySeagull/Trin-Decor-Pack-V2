@@ -13,7 +13,7 @@
       "name": "Island Standard Display Side-to-Side (Black Granite)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Island Standard Display Side-to-Side (Golden Calacatta)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Island Standard Display Side-to-Side (White Marble)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Island Standard Display Side-to-Side (Blue Sodalite)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Island Standard Display Side-to-Side (Rosso Asiago)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Island Standard Display Side-to-Side (Wooden with Marquina)",
       "description": "Slide into style with our standard island display featuring side-to-side doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

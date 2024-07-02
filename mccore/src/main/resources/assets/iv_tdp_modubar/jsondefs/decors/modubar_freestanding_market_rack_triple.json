@@ -13,7 +13,7 @@
       "name": "Generic Free-Standing Rack Triple (Chrome)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Industrial Free-Standing Rack Triple (Copper)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Industrial Free-Standing Rack Triple (Gray)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Industrial Free-Standing Rack Triple (Green)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Industrial Free-Standing Rack Triple (Rust)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Industrial Free-Standing Rack Triple (White)",
       "description": "Maximize your display area with our triple-sized, generic free-standing rack!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

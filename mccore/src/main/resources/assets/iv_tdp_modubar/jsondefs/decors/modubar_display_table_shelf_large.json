@@ -12,7 +12,7 @@
       "name": "Two-Tier Display Table Large (Black Granite)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Two-Tier Display Table Large (Golden Calacatta)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Two-Tier Display Table Large (White Marble)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Two-Tier Display Table Large (Blue Sodalite)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Two-Tier Display Table Large (Rosso Asiago)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Two-Tier Display Table Large (Wooden with Marquina)",
       "description": "Double the display power with our large, two-tier table for showcasing more!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:34"
+        "minecraft:dye:8:34"
       ]
     }
   ],

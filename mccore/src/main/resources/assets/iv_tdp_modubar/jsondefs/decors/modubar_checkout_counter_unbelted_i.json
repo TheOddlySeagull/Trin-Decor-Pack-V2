@@ -12,7 +12,7 @@
       "name": "Compact Checkout Counter with Slide (Black Granite)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Compact Checkout Counter with Slide (Golden Calacatta)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Compact Checkout Counter with Slide (White Marble)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Compact Checkout Counter with Slide (Blue Sodalite)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Compact Checkout Counter with Slide (Rosso Asiago)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Compact Checkout Counter with Slide (Wooden with Marquina)",
       "description": "Streamline your sales with our compact counter, featuring a side slide for easy item transfer!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

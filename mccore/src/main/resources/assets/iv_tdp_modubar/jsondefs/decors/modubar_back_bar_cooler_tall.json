@@ -13,7 +13,7 @@
       "name": "Modubar Tall Back Bar Cooler (Black Granite)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8",
+        "minecraft:dye:8:8",
         "minecraft:quartz:0:4"
       ]
     },
@@ -23,7 +23,7 @@
       "name": "Modubar Tall Back Bar Cooler (Golden Calacatta)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28"
+        "minecraft:dye:8:28"
       ]
     },
     {
@@ -32,7 +32,7 @@
       "name": "Modubar Tall Back Bar Cooler (White Marble)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28"
+        "minecraft:dye:8:28"
       ]
     },
     {
@@ -41,7 +41,7 @@
       "name": "Modubar Tall Back Bar Cooler (Blue Sodalite)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28"
+        "minecraft:dye:8:28"
       ]
     },
     {
@@ -50,7 +50,7 @@
       "name": "Modubar Tall Back Bar Cooler (Rosso Asiago)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28"
+        "minecraft:dye:8:28"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "name": "Modubar Tall Back Bar Cooler (Wooden with Marquina)",
       "description": "Keep everything frosty and fresh with our tall back bar cooler, ideal for all your chilled needs!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28"
+        "minecraft:dye:8:28"
       ]
     }
   ],

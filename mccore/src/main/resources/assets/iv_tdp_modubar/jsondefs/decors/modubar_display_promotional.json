@@ -13,7 +13,7 @@
       "name": "Promotionnal Display (Black Granite)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Promotionnal Display (Golden Calacatta)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Promotionnal Display (White Marble)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Promotionnal Display (Blue Sodalite)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Promotionnal Display (Rosso Asiago)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Promotionnal Display (Wooden with Marquina)",
       "description": "A small display to showcase your promotionnal products.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

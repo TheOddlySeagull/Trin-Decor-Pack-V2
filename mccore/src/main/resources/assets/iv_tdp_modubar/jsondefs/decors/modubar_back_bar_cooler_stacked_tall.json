@@ -13,7 +13,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Black Granite)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8",
+        "minecraft:dye:8:8",
         "minecraft:quartz:0:2"
       ]
     },
@@ -23,7 +23,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Golden Calacatta)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28",
+        "minecraft:dye:8:28",
         "minecraft:quartz:0:2"
       ]
     },
@@ -33,7 +33,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (White Marble)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28",
+        "minecraft:dye:8:28",
         "minecraft:quartz:0:2"
       ]
     },
@@ -43,7 +43,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Blue Sodalite)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28",
+        "minecraft:dye:8:28",
         "minecraft:quartz:0:2"
       ]
     },
@@ -53,7 +53,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Rosso Asiago)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28",
+        "minecraft:dye:8:28",
         "minecraft:quartz:0:2"
       ]
     },
@@ -63,7 +63,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Wooden with Marquina)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:28",
+        "minecraft:dye:8:28",
         "minecraft:quartz:0:2"
       ]
     }

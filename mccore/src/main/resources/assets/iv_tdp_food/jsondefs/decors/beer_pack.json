@@ -12,7 +12,7 @@
       "name": "Amber Beer Pack (varient 1)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:orange_dye:0:6"
+        "minecraft:dye:14:6"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Amber Beer Pack (varient 2)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:orange_dye:0:6"
+        "minecraft:dye:14:6"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Gramados Beer Pack (varient 1)",
       "description": "The delicious taste of Gramados' speciality beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:yellow_dye:0:6"
+        "minecraft:dye:11:6"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Gramados Beer Pack (varient 2)",
       "description": "The delicious taste of Gramados' speciality beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:yellow_dye:0:6"
+        "minecraft:dye:11:6"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Green Beer Pack (varient 1)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:green_dye:0:6"
+        "minecraft:dye:2:6"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Green Beer Pack (varient 2)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:green_dye:0:6"
+        "minecraft:dye:2:6"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "name": "Red Beer Pack (varient 1)",
       "description": "The delicious taste of red fruity beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:red_dye:0:6"
+        "minecraft:dye:1:6"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "name": "Red Beer Pack (varient 2)",
       "description": "The delicious taste of red fruity beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:red_dye:0:6"
+        "minecraft:dye:1:6"
       ]
     },
     {
@@ -84,7 +84,7 @@
       "name": "White Beer Pack (varient 1)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:white_dye:0:6"
+        "minecraft:dye:15:6"
       ]
     },
     {
@@ -93,7 +93,7 @@
       "name": "White Beer Pack (varient 2)",
       "description": "The delicious taste of beer, now in a pack!",
       "extraMaterials": [
-        "minecraft:white_dye:0:6"
+        "minecraft:dye:15:6"
       ]
     }
   ],

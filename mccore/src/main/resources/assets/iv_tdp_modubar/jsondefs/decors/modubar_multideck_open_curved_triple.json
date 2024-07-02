@@ -13,7 +13,7 @@
       "name": "Triple Width Curved Top Open Multideck (Black Granite)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Triple Width Curved Top Open Multideck (Golden Calacatta)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Triple Width Curved Top Open Multideck (White Marble)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Triple Width Curved Top Open Multideck (Blue Sodalite)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Triple Width Curved Top Open Multideck (Rosso Asiago)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Triple Width Curved Top Open Multideck (Wooden with Marquina)",
       "description": "Maximize your display with triple the space and a sleek curved top, making your chilled goods the center of attention.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

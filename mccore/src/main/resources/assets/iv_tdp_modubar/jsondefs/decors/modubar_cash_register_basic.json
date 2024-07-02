@@ -13,7 +13,7 @@
       "name": "Classic Cash Register (gray)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Classic Cash Register (white)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:white_dye:0:4"
+        "minecraft:dye:15:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Classic Cash Register (red)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:red_dye:0:4"
+        "minecraft:dye:1:4"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Classic Cash Register (tan)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:yellow_dye:0:4"
+        "minecraft:dye:11:4"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Classic Cash Register (brown)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:brown_dye:0:4"
+        "minecraft:dye:3:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Classic Cash Register (black)",
       "description": "Ring up sales the old-fashioned way with our reliable classic cash register!",
       "extraMaterials": [
-        "minecraft:black_dye:0:4"
+        "minecraft:dye:0:4"
       ]
     }
   ],

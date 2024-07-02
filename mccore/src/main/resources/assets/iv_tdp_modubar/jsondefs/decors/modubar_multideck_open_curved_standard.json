@@ -13,7 +13,7 @@
       "name": "Standard Curved Top Open Multideck (Black Granite)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Standard Curved Top Open Multideck (Golden Calacatta)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Standard Curved Top Open Multideck (White Marble)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Standard Curved Top Open Multideck (Blue Sodalite)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Standard Curved Top Open Multideck (Rosso Asiago)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Standard Curved Top Open Multideck (Wooden with Marquina)",
       "description": "Elegantly display your items with our curved top multideck, offering easy access and a stylish look.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     }
   ],

@@ -13,7 +13,7 @@
       "name": "Modular Back Bar Shelf Double Level (Black Granite)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Modular Back Bar Shelf Double Level (Golden Calacatta)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Modular Back Bar Shelf Double Level (White Marble)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Modular Back Bar Shelf Double Level (Blue Sodalite)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Modular Back Bar Shelf Double Level (Rosso Asiago)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Modular Back Bar Shelf Double Level (Wooden with Marquina)",
       "description": "Showcase larger bottles with our simple, double-level shelf!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     }
   ],

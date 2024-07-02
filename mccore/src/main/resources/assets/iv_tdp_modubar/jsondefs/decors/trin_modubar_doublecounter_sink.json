@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (Black Granite)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (Golden Calacatta)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (White Marble)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (Blue Sodalite)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (Rosso Asiago)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Double Counter with Dual Sinks (Wooden with Marquina)",
       "description": "Double the functionality with our Modubar counter, complete with dual sinks!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

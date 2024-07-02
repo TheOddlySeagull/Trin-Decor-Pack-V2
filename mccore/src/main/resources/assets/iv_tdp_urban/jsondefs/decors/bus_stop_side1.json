@@ -11,28 +11,28 @@
       "modelName": "bus_stop_side1",
       "name": "Bus Stop - Chrome",
       "description": "Has 1 side panels",
-      "extraMaterials": ["minecraft:light_gray_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:7:3"]
     },
     {
       "subName": "_copper",
       "modelName": "bus_stop_side1",
       "name": "Bus Stop - Copper",
       "description": "Has 1 side panels",
-      "extraMaterials": ["minecraft:brown_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:3:3"]
     },
     {
       "subName": "_gray",
       "modelName": "bus_stop_side1",
       "name": "Bus Stop - Gray",
       "description": "Has 1 side panels",
-      "extraMaterials": ["minecraft:gray_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:8:3"]
     },
     {
       "subName": "_green",
       "modelName": "bus_stop_side1",
       "name": "Bus Stop - Green",
       "description": "Has 1 side panels",
-      "extraMaterials": ["minecraft:green_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:2:3"]
     },
     {
       "subName": "_rust",
@@ -46,7 +46,7 @@
       "modelName": "bus_stop_side1",
       "name": "Bus Stop - White",
       "description": "Has 1 side panels",
-      "extraMaterials": ["minecraft:white_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:15:3"]
     }
   ],
   "prefixFolders": "",

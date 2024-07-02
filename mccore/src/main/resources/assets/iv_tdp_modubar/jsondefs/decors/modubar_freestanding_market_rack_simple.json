@@ -13,7 +13,7 @@
       "name": "Generic Free-Standing Rack Standard (Chrome)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Generic Free-Standing Rack Standard (Copper)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Generic Free-Standing Rack Standard (Gray)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Generic Free-Standing Rack Standard (Green)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Generic Free-Standing Rack Standard (Rust)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Generic Free-Standing Rack Standard (White)",
       "description": "Versatile and practical, our standard free-standing rack fits any space!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     }
   ],

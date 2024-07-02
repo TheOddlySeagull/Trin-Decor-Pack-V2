@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (Black Granite)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (Golden Calacatta)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (White Marble)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (Blue Sodalite)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (Rosso Asiago)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Trin Modubar - Empty Counter Module with Fridge (Wooden with Marquina)",
       "description": "Keep it cool with our Modubar counter featuring an under-counter fridge, ready to stock!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

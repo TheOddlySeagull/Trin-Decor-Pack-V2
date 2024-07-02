@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Solid Counter Module (Black Granite)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Solid Counter Module (Golden Calacatta)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Solid Counter Module (White Marble)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Solid Counter Module (Blue Sodalite)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Solid Counter Module (Rosso Asiago)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Solid Counter Module (Wooden with Marquina)",
       "description": "Sturdy and sleek, our solid counter module is a perfect foundation for your bar setup!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Open Counter Module (black granite)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Open Counter Module (Golden Calacatta)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Open Counter Module (White Marble)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Open Counter Module (Blue Sodalite)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Open Counter Module (Rosso Asiago)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Open Counter Module (Wooden with Marquina)",
       "description": "Light and budget-friendly, our open counter module offers easy access and simplicity!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

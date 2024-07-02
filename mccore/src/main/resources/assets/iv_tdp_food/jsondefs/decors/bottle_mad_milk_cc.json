@@ -10,19 +10,19 @@
       "subName": "_ssm",
       "modelName": "bottle_mad_milk_cc",
       "name": "Semi-Skimmed Mad Milk™ Bottle",
-      "extraMaterials": ["minecraft:light_blue_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:12:1"]
     },
 	{
       "subName": "_sm",
       "modelName": "bottle_mad_milk_cc",
       "name": "Skimmed Mad Milk™ Bottle",
-      "extraMaterials": ["minecraft:green_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:2:1"]
     },
 	{
       "subName": "_wm",
       "modelName": "bottle_mad_milk_cc",
       "name": "Whole Mad Milk™ Bottle",
-      "extraMaterials": ["minecraft:red_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:1:1"]
     }
   ],
   "general": {

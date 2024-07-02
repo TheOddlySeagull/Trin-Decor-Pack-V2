@@ -13,7 +13,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (Black Granite)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (Golden Calacatta)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (White Marble)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (Blue Sodalite)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (Rosso Asiago)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Modular Back Bar Designer Triple Shelf Quad Level (Wooden with Marquina)",
       "description": "Elegant and efficient, our designer four-level shelf for standard bottles!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

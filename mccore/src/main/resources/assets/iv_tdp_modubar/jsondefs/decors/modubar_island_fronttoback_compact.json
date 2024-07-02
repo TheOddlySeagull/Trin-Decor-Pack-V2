@@ -13,7 +13,7 @@
       "name": "Island Compact Display Front-to-Back (Black Granite)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Island Compact Display Front-to-Back (Golden Calacatta)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Island Compact Display Front-to-Back (White Marble)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Island Compact Display Front-to-Back (Blue Sodalite)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Island Compact Display Front-to-Back (Rosso Asiago)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Island Compact Display Front-to-Back (Wooden with Marquina)",
       "description": "Compact and convenient, perfect for smaller spaces with front-to-back sliding doors!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

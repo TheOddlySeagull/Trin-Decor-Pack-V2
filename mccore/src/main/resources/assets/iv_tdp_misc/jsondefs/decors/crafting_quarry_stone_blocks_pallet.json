@@ -13,7 +13,7 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:1:4",
-        "minecraft:black_dye:0:8"
+        "minecraft:dye:0:8"
       ]
     },
     {
@@ -23,7 +23,7 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:white_dye:0:8",
+        "minecraft:dye:15:8",
         "minecraft:gold_ingot:0:1",
         "minecraft:quartz:0:4"
       ]
@@ -35,7 +35,7 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:white_dye:0:8",
+        "minecraft:dye:15:8",
         "minecraft:quartz:0:4"
       ]
     },
@@ -47,8 +47,8 @@
       "extraMaterials": [
         "minecraft:stone:0:2",
         "minecraft:lapis_block:0:2",
-        "minecraft:light_blue_dye:0:4",
-        "minecraft:white_dye:0:4"
+        "minecraft:dye:12:4",
+        "minecraft:dye:15:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:red_dye:0:8"
+        "minecraft:dye:1:8"
       ]
     },
     {
@@ -68,7 +68,7 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:green_dye:0:8"
+        "minecraft:dye:2:8"
       ]
     },
     {
@@ -78,8 +78,8 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:black_dye:0:6",
-        "minecraft:gray_dye:0:2"
+        "minecraft:dye:0:6",
+        "minecraft:dye:8:2"
       ]
     },
     {
@@ -89,8 +89,8 @@
       "description": "Straight from the quarry, these stone blocks are perfect for crafting.",
       "extraMaterials": [
         "minecraft:stone:0:4",
-        "minecraft:yellow_dye:0:6",
-        "minecraft:gray_dye:0:2"
+        "minecraft:dye:11:6",
+        "minecraft:dye:8:2"
       ]
     }
   ],

@@ -10,37 +10,37 @@
       "subName": "_red",
       "modelName": "small_house_bin",
       "name": "Small House Bin - Red",
-      "extraMaterials": ["minecraft:red_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:1:3"]
     },
     {
       "subName": "_green",
       "modelName": "small_house_bin",
       "name": "Small House Bin - Green",
-      "extraMaterials": ["minecraft:green_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:2:3"]
     },
     {
       "subName": "_white",
       "modelName": "small_house_bin",
       "name": "Small House Bin - White",
-      "extraMaterials": ["minecraft:white_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:15:3"]
     },
     {
       "subName": "_black",
       "modelName": "small_house_bin",
       "name": "Small House Bin - Black",
-      "extraMaterials": ["minecraft:black_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:0:3"]
     },
     {
       "subName": "_blue",
       "modelName": "small_house_bin",
       "name": "Small House Bin - Blue",
-      "extraMaterials": ["minecraft:blue_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:4:3"]
     },
     {
       "subName": "_yellow",
       "modelName": "small_house_bin",
       "name": "Small House Bin - Yellow",
-      "extraMaterials": ["minecraft:yellow_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:11:3"]
     }
   ],
   "general": {

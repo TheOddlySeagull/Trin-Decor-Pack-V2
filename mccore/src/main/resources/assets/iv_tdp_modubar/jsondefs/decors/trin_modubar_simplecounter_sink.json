@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Counter Module with Sink (Black Granite)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Counter Module with Sink (Golden Calacatta)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Counter Module with Sink (White Marble)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Counter Module with Sink (Blue Sodalite)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Counter Module with Sink (Rosso Asiago)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Counter Module with Sink (Wooden with Marquina)",
       "description": "Keep it clean and convenient with our Modubar counter featuring a sink!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

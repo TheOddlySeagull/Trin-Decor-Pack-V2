@@ -13,7 +13,7 @@
       "name": "Standard Multideck with Door (Black Granite)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Standard Multideck with Door (Golden Calacatta)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Standard Multideck with Door (White Marble)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Standard Multideck with Door (Blue Sodalite)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Standard Multideck with Door (Rosso Asiago)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Standard Multideck with Door (Wooden with Marquina)",
       "description": "Keep it cool and convenient with our standard multideck, complete with a door for easy access.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     }
   ],

@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (Black Granite)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (Golden Calacatta)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (White Marble)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (Blue Sodalite)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (Rosso Asiago)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Trin Modubar - Counter Module with Open Shelves (Wooden with Marquina)",
       "description": "Display and store with ease using our Modubar counter module, featuring convenient open shelves beneath the counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

@@ -12,7 +12,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (Black Granite)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (Golden Calacatta)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (White Marble)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (Blue Sodalite)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (Rosso Asiago)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Long Checkout Counter with Conveyor Belt (Wooden with Marquina)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:20"
+        "minecraft:dye:8:20"
       ]
     }
   ],

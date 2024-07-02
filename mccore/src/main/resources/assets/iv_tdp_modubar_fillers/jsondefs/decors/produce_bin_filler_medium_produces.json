@@ -12,7 +12,7 @@
       "name": "Produce Bin Filler (orange)",
       "description": "Always look fully stocked with our orange filler!",
       "extraMaterials": [
-        "minecraft:orange_dye:0:3"
+        "minecraft:dye:14:3"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Produce Bin Filler (lemon)",
       "description": "Always look fully stocked with our lemon filler!",
       "extraMaterials": [
-        "minecraft:yellow_dye:0:3"
+        "minecraft:dye:11:3"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Produce Bin Filler (lime)",
       "description": "Always look fully stocked with our lime filler!",
       "extraMaterials": [
-        "minecraft:green_dye:0:3"
+        "minecraft:dye:2:3"
       ]
     }
   ],

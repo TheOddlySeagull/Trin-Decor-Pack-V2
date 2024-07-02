@@ -12,7 +12,7 @@
       "name": "Display Table Large (Black Granite)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Display Table Large (Golden Calacatta)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Display Table Large (White Marble)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Display Table Large (Blue Sodalite)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Display Table Large (Rosso Asiago)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Display Table Large (Wooden with Marquina)",
       "description": "Make a big impression with our spacious large display table!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

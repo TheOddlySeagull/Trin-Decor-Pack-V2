@@ -11,8 +11,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - gray with blue lid",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3",
-        "minecraft:light_blue_dye:0:1"
+        "minecraft:dye:8:3",
+        "minecraft:dye:12:1"
       ]
     },
     {
@@ -20,8 +20,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - gray with gray lid",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3",
-        "minecraft:gray_dye:0:1"
+        "minecraft:dye:8:3",
+        "minecraft:dye:8:1"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - gray with green lid",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3",
-        "minecraft:lime_dye:0:1"
+        "minecraft:dye:8:3",
+        "minecraft:dye:10:1"
       ]
     },
     {
@@ -38,8 +38,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - gray with red lid",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3",
-        "minecraft:red_dye:0:1"
+        "minecraft:dye:8:3",
+        "minecraft:dye:1:1"
       ]
     },
     {
@@ -47,8 +47,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - gray with yellow lid",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3",
-        "minecraft:yellow_dye:0:1"
+        "minecraft:dye:8:3",
+        "minecraft:dye:11:1"
       ]
     },
     {
@@ -56,8 +56,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - white with blue lid",
       "extraMaterials": [
-        "minecraft:white_dye:0:3",
-        "minecraft:light_blue_dye:0:1"
+        "minecraft:dye:15:3",
+        "minecraft:dye:12:1"
       ]
     },
     {
@@ -65,8 +65,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - white with gray lid",
       "extraMaterials": [
-        "minecraft:white_dye:0:3",
-        "minecraft:gray_dye:0:1"
+        "minecraft:dye:15:3",
+        "minecraft:dye:8:1"
       ]
     },
     {
@@ -74,8 +74,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - white with green lid",
       "extraMaterials": [
-        "minecraft:white_dye:0:3",
-        "minecraft:lime_dye:0:1"
+        "minecraft:dye:15:3",
+        "minecraft:dye:10:1"
       ]
     },
     {
@@ -83,8 +83,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - white with red lid",
       "extraMaterials": [
-        "minecraft:white_dye:0:3",
-        "minecraft:red_dye:0:1"
+        "minecraft:dye:15:3",
+        "minecraft:dye:1:1"
       ]
     },
     {
@@ -92,8 +92,8 @@
       "modelName": "trash_can_simple",
       "name": "House Hold Trash Can - white with yellow lid",
       "extraMaterials": [
-        "minecraft:white_dye:0:3",
-        "minecraft:yellow_dye:0:1"
+        "minecraft:dye:15:3",
+        "minecraft:dye:11:1"
       ]
     }
   ],

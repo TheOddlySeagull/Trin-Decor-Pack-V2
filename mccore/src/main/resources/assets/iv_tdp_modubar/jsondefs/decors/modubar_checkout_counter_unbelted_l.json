@@ -12,7 +12,7 @@
       "name": "L-Shaped Compact Checkout Counter (Black Granite)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "L-Shaped Compact Checkout Counter (Golden Calacatta)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "L-Shaped Compact Checkout Counter (White Marble)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "L-Shaped Compact Checkout Counter (Blue Sodalite)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "L-Shaped Compact Checkout Counter (Rosso Asiago)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "L-Shaped Compact Checkout Counter (Wooden with Marquina)",
       "description": "Maximize efficiency with our L-shaped counter, giving your worker extra space to shine!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:16"
+        "minecraft:dye:8:16"
       ]
     }
   ],

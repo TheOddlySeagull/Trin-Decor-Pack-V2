@@ -12,25 +12,25 @@
       "subName": "_chrome",
       "name": "Wire Mesh Fence Angle - Chrome Pole",
 		"description": "angle",
-      "extraMaterials": ["minecraft:light_gray_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:7:1"]
     },
     {
 		"subName": "_copper",
 		"name": "Wire Mesh Fence Angle - Copper Pole",
 		"description": "angle",
-		"extraMaterials": ["minecraft:brown_dye:0:1"]
+		"extraMaterials": ["minecraft:dye:3:1"]
     },
     {
       "subName": "_gray",
       "name": "Wire Mesh Fence Angle - Gray Pole",
 		"description": "angle",
-      "extraMaterials": ["minecraft:gray_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:8:1"]
     },
     {
       "subName": "_green",
       "name": "Wire Mesh Fence Angle - Green Pole",
 		"description": "angle",
-      "extraMaterials": ["minecraft:green_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:2:1"]
     },
     {
       "subName": "_rust",
@@ -42,7 +42,7 @@
       "subName": "_white",
       "name": "Wire Mesh Fence Angle - White Pole",
 		"description": "angle",
-      "extraMaterials": ["minecraft:white_dye:0:1"]
+      "extraMaterials": ["minecraft:dye:15:1"]
     }
 	]
 }

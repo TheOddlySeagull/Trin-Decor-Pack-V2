@@ -10,7 +10,7 @@
       "subName": "_red",
       "modelName": "wall_radiator_small",
       "name": "Small Wall Radiator - Red",
-      "extraMaterials": ["minecraft:red_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:1:3"]
     },
     {
       "subName": "_rust",
@@ -22,25 +22,25 @@
       "subName": "_brown",
       "modelName": "wall_radiator_small",
       "name": "Small Wall Radiator - Brown",
-      "extraMaterials": ["minecraft:brown_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:3:3"]
     },
     {
       "subName": "_black",
       "modelName": "wall_radiator_small",
       "name": "Small Wall Radiator - Black",
-      "extraMaterials": ["minecraft:black_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:0:3"]
     },
     {
       "subName": "_gray",
       "modelName": "wall_radiator_small",
       "name": "Small Wall Radiator - Gray",
-      "extraMaterials": ["minecraft:light_gray_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:7:3"]
     },
     {
       "subName": "_white",
       "modelName": "wall_radiator_small",
       "name": "Small Wall Radiator - White",
-      "extraMaterials": ["minecraft:white_dye:0:3"]
+      "extraMaterials": ["minecraft:dye:15:3"]
     }
   ],
   "general": {

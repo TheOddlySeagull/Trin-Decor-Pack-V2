@@ -12,7 +12,7 @@
       "name": "Glass-Edged Display Table Large (Black Granite)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Glass-Edged Display Table Large (Golden Calacatta)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Glass-Edged Display Table Large (White Marble)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Glass-Edged Display Table Large (Blue Sodalite)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Glass-Edged Display Table Large (Rosso Asiago)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Glass-Edged Display Table Large (Wooden with Marquina)",
       "description": "Showcase in style with our large table, complete with elegant glass extensions!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

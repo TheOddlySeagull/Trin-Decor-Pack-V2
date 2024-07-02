@@ -10,25 +10,25 @@
       "subName": "_blue",
       "modelName": "ticket_machine",
       "name": "Ticket Machine (blue)",
-      "extraMaterials": ["minecraft:blue_dye:0:2"]
+      "extraMaterials": ["minecraft:dye:4:2"]
     },
     {
       "subName": "_green",
       "modelName": "ticket_machine",
       "name": "Ticket Machine (green)",
-      "extraMaterials": ["minecraft:green_dye:0:2"]
+      "extraMaterials": ["minecraft:dye:2:2"]
     },
     {
       "subName": "_orange",
       "modelName": "ticket_machine",
       "name": "Ticket Machine (orange)",
-      "extraMaterials": ["minecraft:orange_dye:0:2"]
+      "extraMaterials": ["minecraft:dye:14:2"]
     },
     {
       "subName": "_red",
       "modelName": "ticket_machine",
       "name": "Ticket Machine (red)",
-      "extraMaterials": ["minecraft:red_dye:0:2"]
+      "extraMaterials": ["minecraft:dye:1:2"]
     }
   ],
   "prefixFolders": "",

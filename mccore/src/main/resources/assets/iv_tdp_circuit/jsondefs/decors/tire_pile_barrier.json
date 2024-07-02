@@ -16,43 +16,43 @@
       "subName": "_black",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - black",
-      "extraMaterials": ["minecraft:black_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:0:8"]
     },
     {
       "subName": "_lightred",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - light red",
-      "extraMaterials": ["minecraft:red_dye:0:4","minecraft:white_dye:0:4"]
+      "extraMaterials": ["minecraft:dye:1:4","minecraft:dye:15:4"]
     },
     {
       "subName": "_pink",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - pink",
-      "extraMaterials": ["minecraft:pink_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:9:8"]
     },
     {
       "subName": "_red",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - red",
-      "extraMaterials": ["minecraft:red_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:1:8"]
     },
     {
       "subName": "_trin",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - trin",
-      "extraMaterials": ["minecraft:light_blue_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:12:8"]
     },
     {
       "subName": "_white",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - white",
-      "extraMaterials": ["minecraft:white_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:15:8"]
     },
     {
       "subName": "_yellow",
       "modelName": "tire_pile_barrier",
       "name": "Tire Pile Barrier - yellow",
-      "extraMaterials": ["minecraft:yellow_dye:0:8"]
+      "extraMaterials": ["minecraft:dye:11:8"]
     }
   ],
   "general": {

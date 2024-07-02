@@ -12,8 +12,8 @@
       "name": "Produce Bin Filler (Ground Chili)",
       "description": "Always look fully stocked with our ground chili filler!",
       "extraMaterials": [
-        "minecraft:red_dye:0:2",
-        "minecraft:yellow_dye:0:1"
+        "minecraft:dye:1:2",
+        "minecraft:dye:11:1"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Produce Bin Filler (Cinnamon Powder)",
       "description": "Always look fully stocked with our cinnamon powder filler!",
       "extraMaterials": [
-        "minecraft:orange_dye:0:3"
+        "minecraft:dye:14:3"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Produce Bin Filler (Yellow Curry)",
       "description": "Always look fully stocked with our yellow curry filler!",
       "extraMaterials": [
-        "minecraft:yellow_dye:0:3"
+        "minecraft:dye:11:3"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Produce Bin Filler (Ground Garlic)",
       "description": "Always look fully stocked with our ground garlic filler!",
       "extraMaterials": [
-        "minecraft:light_gray_dye:0:3"
+        "minecraft:dye:7:3"
       ]
     },
     {
@@ -49,8 +49,8 @@
       "name": "Produce Bin Filler (Masala Powder)",
       "description": "Always look fully stocked with our masala powder filler!",
       "extraMaterials": [
-        "minecraft:orange_dye:0:1",
-        "minecraft:white_dye:0:2"
+        "minecraft:dye:14:1",
+        "minecraft:dye:15:2"
       ]
     },
     {
@@ -59,7 +59,7 @@
       "name": "Produce Bin Filler (Ground Pepper)",
       "description": "Always look fully stocked with our ground pepper filler!",
       "extraMaterials": [
-        "minecraft:black_dye:0:3"
+        "minecraft:dye:0:3"
       ]
     },
     {
@@ -68,7 +68,7 @@
       "name": "Produce Bin Filler (Red Paprika)",
       "description": "Always look fully stocked with our red paprika filler!",
       "extraMaterials": [
-        "minecraft:red_dye:0:3"
+        "minecraft:dye:1:3"
       ]
     },
     {
@@ -77,8 +77,8 @@
       "name": "Produce Bin Filler (Thyme)",
       "description": "Always look fully stocked with our thyme filler!",
       "extraMaterials": [
-        "minecraft:green_dye:0:1",
-        "minecraft:light_gray_dye:0:2"
+        "minecraft:dye:2:1",
+        "minecraft:dye:7:2"
       ]
     },
     {
@@ -87,8 +87,8 @@
       "name": "Produce Bin Filler (Turmeric)",
       "description": "Always look fully stocked with our turmeric filler!",
       "extraMaterials": [
-        "minecraft:brown_dye:0:1",
-        "minecraft:yellow_dye:0:2"
+        "minecraft:dye:3:1",
+        "minecraft:dye:11:2"
       ]
     }
   ],

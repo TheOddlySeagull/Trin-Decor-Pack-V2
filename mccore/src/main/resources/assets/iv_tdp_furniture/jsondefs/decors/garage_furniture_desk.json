@@ -20,6 +20,6 @@
   "classification": "decor",
   "general": {
     "name": "Garage Furniture - desk",
-    "materials": ["minecraft:iron_ingot:0:10","minecraft:planks:1:1","minecraft:red_dye:0:2"]
+    "materials": ["minecraft:iron_ingot:0:10","minecraft:planks:1:1","minecraft:dye:1:2"]
   }
 }

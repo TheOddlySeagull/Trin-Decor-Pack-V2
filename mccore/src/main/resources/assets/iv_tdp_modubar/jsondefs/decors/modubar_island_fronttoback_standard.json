@@ -13,7 +13,7 @@
       "name": "Island Standard Display Front-to-Back (Black Granite)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Island Standard Display Front-to-Back (Golden Calacatta)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Island Standard Display Front-to-Back (White Marble)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Island Standard Display Front-to-Back (Blue Sodalite)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Island Standard Display Front-to-Back (Rosso Asiago)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Island Standard Display Front-to-Back (Wooden with Marquina)",
       "description": "Create an island of freshness with sliding doors that open front to back!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

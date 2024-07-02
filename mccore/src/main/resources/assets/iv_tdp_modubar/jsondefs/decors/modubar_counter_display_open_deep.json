@@ -13,7 +13,7 @@
       "name": "Modubar Deep Open-top Display (Black Granite)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:light_gray_dye:0:12"
+        "minecraft:dye:7:12"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Modubar Deep Open-top Display (Golden Calacatta)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Modubar Deep Open-top Display (White Marble)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Modubar Deep Open-top Display (Blue Sodalite)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Modubar Deep Open-top Display (Rosso Asiago)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Modubar Deep Open-top Display (Wooden with Marquina)",
       "description": "Deep enough for all your gourmet delights and Gastronorm goodies!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

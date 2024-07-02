@@ -52,37 +52,37 @@
       "subName": "_interior_gray",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - Gray",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:gray_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:8:2"]
     },
 	{
       "subName": "_interior_white",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - White",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:white_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:15:2"]
     },
 	{
       "subName": "_interior_red",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - Red",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:red_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:1:2"]
     },
 	{
       "subName": "_interior_tan",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - Tan",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:yellow_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:11:2"]
     },
 	{
       "subName": "_interior_brown",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - Brown",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:brown_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:3:2"]
     },
 	{
       "subName": "_interior_black",
       "modelName": "furniture_table_1x1",
       "name": "(Decor) Interior Table [1*1] - Black",
-      "extraMaterials": ["minecraft:planks:0:2","minecraft:black_dye:0:2"]
+      "extraMaterials": ["minecraft:planks:0:2","minecraft:dye:0:2"]
     }
   ],
   "general": {

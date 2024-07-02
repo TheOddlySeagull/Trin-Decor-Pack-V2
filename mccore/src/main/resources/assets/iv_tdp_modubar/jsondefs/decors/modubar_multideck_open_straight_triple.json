@@ -13,7 +13,7 @@
       "name": "Triple Width Square Open Multideck (Black Granite)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Triple Width Square Open Multideck (Golden Calacatta)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Triple Width Square Open Multideck (White Marble)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Triple Width Square Open Multideck (Blue Sodalite)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Triple Width Square Open Multideck (Rosso Asiago)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Triple Width Square Open Multideck (Wooden with Marquina)",
       "description": "Triple the display space in a squared design, perfect for keeping your goods chilled and easily accessible.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

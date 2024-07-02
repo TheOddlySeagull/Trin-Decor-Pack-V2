@@ -13,7 +13,7 @@
       "name": "Modubar Short Chilled Showcase (Black Granite)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Modubar Short Chilled Showcase (Golden Calacatta)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Modubar Short Chilled Showcase (White Marble)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Modubar Short Chilled Showcase (Blue Sodalite)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Modubar Short Chilled Showcase (Rosso Asiago)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Modubar Short Chilled Showcase (Wooden with Marquina)",
       "description": "Compact yet cool, our short variant keeps things chilled with its sleek glass design. Slide into freshness with ease!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:12"
+        "minecraft:dye:8:12"
       ]
     }
   ],

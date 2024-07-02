@@ -12,7 +12,7 @@
       "name": "Modern Produce Bin (Black Granite)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Modern Produce Bin (Golden Calacatta)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Modern Produce Bin (White Marble)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Modern Produce Bin (Blue Sodalite)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Modern Produce Bin (Rosso Asiago)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Modern Produce Bin (Wooden with Marquina)",
       "description": "Fresh and stylish, our modern produce bin keeps your fruits and veggies in the spotlight!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

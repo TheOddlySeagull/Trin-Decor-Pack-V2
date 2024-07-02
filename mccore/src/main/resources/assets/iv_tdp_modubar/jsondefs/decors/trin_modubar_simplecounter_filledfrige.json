@@ -13,7 +13,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (Black Granite)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (Golden Calacatta)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (White Marble)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (Blue Sodalite)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (Rosso Asiago)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Trin Modubar - Filled Counter Module with Fridge (Wooden with Marquina)",
       "description": "Serve chilled perfection with our Modubar counter, complete with a stocked under-counter fridge!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

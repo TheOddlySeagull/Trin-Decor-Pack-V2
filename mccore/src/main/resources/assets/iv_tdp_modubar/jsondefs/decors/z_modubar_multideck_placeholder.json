@@ -12,7 +12,7 @@
       "name": "Placeholder Multideck",
       "description": "Helps pack authors to offset their conventionnal multideck fillers correctly.",
       "extraMaterials": [
-        "minecraft:gray_dye:0:8"
+        "minecraft:dye:8:8"
       ]
     }
   ],

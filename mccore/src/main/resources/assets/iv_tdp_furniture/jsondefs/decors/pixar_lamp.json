@@ -20,6 +20,6 @@
   "classification": "decor",
   "general": {
     "name": "A lamp jumping on an I",
-    "materials": ["minecraft:glowstone_dust:0:1","minecraft:redstone:0:1","minecraft:iron_ingot:0:1","minecraft:white_dye:0:1"]
+    "materials": ["minecraft:glowstone_dust:0:1","minecraft:redstone:0:1","minecraft:iron_ingot:0:1","minecraft:dye:15:1"]
   }
 }

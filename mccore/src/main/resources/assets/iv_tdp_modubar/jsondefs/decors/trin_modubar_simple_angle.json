@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Corner Counter Element (black granite)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Corner Counter Element (Golden Calacatta)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Corner Counter Element (White Marble)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Corner Counter Element (Blue Sodalite)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Corner Counter Element (Rosso Asiago)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Corner Counter Element (Wooden with Marquina)",
       "description": "Seamlessly turn the corner with our Modubar 90-degree counter element!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

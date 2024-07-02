@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (Black Granite)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (Golden Calacatta)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (White Marble)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (Blue Sodalite)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (Rosso Asiago)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Basic End Counter Element Left (Wooden with Marquina)",
       "description": "Complete your bar with our basic left-end counter element for a polished finish!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],

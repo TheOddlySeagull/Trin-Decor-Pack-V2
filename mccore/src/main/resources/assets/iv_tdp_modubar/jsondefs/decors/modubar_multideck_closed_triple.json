@@ -13,7 +13,7 @@
       "name": "Triple Width Multideck with Door (Black Granite)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -22,7 +22,7 @@
       "name": "Triple Width Multideck with Door (Golden Calacatta)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "name": "Triple Width Multideck with Door (White Marble)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -40,7 +40,7 @@
       "name": "Triple Width Multideck with Door (Blue Sodalite)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "name": "Triple Width Multideck with Door (Rosso Asiago)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     },
     {
@@ -58,7 +58,7 @@
       "name": "Triple Width Multideck with Door (Wooden with Marquina)",
       "description": "Triple the space for your chilled goods, featuring doors for ultimate freshness and convenience!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:24"
+        "minecraft:dye:8:24"
       ]
     }
   ],

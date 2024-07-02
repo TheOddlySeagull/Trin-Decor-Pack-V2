@@ -12,7 +12,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Black Granite)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:3"
+        "minecraft:dye:8:3"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Golden Calacatta)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -30,7 +30,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (White Marble)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -39,7 +39,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Blue Sodalite)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -48,7 +48,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Rosso Asiago)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "name": "Trin Modubar - Counter Expansion Angle (Wooden with Marquina)",
       "description": "Improve your couter with our counter angle expansion!",
       "extraMaterials": [
-        "minecraft:gray_dye:0:4"
+        "minecraft:dye:8:4"
       ]
     }
   ],
