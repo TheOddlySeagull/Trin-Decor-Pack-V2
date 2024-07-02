@@ -13,8 +13,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Black Granite)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:8",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:0:8"
       ]
     },
     {
@@ -23,8 +22,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Golden Calacatta)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:28",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:15:8"
       ]
     },
     {
@@ -33,8 +31,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (White Marble)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:28",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:8:8"
       ]
     },
     {
@@ -43,8 +40,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Blue Sodalite)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:28",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:4:8"
       ]
     },
     {
@@ -53,8 +49,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Rosso Asiago)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:28",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:1:8"
       ]
     },
     {
@@ -63,8 +58,7 @@
       "name": "Modubar Double Stack Back Bar Cooler (Wooden with Marquina)",
       "description": "Double the cool with our stacked back bar cooler, keeping your essentials perfectly chilled!",
       "extraMaterials": [
-        "minecraft:dye:8:28",
-        "minecraft:quartz:0:2"
+        "minecraft:dye:3:8"
       ]
     }
   ],
@@ -72,8 +66,8 @@
     "materials": [
       "minecraft:iron_ingot:0:8",
       "minecraft:glass_pane:0:2",
-      "minecraft:iron_bars:0:3",
-      "minecraft:snowball:0:4"
+      "minecraft:snowball:0:4",
+      "mts:iv_tpp.metal_pile_6:0:4"
     ]
   },
   "rendering": {

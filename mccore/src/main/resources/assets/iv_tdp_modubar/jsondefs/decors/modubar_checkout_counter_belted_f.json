@@ -12,7 +12,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (Black Granite)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_angola_black_granite:0:5",
+        "minecraft:dye:0:28",
+        "mts:iv_tpp.ornament_panel_pile_black:0:12"
       ]
     },
     {
@@ -21,7 +23,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (Golden Calacatta)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_calacatta_gold_marble:0:5",
+        "minecraft:dye:15:28",
+        "mts:iv_tpp.ornament_panel_pile_gold:0:12"
       ]
     },
     {
@@ -30,7 +34,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (White Marble)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_white_marble:0:5",
+        "minecraft:dye:8:28",
+        "mts:iv_tpp.ornament_panel_pile_white:0:12"
       ]
     },
     {
@@ -39,7 +45,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (Blue Sodalite)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_blue_sodalite:0:5",
+        "minecraft:dye:4:28",
+        "mts:iv_tpp.ornament_panel_pile_blue:0:12"
       ]
     },
     {
@@ -48,7 +56,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (Rosso Asiago)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_rosso_asiago:0:5",
+        "minecraft:dye:1:28",
+        "mts:iv_tpp.wood_panel_pile_cherry:0:12"
       ]
     },
     {
@@ -57,7 +67,9 @@
       "name": "F-Shaped Checkout Counter with Conveyor Belt (Wooden with Marquina)",
       "description": "Experience ultimate comfort and space with our F-shaped counter, featuring a convenient conveyor belt!",
       "extraMaterials": [
-        "minecraft:dye:8:28"
+        "mts:iv_tdp_misc.crafting_stone_slab_nero_marquina:0:5",
+        "minecraft:dye:3:28",
+        "mts:iv_tpp.wood_panel_pile_provincial:0:12"
       ]
     }
   ],

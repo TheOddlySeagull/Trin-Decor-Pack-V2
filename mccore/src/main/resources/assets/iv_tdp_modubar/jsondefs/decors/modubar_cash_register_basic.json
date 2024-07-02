@@ -64,7 +64,8 @@
   ],
   "general": {
     "materials": [
-      "minecraft:iron_ingot:0:4"
+      "minecraft:iron_ingot:0:4",
+      "minecraft:redstone:0:4"
     ]
   }
 }

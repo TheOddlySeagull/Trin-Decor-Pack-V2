@@ -13,7 +13,8 @@
       "name": "Modubar Compact Back Bar Cooler (Black Granite)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
-        "minecraft:dye:7:4"
+        "mts:iv_tdp_misc.crafting_stone_slab_angola_black_granite:0:1",
+        "minecraft:dye:0:4"
       ]
     },
     {
@@ -22,7 +23,8 @@
       "name": "Modubar Compact Back Bar Cooler (Golden Calacatta)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "mts:iv_tdp_misc.crafting_stone_slab_calacatta_gold_marble:0:1",
+        "minecraft:dye:15:4"
       ]
     },
     {
@@ -31,6 +33,7 @@
       "name": "Modubar Compact Back Bar Cooler (White Marble)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
+        "mts:iv_tdp_misc.crafting_stone_slab_white_marble:0:1",
         "minecraft:dye:8:4"
       ]
     },
@@ -40,7 +43,8 @@
       "name": "Modubar Compact Back Bar Cooler (Blue Sodalite)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "mts:iv_tdp_misc.crafting_stone_slab_blue_sodalite:0:1",
+        "minecraft:dye:4:4"
       ]
     },
     {
@@ -49,7 +53,8 @@
       "name": "Modubar Compact Back Bar Cooler (Rosso Asiago)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "mts:iv_tdp_misc.crafting_stone_slab_rosso_asiago:0:1",
+        "minecraft:dye:1:4"
       ]
     },
     {
@@ -58,7 +63,8 @@
       "name": "Modubar Compact Back Bar Cooler (Wooden with Marquina)",
       "description": "Compact and cool, perfect for stashing your bar essentials within arm's reach!",
       "extraMaterials": [
-        "minecraft:dye:8:4"
+        "mts:iv_tdp_misc.crafting_stone_slab_nero_marquina:0:1",
+        "minecraft:dye:3:4"
       ]
     }
   ],
@@ -66,8 +72,8 @@
     "materials": [
       "minecraft:iron_ingot:0:4",
       "minecraft:glass_pane:0:1",
-      "minecraft:quartz:0:2",
-      "minecraft:snowball:0:4"
+      "minecraft:snowball:0:4",
+      "mts:iv_tpp.metal_pile_6:0:2"
     ]
   },
   "rendering": {

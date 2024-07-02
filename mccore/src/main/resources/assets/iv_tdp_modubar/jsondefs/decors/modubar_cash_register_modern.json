@@ -65,7 +65,8 @@
   "general": {
     "materials": [
       "minecraft:iron_ingot:0:4",
-      "minecraft:glass_pane:0:1"
+      "minecraft:glass_pane:0:1",
+      "minecraft:redstone:0:4"
     ]
   }
 }

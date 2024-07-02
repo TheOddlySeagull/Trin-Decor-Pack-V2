@@ -12,7 +12,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (Black Granite)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_angola_black_granite:0:3",
+        "minecraft:dye:0:20",
+        "mts:iv_tpp.ornament_panel_pile_black:0:7"
       ]
     },
     {
@@ -21,7 +23,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (Golden Calacatta)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_calacatta_gold_marble:0:3",
+        "minecraft:dye:15:20",
+        "mts:iv_tpp.ornament_panel_pile_gold:0:7"
       ]
     },
     {
@@ -30,7 +34,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (White Marble)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_white_marble:0:3",
+        "minecraft:dye:8:20",
+        "mts:iv_tpp.ornament_panel_pile_white:0:7"
       ]
     },
     {
@@ -39,7 +45,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (Blue Sodalite)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_blue_sodalite:0:3",
+        "minecraft:dye:4:20",
+        "mts:iv_tpp.ornament_panel_pile_blue:0:7"
       ]
     },
     {
@@ -48,7 +56,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (Rosso Asiago)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_rosso_asiago:0:3",
+        "minecraft:dye:1:20",
+        "mts:iv_tpp.wood_panel_pile_cherry:0:7"
       ]
     },
     {
@@ -57,7 +67,9 @@
       "name": "Long Checkout Counter with Conveyor Belt (Wooden with Marquina)",
       "description": "Keep the line moving smoothly with our spacious, belt-equipped checkout counter!",
       "extraMaterials": [
-        "minecraft:dye:8:20"
+        "mts:iv_tdp_misc.crafting_stone_slab_nero_marquina:0:3",
+        "minecraft:dye:3:20",
+        "mts:iv_tpp.wood_panel_pile_provincial:0:7"
       ]
     }
   ],
