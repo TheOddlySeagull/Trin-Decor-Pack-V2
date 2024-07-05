@@ -19,6 +19,6 @@
   "classification": "decor",
   "general": {
     "name": "Water Fountain",
-    "materials": ["minecraft:iron_ingot:0:10","minecraft:dye:1:1","minecraft:dye:12:1","mts:iv_tpp.metal_pile_2:0:1","mts:iv_tpp.water_fountain_tank:0:1"]
+    "materials": ["minecraft:iron_ingot:0:10","minecraft:dye:1:1","minecraft:dye:12:1","mts:iv_tpp.metal_pile_2:0:1","mts:iv_tdp_furniture.water_fountain_tank:0:1"]
   }
 }

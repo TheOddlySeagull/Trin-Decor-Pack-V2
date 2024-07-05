@@ -19,6 +19,6 @@
   "classification": "decor",
   "general": {
     "name": "Pile of Average Steely Wheels",
-    "materials": ["mts:iv_tpp.wheel_14h_4w_steely_c:0:4"]
+    "materials": ["mts:iv_tpp.wheel_classic_4d14_0_steel:0:4"]
   }
 }

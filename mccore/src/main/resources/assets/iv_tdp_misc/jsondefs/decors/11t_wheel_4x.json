@@ -13,12 +13,8 @@
       "extraMaterials": []
     }
   ],
-  "prefixFolders": "",
-  "packID": "iv_tpp",
-  "systemName": "11t_wheel_4x",
-  "classification": "decor",
   "general": {
     "name": "Pile of Small Steely Wheels",
-    "materials": ["mts:iv_tpp.wheel_11h_3w_steely_c:0:4"]
+    "materials": ["mts:iv_tpp.wheel_classic_3d11_0_steel:0:4"]
   }
 }
