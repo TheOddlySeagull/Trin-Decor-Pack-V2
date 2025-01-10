@@ -1,0 +1,59 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 1.0,
+    "height": 1.0,
+    "depth": 0.10
+  },
+  "definitions": [
+    {
+      "subName": "_for_sale",
+      "modelName": "real_estate_sign",
+      "name": "For Sale Sign",
+      "description": "The perfect sign to let everyone know that you are selling your property.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_for_rent_red",
+      "modelName": "real_estate_sign",
+      "name": "For Rent Sign (Red)",
+      "description": "The perfect sign to let everyone know that you are renting your property.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_for_rent_blue",
+      "modelName": "real_estate_sign",
+      "name": "For Rent Sign (Blue)",
+      "description": "The perfect sign to let everyone know that you are renting your property.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_sold_green",
+      "modelName": "real_estate_sign",
+      "name": "Sold Sign (Green)",
+      "description": "The perfect sign to let everyone know that your property has been sold.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_sold_red",
+      "modelName": "real_estate_sign",
+      "name": "Sold Sign (Red)",
+      "description": "The perfect sign to let everyone know that your property has been sold.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_sold2",
+      "modelName": "real_estate_sign",
+      "name": "For Sale Sign With Sold Sticker",
+      "description": "The perfect sign to let everyone know that your property has been sold.",
+      "extraMaterials": ["minecraft:dye:15:2","minecraft:dye:1:1","minecraft:dye:2:1"]
+    }
+  ],
+  "prefixFolders": "",
+  "packID": "iv_tpp",
+  "systemName": "real_estate_sign",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:stick:0:2","minecraft:paper:0:4"]
+  }
+}
