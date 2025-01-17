@@ -1,0 +1,50 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.75,
+    "height": 0.125,
+    "depth": 0.75
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "modelName": "ceramics_plate",
+      "name": "Ceramics Plate (Clay)",
+      "description": "A great handcrafted plate made from clay, ready to be fired for quality kitchenware.",
+      "extraMaterials": ["minecraft:clay_ball:0:4"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "modelName": "ceramics_plate",
+      "name": "Ceramics Plate (Terracotta)",
+      "description": "Great for serving your best meals!",
+      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_plate_uncooked:0:1"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "modelName": "ceramics_plate",
+      "name": "Ceramics Plate (White Terracotta)",
+      "description": "Great for serving your best meals!",
+      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_blue",
+      "modelName": "ceramics_plate",
+      "name": "Ceramics Plate (Terracotta With Blue Ornate)",
+      "description": "Great for serving your best meals!",
+      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_bare_white",
+      "modelName": "ceramics_plate",
+      "name": "Ceramics Plate (Glazed White)",
+      "description": "Great for serving your best meals!",
+      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+    }
+  ],
+  "general": {
+    "materials": [],
+    "stackSize": 64,
+    "oreDict": "tableware"
+  }
+}

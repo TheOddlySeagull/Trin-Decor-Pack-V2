@@ -1,0 +1,76 @@
+{
+  "generic": {
+    "type": "interactable_crate",
+    "canBePlacedOnGround": true,
+    "canBeRemovedByHand": true,
+    "width": 1.0,
+    "height": 0.875,
+    "mass": 15
+  },
+  "interactable": {
+    "interactionType": "crate",
+    "feedsVehicles": true,
+    "inventoryUnits": 2
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "modelName": "ceramics_krater",
+      "name": "Ceramics Krater (Clay)",
+      "description": "A great handcrafted krater made from clay, ready to be fired for quality kitchenware.",
+      "extraMaterials": ["minecraft:clay_ball:0:8"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "modelName": "ceramics_krater",
+      "name": "Ceramics Krater (Terracotta)",
+      "description": "Great for planting beautiful small trees and vegetation!",
+      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_krater_uncooked:0:1"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "modelName": "ceramics_krater",
+      "name": "Ceramics Krater (White Terracotta)",
+      "description": "Great for planting beautiful small trees and vegetation!",
+      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_krater_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_blue",
+      "modelName": "ceramics_krater",
+      "name": "Ceramics Krater (Terracotta With Blue Ornate)",
+      "description": "Great for planting beautiful small trees and vegetation!",
+      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_krater_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_bare_white",
+      "modelName": "ceramics_krater",
+      "name": "Ceramics Krater (Glazed White)",
+      "description": "Great for planting beautiful small trees and vegetation!",
+      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_krater_bare_terracotta:0:1"]
+    }
+  ],
+  "general": {
+    "materials": [],
+    "stackSize": 16,
+    "health": 20,
+    "oreDict": "tableware"
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "dirt_fill",
+        "animations": [
+          {
+            "animationType": "visibility",
+            "variable": "interactable_percent",
+            "clampMin": 0.00000001,
+            "clampMax": 1
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}

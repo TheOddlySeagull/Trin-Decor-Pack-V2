@@ -1,0 +1,50 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.5,
+    "height": 0.09375,
+    "depth": 0.5
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "modelName": "ceramics_saucer",
+      "name": "Ceramics Saucer (Clay)",
+      "description": "A great handcrafted saucer made from clay, ready to be fired for quality kitchenware.",
+      "extraMaterials": ["minecraft:clay_ball:0:2"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "modelName": "ceramics_saucer",
+      "name": "Ceramics Saucer (Terracotta)",
+      "description": "Great for serving tea or coffee, or for holding small pastries and snacks!",
+      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_saucer_uncooked:0:1"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "modelName": "ceramics_saucer",
+      "name": "Ceramics Saucer (White Terracotta)",
+      "description": "Great for serving tea or coffee, or for holding small pastries and snacks!",
+      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_saucer_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_blue",
+      "modelName": "ceramics_saucer",
+      "name": "Ceramics Saucer (Terracotta With Blue Ornate)",
+      "description": "Great for serving tea or coffee, or for holding small pastries and snacks!",
+      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_saucer_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_bare_white",
+      "modelName": "ceramics_saucer",
+      "name": "Ceramics Saucer (Glazed White)",
+      "description": "Great for serving tea or coffee, or for holding small pastries and snacks!",
+      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_saucer_bare_terracotta:0:1"]
+    }
+  ],
+  "general": {
+    "materials": [],
+    "stackSize": 64,
+    "oreDict": "tableware"
+  }
+}

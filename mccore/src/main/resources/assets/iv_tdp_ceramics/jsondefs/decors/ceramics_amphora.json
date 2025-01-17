@@ -1,0 +1,51 @@
+{
+  "decor": {
+    "type": "chest",
+    "width": 0.75,
+    "height": 1.1875,
+    "depth": 0.5,
+    "inventoryUnits": 1
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "modelName": "ceramics_amphora",
+      "name": "Ceramics Amphora (Clay)",
+      "description": "A great handcrafted amphora made from clay, ready to be fired for quality kitchenware.",
+      "extraMaterials": ["minecraft:clay_ball:0:8"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "modelName": "ceramics_amphora",
+      "name": "Ceramics Amphora (Terracotta)",
+      "description": "Great for aging and storing your best roman wines!",
+      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_amphora_uncooked:0:1"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "modelName": "ceramics_amphora",
+      "name": "Ceramics Amphora (White Terracotta)",
+      "description": "Great for aging and storing your best roman wines!",
+      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_amphora_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_blue",
+      "modelName": "ceramics_amphora",
+      "name": "Ceramics Amphora (Terracotta With Blue Ornate)",
+      "description": "Great for aging and storing your best roman wines!",
+      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_amphora_bare_terracotta:0:1"]
+    },
+    {
+      "subName": "_bare_white",
+      "modelName": "ceramics_amphora",
+      "name": "Ceramics Amphora (Glazed White)",
+      "description": "Great for aging and storing your best roman wines!",
+      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_amphora_bare_terracotta:0:1"]
+    }
+  ],
+  "general": {
+    "materials": [],
+    "stackSize": 16,
+    "oreDict": "tableware"
+  }
+}
