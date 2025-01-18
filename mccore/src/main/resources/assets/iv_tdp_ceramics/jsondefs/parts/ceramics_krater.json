@@ -7,6 +7,19 @@
     "height": 0.875,
     "mass": 15
   },
+  "parts": [
+    {
+      "pos": [0.0,0.78,0.0],
+      "allowParentRemoval": false,
+      "minValue": 0.0,
+      "maxValue": 40.0,
+      "types": [
+        "generic_pottable_vegetation"
+      ],
+      "animations": [],
+      "linkedParts": []
+    }
+  ],
   "interactable": {
     "interactionType": "crate",
     "feedsVehicles": true,
