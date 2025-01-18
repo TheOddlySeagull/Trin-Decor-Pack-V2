@@ -1,0 +1,36 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.25,
+    "height": 0.328125,
+    "depth": 0.25
+  },
+  "definitions": [
+    {
+      "subName": "_glassgray",
+      "name": "Wine Glass (Gray Glass)",
+      "extraMaterials": ["minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_glasswhite",
+      "name": "Wine Glass (White Glass)",
+      "extraMaterials": ["minecraft:dye:15:1"]
+    },
+    {
+      "subName": "_resinblue",
+      "name": "Wine Glass (Blue Resin)",
+      "extraMaterials": ["minecraft:dye:4:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_uraniumglass",
+      "name": "Wine Glass (Uranium Glass)",
+      "extraMaterials": ["minecraft:redstone:1", "minecraft:dye:10:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:glass_pane:0:1"],
+    "stackSize": 64,
+    "description": "A stylish wine glass, perfect for serving your favorite wine!",
+    "oreDict": "tableware"
+  }
+}
