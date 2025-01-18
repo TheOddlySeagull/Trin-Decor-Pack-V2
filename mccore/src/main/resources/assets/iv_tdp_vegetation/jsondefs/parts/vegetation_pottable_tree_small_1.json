@@ -1,0 +1,35 @@
+{
+  "generic": {
+    "type": "generic_pottable_vegetation",
+    "canBePlacedOnGround": true,
+    "canBeRemovedByHand": true,
+    "width": 0.739727,
+    "height": 1.55807,
+    "mass": 5
+  },
+  "definitions": [
+    {
+      "subName": "_1",
+      "modelName": "vegetation_pottable_tree_small_1",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    },
+    {
+      "subName": "_2",
+      "modelName": "vegetation_pottable_tree_small_1",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    },
+    {
+      "subName": "_3",
+      "modelName": "vegetation_pottable_tree_small_1",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    }
+  ],
+  "general": {
+    "materialLists": [["ore:treeSapling:1", "minecraft:dye:15:1"]],
+    "stackSize": 16,
+    "health": 20,
+    "oreDict": "plantPottable",
+    "name": "Pottable Small Tree",
+    "description": "A neat little tree that can be planted in a Trin pot, or placed in the world."
+  }
+}
