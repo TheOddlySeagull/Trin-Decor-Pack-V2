@@ -8,43 +8,147 @@
   "definitions": [
     {
       "subName": "_uncooked",
-      "modelName": "ceramics_plate",
       "name": "Ceramics Plate (Clay)",
-      "description": "A great handcrafted plate made from clay, ready to be fired for quality kitchenware.",
-      "extraMaterials": ["minecraft:clay_ball:0:4"]
+      "extraMaterials": ["minecraft:clay_ball:0:2"]
     },
     {
-      "subName": "_bare_terracotta",
-      "modelName": "ceramics_plate",
-      "name": "Ceramics Plate (Terracotta)",
-      "description": "Great for serving your best meals!",
-      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_plate_uncooked:0:1"]
+      "subName": "_bare_glazed_blue",
+      "name": "Ceramics Plate (Glazed Blue)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_glazed_green",
+      "name": "Ceramics Plate (Glazed Green)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_glazed_orange",
+      "name": "Ceramics Plate (Glazed Orange)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_glazed_white",
+      "name": "Ceramics Plate (Glazed White)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_glazed_yellow",
+      "name": "Ceramics Plate (Glazed Yellow)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:11:2"]
+    },
+
+    {
+      "subName": "_bare_terracotta_black",
+      "name": "Ceramics Plate (Black Terracotta)",
+      "extraMaterials": ["minecraft:dye:0:2"]
+    },
+    {
+      "subName": "_bare_terracotta_blue",
+      "name": "Ceramics Plate (Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_terracotta_brown",
+      "name": "Ceramics Plate (Brown Terracotta)",
+      "extraMaterials": ["minecraft:dye:3:2"]
+    },
+    {
+      "subName": "_bare_terracotta_cyan",
+      "name": "Ceramics Plate (Cyan Terracotta)",
+      "extraMaterials": ["minecraft:dye:6:2"]
+    },
+    {
+      "subName": "_bare_terracotta_gray",
+      "name": "Ceramics Plate (Gray Terracotta)",
+      "extraMaterials": ["minecraft:dye:8:2"]
+    },
+    {
+      "subName": "_bare_terracotta_green",
+      "name": "Ceramics Plate (Green Terracotta)",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_terracotta_light_blue",
+      "name": "Ceramics Plate (Light Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:12:2"]
+    },
+    {
+      "subName": "_bare_terracotta_lime",
+      "name": "Ceramics Plate (Lime Terracotta)",
+      "extraMaterials": ["minecraft:dye:10:2"]
+    },
+    {
+      "subName": "_bare_terracotta_magenta",
+      "name": "Ceramics Plate (Magenta Terracotta)",
+      "extraMaterials": ["minecraft:dye:13:2"]
+    },
+    {
+      "subName": "_bare_terracotta_orange",
+      "name": "Ceramics Plate (Orange Terracotta)",
+      "extraMaterials": ["minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_terracotta_pink",
+      "name": "Ceramics Plate (Pink Terracotta)",
+      "extraMaterials": ["minecraft:dye:9:2"]
+    },
+    {
+      "subName": "_bare_terracotta_purple",
+      "name": "Ceramics Plate (Purple Terraotta)",
+      "extraMaterials": ["minecraft:dye:5:2"]
+    },
+    {
+      "subName": "_bare_terracotta_red",
+      "name": "Ceramics Plate (Red Terracotta)",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_bare_terracotta_silver",
+      "name": "Ceramics Plate (Silver Terracotta)",
+      "extraMaterials": ["minecraft:dye:7:2"]
     },
     {
       "subName": "_bare_terracotta_white",
-      "modelName": "ceramics_plate",
       "name": "Ceramics Plate (White Terracotta)",
-      "description": "Great for serving your best meals!",
-      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+      "extraMaterials": ["minecraft:dye:15:2"]
     },
     {
-      "subName": "_ornate_terracotta_blue",
-      "modelName": "ceramics_plate",
-      "name": "Ceramics Plate (Terracotta With Blue Ornate)",
-      "description": "Great for serving your best meals!",
-      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+      "subName": "_bare_terracotta_yellow",
+      "name": "Ceramics Plate (Yellow Terracotta)",
+      "extraMaterials": ["minecraft:dye:11:2"]
     },
     {
-      "subName": "_bare_white",
-      "modelName": "ceramics_plate",
-      "name": "Ceramics Plate (Glazed White)",
-      "description": "Great for serving your best meals!",
-      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_plate_bare_terracotta:0:1"]
+      "subName": "_bare_terracotta",
+      "name": "Ceramics Plate (Terracotta)",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_ornate_gwhite_gblue",
+      "name": "Ceramics Plate (Glazed White With Glazed Blue Ornate)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2", "minecraft:dye:4:1"]
+    },
+    {
+      "subName": "_ornate_tblack_tgreen",
+      "name": "Ceramics Plate (Terracotta Black With Terracotta Yellow Ornate)",
+      "extraMaterials": ["minecraft:dye:0:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tblack",
+      "name": "Ceramics Plate (Terracotta With Terracotta Black Ornate)",
+      "extraMaterials": ["minecraft:dye:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tlightblue",
+      "name": "Ceramics Plate (Terracotta With Terracotta Light Blue Ornate)",
+      "extraMaterials": ["minecraft:dye:12:1"]
     }
   ],
   "general": {
-    "materials": [],
+    "materials": ["minecraft:brick:0:3"],
     "stackSize": 64,
-    "oreDict": "tableware"
+    "oreDict": "tableware",
+    "modelName": "ceramics_plate",
+    "name": "Ceramics Plate",
+    "description": "Great for serving your best meals!"
   }
 }

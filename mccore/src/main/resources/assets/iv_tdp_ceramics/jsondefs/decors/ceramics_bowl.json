@@ -8,43 +8,147 @@
   "definitions": [
     {
       "subName": "_uncooked",
-      "modelName": "ceramics_bowl",
       "name": "Ceramics Bowl (Clay)",
-      "description": "A great handcrafted bowl made from clay, ready to be fired for quality kitchenware.",
-      "extraMaterials": ["minecraft:clay_ball:0:3"]
+      "extraMaterials": ["minecraft:clay_ball:0:2"]
     },
     {
-      "subName": "_bare_terracotta",
-      "modelName": "ceramics_bowl",
-      "name": "Ceramics Bowl (Terracotta)",
-      "description": "Great for serving your best soups and stews!",
-      "extraMaterials": ["minecraft:fire_charge:0:1", "mts:iv_tdp_ceramics.ceramics_bowl_uncooked:0:1"]
+      "subName": "_bare_glazed_blue",
+      "name": "Ceramics Bowl (Glazed Blue)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_glazed_green",
+      "name": "Ceramics Bowl (Glazed Green)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_glazed_orange",
+      "name": "Ceramics Bowl (Glazed Orange)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_glazed_white",
+      "name": "Ceramics Bowl (Glazed White)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_glazed_yellow",
+      "name": "Ceramics Bowl (Glazed Yellow)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:11:2"]
+    },
+
+    {
+      "subName": "_bare_terracotta_black",
+      "name": "Ceramics Bowl (Black Terracotta)",
+      "extraMaterials": ["minecraft:dye:0:2"]
+    },
+    {
+      "subName": "_bare_terracotta_blue",
+      "name": "Ceramics Bowl (Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_terracotta_brown",
+      "name": "Ceramics Bowl (Brown Terracotta)",
+      "extraMaterials": ["minecraft:dye:3:2"]
+    },
+    {
+      "subName": "_bare_terracotta_cyan",
+      "name": "Ceramics Bowl (Cyan Terracotta)",
+      "extraMaterials": ["minecraft:dye:6:2"]
+    },
+    {
+      "subName": "_bare_terracotta_gray",
+      "name": "Ceramics Bowl (Gray Terracotta)",
+      "extraMaterials": ["minecraft:dye:8:2"]
+    },
+    {
+      "subName": "_bare_terracotta_green",
+      "name": "Ceramics Bowl (Green Terracotta)",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_terracotta_light_blue",
+      "name": "Ceramics Bowl (Light Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:12:2"]
+    },
+    {
+      "subName": "_bare_terracotta_lime",
+      "name": "Ceramics Bowl (Lime Terracotta)",
+      "extraMaterials": ["minecraft:dye:10:2"]
+    },
+    {
+      "subName": "_bare_terracotta_magenta",
+      "name": "Ceramics Bowl (Magenta Terracotta)",
+      "extraMaterials": ["minecraft:dye:13:2"]
+    },
+    {
+      "subName": "_bare_terracotta_orange",
+      "name": "Ceramics Bowl (Orange Terracotta)",
+      "extraMaterials": ["minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_terracotta_pink",
+      "name": "Ceramics Bowl (Pink Terracotta)",
+      "extraMaterials": ["minecraft:dye:9:2"]
+    },
+    {
+      "subName": "_bare_terracotta_purple",
+      "name": "Ceramics Bowl (Purple Terraotta)",
+      "extraMaterials": ["minecraft:dye:5:2"]
+    },
+    {
+      "subName": "_bare_terracotta_red",
+      "name": "Ceramics Bowl (Red Terracotta)",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_bare_terracotta_silver",
+      "name": "Ceramics Bowl (Silver Terracotta)",
+      "extraMaterials": ["minecraft:dye:7:2"]
     },
     {
       "subName": "_bare_terracotta_white",
-      "modelName": "ceramics_bowl",
       "name": "Ceramics Bowl (White Terracotta)",
-      "description": "Great for serving your best soups and stews!",
-      "extraMaterials": ["minecraft:dye:15:2", "mts:iv_tdp_ceramics.ceramics_bowl_bare_terracotta:0:1"]
+      "extraMaterials": ["minecraft:dye:15:2"]
     },
     {
-      "subName": "_ornate_terracotta_blue",
-      "modelName": "ceramics_bowl",
-      "name": "Ceramics Bowl (Terracotta With Blue Ornate)",
-      "description": "Great for serving your best soups and stews!",
-      "extraMaterials": ["minecraft:dye:12:1", "mts:iv_tdp_ceramics.ceramics_bowl_bare_terracotta:0:1"]
+      "subName": "_bare_terracotta_yellow",
+      "name": "Ceramics Bowl (Yellow Terracotta)",
+      "extraMaterials": ["minecraft:dye:11:2"]
     },
     {
-      "subName": "_bare_white",
-      "modelName": "ceramics_bowl",
-      "name": "Ceramics Bowl (Glazed White)",
-      "description": "Great for serving your best soups and stews!",
-      "extraMaterials": ["minecraft:quartz:0:1", "mts:iv_tdp_ceramics.ceramics_bowl_bare_terracotta:0:1"]
+      "subName": "_bare_terracotta",
+      "name": "Ceramics Bowl (Terracotta)",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_ornate_gwhite_gblue",
+      "name": "Ceramics Bowl (Glazed White With Glazed Blue Ornate)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2", "minecraft:dye:4:1"]
+    },
+    {
+      "subName": "_ornate_tblack_tgreen",
+      "name": "Ceramics Bowl (Terracotta Black With Terracotta Yellow Ornate)",
+      "extraMaterials": ["minecraft:dye:0:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tblack",
+      "name": "Ceramics Bowl (Terracotta With Terracotta Black Ornate)",
+      "extraMaterials": ["minecraft:dye:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tlightblue",
+      "name": "Ceramics Bowl (Terracotta With Terracotta Light Blue Ornate)",
+      "extraMaterials": ["minecraft:dye:12:1"]
     }
   ],
   "general": {
-    "materials": [],
+    "materials": ["minecraft:brick:0:3"],
     "stackSize": 64,
-    "oreDict": "tableware"
+    "oreDict": "tableware",
+    "modelName": "ceramics_bowl",
+    "name": "Ceramics Bowl",
+    "description": "Great for serving your best soups and stews!"
   }
 }
