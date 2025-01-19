@@ -1,0 +1,57 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.875,
+    "height": 0.125,
+    "depth": 0.875
+  },
+  "definitions": [
+    {
+      "subName": "_glassgray",
+      "name": "Glass Platter (Gray Glass)",
+      "extraMaterials": ["minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_glasswhite",
+      "name": "Glass Platter (White Glass)",
+      "extraMaterials": ["minecraft:dye:15:1"]
+    },
+    {
+      "subName": "_resinblue",
+      "name": "Glass Platter (Blue Resin)",
+      "extraMaterials": ["minecraft:dye:4:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resingray",
+      "name": "Glass Platter (Gray Resin)",
+      "extraMaterials": ["minecraft:dye:8:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resingreen",
+      "name": "Glass Platter (Green Resin)",
+      "extraMaterials": ["minecraft:dye:2:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resinred",
+      "name": "Glass Platter (Red Resin)",
+      "extraMaterials": ["minecraft:dye:1:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resinyellow",
+      "name": "Glass Platter (Gold Resin)",
+      "extraMaterials": ["minecraft:dye:11:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_uraniumglass",
+      "name": "Glass Platter (Uranium Glass)",
+      "extraMaterials": ["minecraft:redstone:1", "minecraft:dye:10:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:glass_pane:0:1"],
+    "stackSize": 64,
+    "description": "Great for displaying, arranging and serving your delicious food!",
+    "oreDict": "tableware",
+    "modelName": "ceramics_platter"
+  }
+}
