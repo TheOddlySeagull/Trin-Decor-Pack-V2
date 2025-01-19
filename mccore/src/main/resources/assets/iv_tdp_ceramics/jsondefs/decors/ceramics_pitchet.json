@@ -129,8 +129,13 @@
     },
     {
       "subName": "_ornate_tblack_tgreen",
-      "name": "Ceramics Pitchet (Terracotta Black With Terracotta Yellow Ornate)",
+      "name": "Ceramics Pitchet (Terracotta Black With Terracotta Green Ornate)",
       "extraMaterials": ["minecraft:dye:0:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_tblue_tyellow",
+      "name": "Ceramics Pitchet (Terracotta Blue With Terracotta Yellow Ornate)",
+      "extraMaterials": ["minecraft:dye:4:2", "minecraft:dye:11:1"]
     },
     {
       "subName": "_ornate_terracotta_tblack",
