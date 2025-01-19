@@ -1,7 +1,7 @@
 # Blender v2.79 (sub 0) OBJ File: ''
 # www.blender.org
 mtllib ceramics_platter.mtl
-o ceramics_platter
+o ceramics_platter_translucent
 v -0.250000 0.062500 0.250000
 v 0.250000 0.062500 0.250000
 v 0.250000 0.062500 -0.250000
