@@ -22,6 +22,26 @@
       "extraMaterials": ["minecraft:dye:4:1", "minecraft:dye:7:1"]
     },
     {
+      "subName": "_resingray",
+      "name": "Wine Glass (Gray Resin)",
+      "extraMaterials": ["minecraft:dye:8:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resingreen",
+      "name": "Wine Glass (Green Resin)",
+      "extraMaterials": ["minecraft:dye:2:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resinred",
+      "name": "Wine Glass (Red Resin)",
+      "extraMaterials": ["minecraft:dye:1:1", "minecraft:dye:7:1"]
+    },
+    {
+      "subName": "_resinyellow",
+      "name": "Wine Glass (Gold Resin)",
+      "extraMaterials": ["minecraft:dye:11:1", "minecraft:dye:7:1"]
+    },
+    {
       "subName": "_uraniumglass",
       "name": "Wine Glass (Uranium Glass)",
       "extraMaterials": ["minecraft:redstone:1", "minecraft:dye:10:1"]
