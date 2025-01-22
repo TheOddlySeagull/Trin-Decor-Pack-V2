@@ -1,0 +1,33 @@
+{
+  "generic": {
+    "type": "generic_pottable_vegetation",
+    "canBePlacedOnGround": true,
+    "canBeRemovedByHand": true,
+    "width": 1.0,
+    "height": 1.07545,
+    "mass": 5
+  },
+  "definitions": [
+    {
+      "subName": "_1",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    },
+    {
+      "subName": "_2",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    },
+    {
+      "subName": "_3",
+      "extraMaterials": ["minecraft:dye:15:3"]
+    }
+  ],
+  "general": {
+    "materialLists": [["ore:treeSapling:1", "minecraft:dye:15:1"]],
+    "stackSize": 16,
+    "health": 20,
+    "oreDict": "plantPottable",
+    "modelName": "vegetation_pottable_palm_fan_small_1",
+    "name": "Pottable Small Fan Palm",
+    "description": "A neat little tree that can be planted in a Trin pot, or placed in the world."
+  }
+}
