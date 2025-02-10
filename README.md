@@ -1,5 +1,16 @@
 # Trin Decor Pack Changelogs
 
+## Trin Decor Pack 2.1.0 (Tableware & pottery Update) changelog:
+
+### Main Additions:
+- Introduced hundreds of new tableware decors
+- Intorduced many new glassware decors
+- Introduced many new pottery decors
+- Introduced many new pottery parts that work like crates
+- Introduced new vegetation that can be poted in pottery (parts) or placed in world
+
+---
+
 ## Trin Decor Pack 2.0.0 changelog:
 
 ### Main Additions:
