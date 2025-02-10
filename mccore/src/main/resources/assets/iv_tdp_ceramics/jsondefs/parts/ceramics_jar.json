@@ -1,0 +1,198 @@
+{
+  "generic": {
+    "type": "interactable_crate",
+    "canBePlacedOnGround": true,
+    "canBeRemovedByHand": true,
+    "width": 0.5,
+    "height": 0.75,
+    "mass": 10
+  },
+  "parts": [
+    {
+      "pos": [0.0,0.593756,0.0],
+      "allowParentRemoval": false,
+      "minValue": 0.0,
+      "maxValue": 40.0,
+      "types": [
+        "generic_pottable_vegetation"
+      ],
+      "animations": [],
+      "linkedParts": []
+    }
+  ],
+  "interactable": {
+    "interactionType": "crate",
+    "feedsVehicles": true,
+    "inventoryUnits": 1
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "name": "Ceramics Jar (Clay)",
+      "extraMaterials": ["minecraft:clay_ball:0:2"]
+    },
+    {
+      "subName": "_bare_glazed_blue",
+      "name": "Ceramics Jar (Glazed Blue)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_glazed_green",
+      "name": "Ceramics Jar (Glazed Green)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_glazed_orange",
+      "name": "Ceramics Jar (Glazed Orange)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_glazed_white",
+      "name": "Ceramics Jar (Glazed White)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_glazed_yellow",
+      "name": "Ceramics Jar (Glazed Yellow)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:11:2"]
+    },
+
+    {
+      "subName": "_bare_terracotta_black",
+      "name": "Ceramics Jar (Black Terracotta)",
+      "extraMaterials": ["minecraft:dye:0:2"]
+    },
+    {
+      "subName": "_bare_terracotta_blue",
+      "name": "Ceramics Jar (Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_terracotta_brown",
+      "name": "Ceramics Jar (Brown Terracotta)",
+      "extraMaterials": ["minecraft:dye:3:2"]
+    },
+    {
+      "subName": "_bare_terracotta_cyan",
+      "name": "Ceramics Jar (Cyan Terracotta)",
+      "extraMaterials": ["minecraft:dye:6:2"]
+    },
+    {
+      "subName": "_bare_terracotta_gray",
+      "name": "Ceramics Jar (Gray Terracotta)",
+      "extraMaterials": ["minecraft:dye:8:2"]
+    },
+    {
+      "subName": "_bare_terracotta_green",
+      "name": "Ceramics Jar (Green Terracotta)",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_terracotta_light_blue",
+      "name": "Ceramics Jar (Light Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:12:2"]
+    },
+    {
+      "subName": "_bare_terracotta_lime",
+      "name": "Ceramics Jar (Lime Terracotta)",
+      "extraMaterials": ["minecraft:dye:10:2"]
+    },
+    {
+      "subName": "_bare_terracotta_magenta",
+      "name": "Ceramics Jar (Magenta Terracotta)",
+      "extraMaterials": ["minecraft:dye:13:2"]
+    },
+    {
+      "subName": "_bare_terracotta_orange",
+      "name": "Ceramics Jar (Orange Terracotta)",
+      "extraMaterials": ["minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_terracotta_pink",
+      "name": "Ceramics Jar (Pink Terracotta)",
+      "extraMaterials": ["minecraft:dye:9:2"]
+    },
+    {
+      "subName": "_bare_terracotta_purple",
+      "name": "Ceramics Jar (Purple Terraotta)",
+      "extraMaterials": ["minecraft:dye:5:2"]
+    },
+    {
+      "subName": "_bare_terracotta_red",
+      "name": "Ceramics Jar (Red Terracotta)",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_bare_terracotta_silver",
+      "name": "Ceramics Jar (Silver Terracotta)",
+      "extraMaterials": ["minecraft:dye:7:2"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "name": "Ceramics Jar (White Terracotta)",
+      "extraMaterials": ["minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_terracotta_yellow",
+      "name": "Ceramics Jar (Yellow Terracotta)",
+      "extraMaterials": ["minecraft:dye:11:2"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "name": "Ceramics Jar (Terracotta)",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_ornate_gwhite_gblue",
+      "name": "Ceramics Jar (Glazed White With Glazed Blue Ornate)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2", "minecraft:dye:4:1"]
+    },
+    {
+      "subName": "_ornate_tblack_tgreen",
+      "name": "Ceramics Jar (Terracotta Black With Terracotta Green Ornate)",
+      "extraMaterials": ["minecraft:dye:0:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_tblue_tyellow",
+      "name": "Ceramics Jar (Terracotta Blue With Terracotta Yellow Ornate)",
+      "extraMaterials": ["minecraft:dye:4:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tblack",
+      "name": "Ceramics Jar (Terracotta With Terracotta Black Ornate)",
+      "extraMaterials": ["minecraft:dye:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tlightblue",
+      "name": "Ceramics Jar (Terracotta With Terracotta Light Blue Ornate)",
+      "extraMaterials": ["minecraft:dye:12:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:brick:0:16"],
+    "stackSize": 16,
+    "health": 20,
+    "oreDict": "tableware",
+    "modelName": "ceramics_jar",
+    "name": "Ceramics Jar",
+    "description": "Great for storing or presenting your favorite drinks or foods. May also be used as a planter!"
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "dirt_fill",
+        "animations": [
+          {
+            "animationType": "visibility",
+            "variable": "interactable_percent",
+            "clampMin": 0.00000001,
+            "clampMax": 1
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}

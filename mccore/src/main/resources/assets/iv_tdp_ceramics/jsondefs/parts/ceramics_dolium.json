@@ -1,0 +1,198 @@
+{
+  "generic": {
+    "type": "interactable_crate",
+    "canBePlacedOnGround": true,
+    "canBeRemovedByHand": true,
+    "width": 1.75,
+    "height": 1.625,
+    "mass": 30
+  },
+  "parts": [
+    {
+      "pos": [0.0,1.50002,0.0],
+      "allowParentRemoval": false,
+      "minValue": 0.0,
+      "maxValue": 40.0,
+      "types": [
+        "generic_pottable_vegetation"
+      ],
+      "animations": [],
+      "linkedParts": []
+    }
+  ],
+  "interactable": {
+    "interactionType": "crate",
+    "feedsVehicles": true,
+    "inventoryUnits": 6
+  },
+  "definitions": [
+    {
+      "subName": "_uncooked",
+      "name": "Ceramics Dolium (Clay)",
+      "extraMaterials": ["minecraft:clay_ball:0:2"]
+    },
+    {
+      "subName": "_bare_glazed_blue",
+      "name": "Ceramics Dolium (Glazed Blue)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_glazed_green",
+      "name": "Ceramics Dolium (Glazed Green)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_glazed_orange",
+      "name": "Ceramics Dolium (Glazed Orange)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_glazed_white",
+      "name": "Ceramics Dolium (Glazed White)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_glazed_yellow",
+      "name": "Ceramics Dolium (Glazed Yellow)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:11:2"]
+    },
+
+    {
+      "subName": "_bare_terracotta_black",
+      "name": "Ceramics Dolium (Black Terracotta)",
+      "extraMaterials": ["minecraft:dye:0:2"]
+    },
+    {
+      "subName": "_bare_terracotta_blue",
+      "name": "Ceramics Dolium (Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:4:2"]
+    },
+    {
+      "subName": "_bare_terracotta_brown",
+      "name": "Ceramics Dolium (Brown Terracotta)",
+      "extraMaterials": ["minecraft:dye:3:2"]
+    },
+    {
+      "subName": "_bare_terracotta_cyan",
+      "name": "Ceramics Dolium (Cyan Terracotta)",
+      "extraMaterials": ["minecraft:dye:6:2"]
+    },
+    {
+      "subName": "_bare_terracotta_gray",
+      "name": "Ceramics Dolium (Gray Terracotta)",
+      "extraMaterials": ["minecraft:dye:8:2"]
+    },
+    {
+      "subName": "_bare_terracotta_green",
+      "name": "Ceramics Dolium (Green Terracotta)",
+      "extraMaterials": ["minecraft:dye:2:2"]
+    },
+    {
+      "subName": "_bare_terracotta_light_blue",
+      "name": "Ceramics Dolium (Light Blue Terracotta)",
+      "extraMaterials": ["minecraft:dye:12:2"]
+    },
+    {
+      "subName": "_bare_terracotta_lime",
+      "name": "Ceramics Dolium (Lime Terracotta)",
+      "extraMaterials": ["minecraft:dye:10:2"]
+    },
+    {
+      "subName": "_bare_terracotta_magenta",
+      "name": "Ceramics Dolium (Magenta Terracotta)",
+      "extraMaterials": ["minecraft:dye:13:2"]
+    },
+    {
+      "subName": "_bare_terracotta_orange",
+      "name": "Ceramics Dolium (Orange Terracotta)",
+      "extraMaterials": ["minecraft:dye:14:2"]
+    },
+    {
+      "subName": "_bare_terracotta_pink",
+      "name": "Ceramics Dolium (Pink Terracotta)",
+      "extraMaterials": ["minecraft:dye:9:2"]
+    },
+    {
+      "subName": "_bare_terracotta_purple",
+      "name": "Ceramics Dolium (Purple Terraotta)",
+      "extraMaterials": ["minecraft:dye:5:2"]
+    },
+    {
+      "subName": "_bare_terracotta_red",
+      "name": "Ceramics Dolium (Red Terracotta)",
+      "extraMaterials": ["minecraft:dye:1:2"]
+    },
+    {
+      "subName": "_bare_terracotta_silver",
+      "name": "Ceramics Dolium (Silver Terracotta)",
+      "extraMaterials": ["minecraft:dye:7:2"]
+    },
+    {
+      "subName": "_bare_terracotta_white",
+      "name": "Ceramics Dolium (White Terracotta)",
+      "extraMaterials": ["minecraft:dye:15:2"]
+    },
+    {
+      "subName": "_bare_terracotta_yellow",
+      "name": "Ceramics Dolium (Yellow Terracotta)",
+      "extraMaterials": ["minecraft:dye:11:2"]
+    },
+    {
+      "subName": "_bare_terracotta",
+      "name": "Ceramics Dolium (Terracotta)",
+      "extraMaterials": []
+    },
+    {
+      "subName": "_ornate_gwhite_gblue",
+      "name": "Ceramics Dolium (Glazed White With Glazed Blue Ornate)",
+      "extraMaterials": ["minecraft:quartz:0:1", "minecraft:dye:15:2", "minecraft:dye:4:1"]
+    },
+    {
+      "subName": "_ornate_tblack_tgreen",
+      "name": "Ceramics Dolium (Terracotta Black With Terracotta Green Ornate)",
+      "extraMaterials": ["minecraft:dye:0:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_tblue_tyellow",
+      "name": "Ceramics Dolium (Terracotta Blue With Terracotta Yellow Ornate)",
+      "extraMaterials": ["minecraft:dye:4:2", "minecraft:dye:11:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tblack",
+      "name": "Ceramics Dolium (Terracotta With Terracotta Black Ornate)",
+      "extraMaterials": ["minecraft:dye:0:1"]
+    },
+    {
+      "subName": "_ornate_terracotta_tlightblue",
+      "name": "Ceramics Dolium (Terracotta With Terracotta Light Blue Ornate)",
+      "extraMaterials": ["minecraft:dye:12:1"]
+    }
+  ],
+  "general": {
+    "materials": ["minecraft:brick:0:16"],
+    "stackSize": 16,
+    "health": 20,
+    "oreDict": "tableware",
+    "modelName": "ceramics_dolium",
+    "name": "Ceramics Dolium",
+    "description": "Great for storing and fermenting large quantities of your favorite brews, oils, or solids. Car also be used as a planter!"
+  },
+  "rendering": {
+    "animatedObjects": [
+      {
+        "objectName": "dirt_fill",
+        "animations": [
+          {
+            "animationType": "visibility",
+            "variable": "interactable_percent",
+            "clampMin": 0.00000001,
+            "clampMax": 1
+          }
+        ]
+      }
+    ],
+    "lightObjects": [],
+    "sounds": [],
+    "modelType": "obj"
+  }
+}
