@@ -1,5 +1,14 @@
 # Trin Decor Pack Changelogs
 
+## Trin Decor Pack 2.2.0 changelog:
+
+### Main Additions:
+- Introduced a Taxi station sign
+
+---
+
+# Trin Decor Pack Changelogs
+
 ## Trin Decor Pack 2.1.0 (Tableware & pottery Update) changelog:
 
 ### Main Additions:

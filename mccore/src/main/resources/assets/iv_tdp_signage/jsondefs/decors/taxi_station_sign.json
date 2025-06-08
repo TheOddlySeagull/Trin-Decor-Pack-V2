@@ -1,0 +1,28 @@
+{
+  "decor": {
+    "type": "generic",
+    "width": 0.625,
+    "height": 2.0,
+    "depth": 0.625,
+    "lightLevel": 1
+  },
+  "definitions": [
+    {
+      "subName": "",
+      "modelName": "taxi_station_sign",
+      "name": "Taxi Station Sign",
+      "extraMaterials": ["minecraft:dye:11:4","minecraft:dye:0:4","minecraft:dye:15:8"]
+    },
+    {
+      "subName": "_gramados",
+      "modelName": "taxi_station_sign",
+      "name": "Taxi Station Sign (Gramados)",
+      "extraMaterials": ["minecraft:dye:14:4","minecraft:dye:6:4","minecraft:dye:8:8"]
+    }
+  ],
+  "systemName": "taxi_station_sign",
+  "classification": "decor",
+  "general": {
+    "materials": ["minecraft:glowstone_dust:0:1","minecraft:redstone:0:1","minecraft:iron_ingot:0:10"]
+  }
+}
