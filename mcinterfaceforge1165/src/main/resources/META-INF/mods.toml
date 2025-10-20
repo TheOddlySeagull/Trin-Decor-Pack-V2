@@ -1,0 +1,154 @@
+# File required to load packs as Forge mods.
+# Find more information on toml format v0.5.0 here:  https://github.com/toml-lang/toml
+
+# Forge settings, don't touch!
+modLoader="javafml"
+loaderVersion="[36,)"
+
+# The license for your pack. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="All rights reserved"
+
+[[mods]]
+modId="iv_tdp"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_ceramics"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_circuit"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_food"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_furniture"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_misc"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_modubar"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_modubar_fillers"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_signage"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_technology"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_urban"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
+
+[[mods]]
+modId="iv_tdp_vegetation"
+version="2.2.0"
+displayName="Immersive Vehicles (MTS/IV) - Trin Decor Pack"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/immersive-vehicles-trin-decor-pack"
+logoFile="vingette.png"
+authors="TheOddlySeagull"
+credits=""
+description='''
+The Trims Of Freedom
+'''
