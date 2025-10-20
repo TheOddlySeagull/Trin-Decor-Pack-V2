@@ -7,7 +7,7 @@ Immersive Vehicles (MTS/IV) content pack adding decor items, furniture, signage,
 </div>
 
 [![Discord](https://img.shields.io/badge/Discord-join-7289DA?logo=discord&logoColor=white)](https://discord.gg/ujQR3wf)
-[![Build Status](https://github.com/TheOddlySeagull/Trin-Decor-Pack/actions/workflows/build.yml/badge.svg)](https://github.com/TheOddlySeagull/Trin-Decor-Pack/actions/workflows/build.yml)
+[![Build Status](https://github.com/TheOddlySeagull/Trin-Decor-Pack-V2/actions/workflows/build.yml/badge.svg)](https://github.com/TheOddlySeagull/Trin-Decor-Pack/actions/workflows/build.yml)
 
 ## Overview
 
