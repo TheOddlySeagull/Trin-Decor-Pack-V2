@@ -1,43 +1,59 @@
-# Trin Decor Pack Changelogs
+<div align="center">
 
-## Trin Decor Pack 2.2.0 changelog:
+# Trin Decor Pack — Props, Furniture, Signs
 
-### Main Additions:
-- Introduced a Taxi station sign
+Immersive Vehicles (MTS/IV) content pack adding decor items, furniture, signage, and world props to build detailed environments.
 
----
+</div>
 
-# Trin Decor Pack Changelogs
+## Overview
 
-## Trin Decor Pack 2.1.0 (Tableware & pottery Update) changelog:
+The Decor Pack delivers hundreds of decorative items and modular elements for supermarkets, bars, workshops, and more. Some items include light effects, storage, seats, and simple animations.
 
-### Main Additions:
-- Introduced hundreds of new tableware decors
-- Intorduced many new glassware decors
-- Introduced many new pottery decors
-- Introduced many new pottery parts that work like crates
-- Introduced new vegetation that can be poted in pottery (parts) or placed in world
+## Download
 
----
+- GitHub Actions artifacts: each CI run uploads JARs for 1.12.2 and 1.16.5.
+- Releases: push a tag (e.g., `v2.2.0`) to trigger a release with attached JARs.
 
-## Trin Decor Pack 2.0.0 changelog:
+## Requirements
 
-### Main Additions:
-- Introduced hundreds of modular elements for assembling supermarkets, bars, and more
-- Introduced many crafting elements
-- Introduced an extra junkyard car
-- Introduced many fillers to make your shop look stocked
-- Introduced several decorations like beer packs
+- Minecraft with Immersive Vehicles (MTS/IV)
+- Trin Part Pack recommended for complementary parts
 
-### Additions:
-- Added light effect on lamp decors
-- Added animations and storage functinnality to many decors
-- Added seat functionnality to chair decors
+## Installation (Players)
 
-### Updates:
-- Updated hitboxes on every decors
+1. Install Immersive Vehicles (MTS/IV).
+2. Download this pack’s JAR for your MC version.
+3. Place it into your `mods` folder.
+4. Launch the game.
 
-### WARNINGS:
-**There has been a massive reorganisation of item IDs and inventory categories. This means that all decors from last version will be lost. It is heavily recommended to run both versions in parallel to replace your old decors with the new ones.**
+## Building (Developers)
+
+Prereqs:
+- JDK 8
+- Git and Gradle wrapper (included)
+
+Quick build:
+- Windows: `gradlew.bat buildForge1122 && gradlew.bat buildForge1165`
+- Linux/macOS: `./gradlew buildForge1122 && ./gradlew buildForge1165`
+
+Artifacts appear under `out/`.
+
+CI:
+- GitHub Actions builds on push/PR, uploads artifacts, and publishes releases on tags.
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for version history and warnings.
+
+## License & Credits
+
+- Content and branding © TheOddlySeagull and contributors. All rights reserved unless otherwise stated.
+- Immersive Vehicles by its respective authors.
+
+## Community
+
+- Discord: https://discord.gg/ujQR3wf
+- Issues: Use this repo’s Issues for bugs and feature requests.
 
 ---
